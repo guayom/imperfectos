@@ -6,6 +6,7 @@ categories: blog
 img: navidad.jpg
 thumb: navidad-th.jpg
 excerpt_separator: <!--more-->
+extraclass: sp-single
 ---
 Aquí está de nuevo la navidad. Y como cada año, comienza una época mezclada de fiestas y reflexiones. Ambas cosas son bienvenidas, hay que saber disfrutar y hay que tomar el tiempo para honrar el origen de esta festividad. <!--more-->
 

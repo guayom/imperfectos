@@ -4,9 +4,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}" />
+
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.title }}{% endif %}">
+  <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta itemprop="image" content="{{ site.url }}/images/{{ page.img }}">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:site" content="@yahvista">
+  <meta name="twitter:title" content="Imperfectos.org">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:creator" content="@yahvista">
+  <meta name="twitter:image" content="{{ site.url }}/images/{{ page.img }}">
 
   <!--Facebook MetaData -->
-  <!-- Facebook Tags -->
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />

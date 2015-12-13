@@ -6,6 +6,7 @@ categories: blog
 img: header.jpg
 thumb: header-th.jpg
 excerpt_separator: <!--more-->
+extraclass: sp-single
 ---
 El miedo a ser imperfecto. El miedo a fallar. El miedo a no dar en el blanco. Miedo a intentarlo y no ver resultados. Todos tememos a la imperfección. El temor a hablar mal, a bailar mal, a escribir mal, el temor a no ser un buen padre, una buena madre, un buen hijo, un buen estudiante, un buen profesional. En el fondo a lo que tememos es al rechazo, a no ser amados, a la soledad. <!--more-->
 

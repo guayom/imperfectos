@@ -26,11 +26,3 @@ header_img: header.jpg
 # Build settings
 markdown: kramdown
 
-#assets pipeline
-asset_pipeline:
-  bundle: true
-  compress: true
-  output_path: assets
-  display_path: nil
-  gzip: false
-

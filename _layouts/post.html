@@ -64,10 +64,36 @@ extraclass: sp-single
 	          <a class="twitter popup" href="http://twitter.com/share?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" target="_blank" title="Comprtir en Twitter" rel="nofollow"><i class="fa fa-twitter"></i> Twitter</a>
 	          <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Facebook"><i class="fa fa-facebook"></i> Facebook</a>
 	          <a class="g-plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus"></i> Google Plus</a>
-	          <a class="mail" href="mailto:?subject={{ page.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ page.url }}"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject={{ page.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{site.url }}{{ page.url }}"><i class="fa fa-envelope-o"></i> Email</a>
+	        </div>
+
+	        <div>
+	        	<hr/>
+	        	<span>Dejá tu comentario</span>
+	        	<div id="disqus_thread"></div>
+				<script>
+				/**
+				* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+				* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+				*/
+				/*
+				var disqus_config = function () {
+				this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+				this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+				};
+				*/
+				(function() { // DON'T EDIT BELOW THIS LINE
+				var d = document, s = d.createElement('script');
+
+				s.src = '//imperfectos.disqus.com/embed.js';
+
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+				})();
+				</script>
+				<noscript>Por favor, habilita JavaScript para ver los<a href="https://disqus.com/?ref_noscript" rel="nofollow">comentarios de Disqus.</a></noscript>
 	        </div>
 	      </footer>
-	  		
 	    </div>
 	  </div>
 	</div>
