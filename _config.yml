@@ -1,0 +1,36 @@
+# Site settings
+title: Imperfectos.org
+email: info@imperfectos.org
+description: "La palabra PERFECTO significa que ya está completo. Nosotros somos IMPERFECTOS porque aún no hemos acabado, vamos por más. Este es el espacio de las buenas ideas para la gente imperfecta. Blog, libros, podcast, ideas, cursos y charlas sobre liderazgo, espiritualidad, superación y cotidianidad."
+slogan: Buenas ideas<br/> para la gente imperfecta
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: ""
+url: "http://imperfectos.org" # the base hostname & protocol for your site
+
+#Redes Sociales
+redes:
+ - nombre: facebook
+   url: https://www.facebook.com/jose.chacona
+ - nombre: twitter
+   url: https://twitter.com/yahvista
+
+twitter_username: yahvista
+facebook_username: jose.chacona
+
+#About Me
+aboutme: Una breve descripción mía
+
+#Header Image
+header_img: header.jpg
+
+# Build settings
+markdown: kramdown
+
+#assets pipeline
+asset_pipeline:
+  bundle: true
+  compress: true
+  output_path: assets
+  display_path: nil
+  gzip: false
+

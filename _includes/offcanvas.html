@@ -1,0 +1,62 @@
+<!--//Off Canvas//-->
+<aside class="sp-off-canvas">
+  <div class="sp-off-canvas-inner">
+    <!--//Header//-->
+    <header class="sp-header">
+      <button class="sp-close-btn"><i class="sp-icon fa fa-close"></i></button>
+      <img src="{{ site.url }}/images/off-canvas-head.jpg" alt="">
+      <div class="sp-text">
+        <h2 class="sp-brand"><a href="index.html">Bienvenido a Imperfectos.org</a></h2>
+        <p class="sp-tagline">{{ site.slogan }}</p>
+      </div>
+    </header> <!--//End Header-->
+
+    <!--//Search//-->
+    <!--
+    <div class="sp-widget">
+      <form class="sp-search">
+        <input type="search" placeholder="Search">
+        <button class="sp-search-btn" type="submit"><i class="fa fa-search"></i></button>
+      </form>
+    </div> 
+    -->
+    <!--//End Search-->
+
+    <!--//Menu//-->
+    <div class="sp-widget sp-menu">
+      <ul class="sp-nav">
+        <li><a href="{{ site.url }}/index.html">Inicio</a></li>
+        <li><a href="{{ site.url }}/contacto.html">Contacto</a></li>
+      </ul>
+    </div> <!--//End Menu-->
+
+    <!--// Post Widget //-->
+    <div class="sp-widget sp-post-widget">
+      <h4 class="sp-widget-title">Entradas Recientes</h4>
+
+      <ul>
+        {% for post in site.posts limit:3 %}
+        <li>
+          <a href="{{ post.url }}">
+            <figure class="sp-thumb-container"><img alt="" src="{{ site.url }}/images/{{ post.thumb }}"></figure>
+            <div class="sp-desc">
+              <h4 class="sp-title">{{ post.title }}</h4>
+              <span class="sp-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            </div>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div> <!-- //Post Widget -->
+
+    <!--//Categories//-->
+    <!--// Recent Comments //-->
+    <!--// Tags //-->
+
+
+    <div class="sp-misc">
+      <a class="sp-top" href="#top"><i class="fa fa-long-arrow-up"></i> Volver arriba</a>
+    </div>
+
+  </div>
+</aside> <!--//End Off Canvas-->

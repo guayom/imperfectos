@@ -1,0 +1,93 @@
+---
+layout: default
+extraclass: sp-single
+---
+<!--//Post//-->
+<div class="sp-post">
+	<figure class="sp-thumb-container">
+	  <img src="{{ site.url }}/images/{{ page.img }}" alt="">
+	</figure>
+
+	<div class="sp-post-content">
+	  <!--//Navigation//-->
+	  <!--
+	  <div class="sp-post-navigation">
+	    <a class="sp-prev" href="#">
+	      <span class="sp-icon"><i class="fa fa-chevron-left"></i></span>
+	      <img class="sp-img" src="{{ site.url }}/images/{{ page.img }}" alt="">
+	      <h4 class="sp-title">A Road Trip Through the Heart of Russia</h4>
+	    </a>
+	    <a class="sp-next" href="#">
+	      <span class="sp-icon"><i class="fa fa-chevron-right"></i></span>
+	      <img class="sp-img" src="{{ site.url }}/images/title-img03.jpg" alt="">
+	      <h4 class="sp-title">Learn to Surf Peninsula, Costa Rica.</h4>
+	    </a>
+	  </div>
+	--><!--//End Navigation-->
+
+	  <div class="sp-container">
+	    <div class="sp-post-desc">
+	      <header class="sp-post-header">
+	        <div class="sp-meta"><span><a href="#">{{ page.category }}</a></span> <span><a href="#">{{ page.date | date: "%b %-d, %Y" }}</a></span></div>
+	        <h2 class="sp-post-title">{{ page.title }}</h2>
+	      </header>
+
+	      <div class="sp-entry-content">
+	        <div class="sp-author-info">
+	          <div class="sp-info-header clearfix">
+	            <img class="sp-avatar" src="{{ site.url }}/images/jose-thumb.jpg" alt="">
+	            <div class="sp-name"><a href="author.html"><span>Escrito por:</span> Jose Chacón</a></div>
+	          </div>
+	          <hr class="sp-separator">
+	          <div class="sp-desc">
+	            <p>Conferencista imperfecto, mis temas favoritos son el emprendimiento, la superación y la espiritualidad.</p>
+	            <ul class="sp-social-link">
+            		{% for red in site.redes %}
+		                <li><a class="{{ red.nombre }}" href="{{ red.url }}"><i class="fa fa-{{ red.nombre }}"></i></a></li>
+		            {% endfor %}
+	            </ul>
+	            <hr class="sp-separator">
+	          </div>
+	        </div>
+
+	        {{ content }}
+	      </div>
+	      
+	      <footer class="sp-post-footer">
+	      	<!--
+	        <p><span>Tagged with:</span> <a href="#">Travel</a>, <a href="#">Photography</a>, <a href="#">Landscape</a> and <a href="#">Mountain</a>.</p>
+	        <p><span>Post On:</span> <a href="#">March 13, 2015</a> <span>Filed Under:</span> <a href="#">Travel</a></p>
+			-->
+
+	        <div class="sp-share-this">
+	          <span>Compartir:</span>
+	          <a class="twitter popup" href="http://twitter.com/share?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" target="_blank" title="Comprtir en Twitter" rel="nofollow"><i class="fa fa-twitter"></i> Twitter</a>
+	          <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Facebook"><i class="fa fa-facebook"></i> Facebook</a>
+	          <a class="g-plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus"></i> Google Plus</a>
+	          <a class="mail" href="mailto:?subject={{ page.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ page.url }}"><i class="fa fa-envelope-o"></i> Email</a>
+	        </div>
+	      </footer>
+	  		
+	    </div>
+	  </div>
+	</div>
+</div> <!--//End Post-->
+
+<script>
+  $('.popup').click(function(event) {
+    var width  = 575,
+        height = 400,
+        left   = ($(window).width()  - width)  / 2,
+        top    = ($(window).height() - height) / 2,
+        url    = this.href,
+        opts   = 'status=1' +
+                 ',width='  + width  +
+                 ',height=' + height +
+                 ',top='    + top    +
+                 ',left='   + left;
+    
+    window.open(url, 'twitter', opts);
+ 
+    return false;
+  });
+</script>

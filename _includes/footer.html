@@ -1,0 +1,81 @@
+<!--//Footer//-->
+<footer class="sp-footer">
+  <div class="sp-widget-area">
+    <div class="sp-container sp-clearfix">
+      <div class="sp-box">
+        <!--//Widget//-->
+        <div class="sp-widget sp-about">
+          <h3 class="sp-title">Imperfectos.org</h3>
+          <div class="sp-desc">
+            <p>{{ site.description }}</p>
+            <!--<a href="about.html">Learn More</a>-->
+          </div>
+        </div> <!--//End Widget-->
+        <!--//Widget//-->
+        <div class="sp-widget sp-subscribe">
+          <h3 class="sp-title">Mantente al tanto</h3>
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="//imperfectos.us12.list-manage.com/subscribe/post?u=ea337855401c52ca5982df2ea&amp;id=2be665066c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate sp-subscribe-form" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+                <div class="mc-field-group">
+                  <!--<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+                </label>-->
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Escribe tu email">
+                </div>
+                <div id="mce-responses" class="clear">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                  <input type="text" name="b_ea337855401c52ca5982df2ea_2be665066c" tabindex="-1" value="">
+                </div>
+                <div class="clear">
+                  <input type="submit" value="¡Suscribite!" name="subscribe" id="mc-embedded-subscribe" class="button button-default">
+                </div>
+              </div>
+            </form>
+          </div>
+
+          <p class="rss-subscribe">Suscríbete <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS <i class="fa fa-rss"></i></a></p>
+
+        </div>
+
+        <!--End mc_embed_signup-->
+        <!--//End Widget-->
+        <!--//Widget//-->
+        <div class="sp-widget sp-social-links">
+          <h3 class="sp-title">Seguínos</h3>
+
+          <ul class="sp-social-link">
+            {% for red in site.redes %}
+                <li><a class="{{ red.nombre }}" href="{{ red.url }}"><i class="fa fa-{{ red.nombre }}"></i></a></li>
+            {% endfor %}
+          </ul>
+
+          <h3 class="sp-title doble-margen-superior"><i class="fa fa-wordpress"></i> Mi antiguo blog:</br><small><a href="https://lospalimpsestos.wordpress.com/">lospalimpsestos.wordpress.com</a></small></h3>
+          
+        </div> <!--//End Widget-->
+      </div>
+    </div>
+  </div>
+
+  <div class="sp-footer-bottom sp-clearfix">
+    <div class="sp-container">
+      <!--//Copyright//-->
+      <p class="sp-copyright">
+        <small>
+          Copyright &copy; 2015 &mdash; <a href="index.html">José Pablo Chacón</a>. Derechos reservados.
+        </small>
+      </p> <!--//End Copyright-->
+      <!--//Footer Nav//-->
+      <ul class="sp-footer-nav">
+        <li><a href="{{ site.url }}">Inicio</a></li>
+        <li><a href="{{ site.url }}/contacto.html">Contacto</a></li>
+        <!--<li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>-->
+      </ul> <!--//End Footer Nav-->
+    </div>
+  </div>
+</footer> <!--//End Footer-->

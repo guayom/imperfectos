@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include analytics.html %}
+    {% include offcanvas.html %}
+
+
+    <!--//Wrapper//-->
+    <div class="sp-wrapper {{ page.extraclass }}">
+      <button class="sp-navbar-toggle sp-show-btn"><i class="sp-icon fa fa-align-justify"></i></button>
+
+      <div class="sp-canvas">
+
+        <div class="sp-content-wrap">
+          <!--//Content Area//-->
+          <div class="sp-content-area">
+            {{ content }}
+          </div>
+
+          <!--incluir pagination -->
+          
+          {% include footer.html %}
+
+        </div>
+      </div>
+    </div><!--//Wrapper//-->
+
+    <!--//Javascript//-->
+    <script src="{{ site.url }}/js/jquery.min.js"></script>
+    <!--////-->
+    <script src="{{ site.url }}/js/jquery.nicescroll.min.js"></script>
+    <!--//Bootstrap//-->
+    <script src="{{ site.url }}/js/bootstrap.min.js"></script>
+    <!--//Custom//-->
+    <script src="{{ site.url }}/js/main.js"></script>
+
+  </body>
+
+</html>
