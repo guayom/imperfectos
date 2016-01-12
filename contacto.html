@@ -2,51 +2,52 @@
 layout: default
 extraclass: sp-page
 img: header.jpg
+permalink: /contacto/
 ---
 <!--//Post//-->
 <div class="sp-post">
-<figure class="sp-thumb-container sp-featured-image">
-  <img src="images/{{ site.header_img }}" alt="">
-  <!--<figcaption class="sp-caption"><h2 class="sp-post-title">Contact Us</h2></figcaption>-->
-</figure>
+  <figure class="sp-thumb-container sp-featured-image">
+    <img src="/images/{{ site.header_img }}" alt="">
+    <!--<figcaption class="sp-caption"><h2 class="sp-post-title">Contact Us</h2></figcaption>-->
+  </figure>
 
-<div class="sp-post-content">
-  <div class="sp-container">
-    <div class="sp-post-desc">
-      <div class="sp-entry-content">
+  <div class="sp-post-content">
+    <div class="sp-container">
+      <div class="sp-post-desc">
+        <div class="sp-entry-content">
 
-        <div class="row">
-          <div class="col-md-5 sp-contact-info">
-            <h3>Contacto</h3>
+          <div class="row">
+            <div class="col-md-5 sp-contact-info">
+              <h3>Contacto</h3>
 
-            <p>¿Alguna duda o comentario?</p>
-            <address class="sp-adderss">
-              <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-            </address>
-            <h3>Mis redes sociales</h3>
-            <ul class="sp-social-link">
-              {% for red in site.redes %}
-	                <li><a class="{{ red.nombre }}" href="{{ red.url }}"><i class="fa fa-{{ red.nombre }}"></i></a></li>
-	            {% endfor %}
-            </ul>
-          </div>
-          <div class="col-md-1"></div>
-          <div class="col-md-6">
-            <h3>Enviame un mensaje</h3>
+              <p>¿Alguna duda o comentario?</p>
+              <address class="sp-adderss">
+                <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+              </address>
+              <h3>Mis redes sociales</h3>
+              <ul class="sp-social-link">
+                {% for red in site.redes %}
+  	                <li><a class="{{ red.nombre }}" href="{{ red.url }}"><i class="fa fa-{{ red.nombre }}"></i></a></li>
+  	            {% endfor %}
+              </ul>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-6">
+              <h3>Enviame un mensaje</h3>
 
-            <form class="sp-contact-form" action="http://formspree.io/info@imperfectos.org" method="POST">
-              <input type="text" name="nombre" placeholder="Nombre">
-              <input type="email" name="_replyto" placeholder="E-mail">
-              <input type="hidden" name="_subject" value="Mensaje desde imperfectos.org" />
-              <input type="hidden" name="_next" value="{{ site.url }}/gracias.html" />
-              <input type="text" name="_gotcha" style="display:none" />
-              <textarea rows="4" name="mensaje" placeholder="Mensaje"></textarea>
-              <button class="btn btn-default" type="submit">Enviar</button>
-            </form>
+              <form class="sp-contact-form" action="http://formspree.io/info@imperfectos.org" method="POST">
+                <input type="text" name="nombre" placeholder="Nombre">
+                <input type="email" name="_replyto" placeholder="E-mail">
+                <input type="hidden" name="_subject" value="Mensaje desde imperfectos.org" />
+                <input type="hidden" name="_next" value="{{ site.url }}/gracias.html" />
+                <input type="text" name="_gotcha" style="display:none" />
+                <textarea rows="4" name="mensaje" placeholder="Mensaje"></textarea>
+                <button class="btn btn-default" type="submit">Enviar</button>
+              </form>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 </div> <!--//End Post-->

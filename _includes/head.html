@@ -23,11 +23,19 @@
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:type" content="website" />
+  {% if page.layout == 'frase' %}
+    <meta property="og:description" content="Más frases para compartir en: Imperfectos.org" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{ site.url }}/images/frases/{{ page.key }}.png" />
+    <meta property="og:image:width" content="{{ page.imgw }}" />
+    <meta property="og:image:height" content="{{ page.imgh }}" />
+  {% else %}
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.img }}" />
+  {% endif %}
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
-  <meta property="og:image" content="{{ site.url }}/images/{{ page.img }}" />
   <meta property="fb:app_id" content="838592866259432" />
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -50,4 +58,5 @@
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
 </head>

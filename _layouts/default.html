@@ -37,6 +37,19 @@
     <!--//Custom//-->
     <script src="{{ site.url }}/js/main.js"></script>
 
+    {% if page.url == "/frases/" %}
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.0.0/imagesloaded.pkgd.min.js"></script>
+      <script type="text/javascript">
+      var $grid = $('.grid').imagesLoaded( function() {
+        // init Masonry after all images have loaded
+        $grid.masonry({
+          itemSelector: '.grid-item'
+        });
+      });
+      </script>
+    {% endif %}
+
   </body>
 
 </html>

@@ -2,36 +2,7 @@
 layout: default
 img: header.jpg
 ---
-
-<!--//Post//-->
-<!--
-<div class="sp-post">
-  <figure class="sp-thumb-container sp-featured-image">
-    <img src="images/{{ site.header_img }}" alt="">
-    <figcaption class="sp-caption"><h2 class="sp-post-title">About Us</h2></figcaption>
-  </figure>
-
-  <div class="sp-post-content">
-    <div class="sp-container home-desc">
-      <div class="sp-post-desc">
-        <div class="sp-entry-content">
-          <div class="row">
-            <div class="col-md-6">
-              <h3>About</h3>
-              <p><strong><i>Snowbird</i></strong> is a multi-authors blog and Social Network platform for bloggers built on the contributions of its authors. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis eros et ipsum suscipit, ut blandit justo tristique. Sed pharetra pretium luctus.</p>
-            </div>
-            <div class="col-md-6">
-              <h3>Our Mission</h3>
-              <p><strong><i>Snowbird</i></strong> is a multi-authors blog and Social Network platform for bloggers built on the contributions of its authors. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis eros et ipsum suscipit, ut blandit justo tristique. Sed pharetra pretium luctus.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> <!--//End Post-->
-
-{% for post in site.posts %}
+{% for post in site.posts | limit: 5 %}
 <!--//Post//-->
 <article class="sp-post">
   <figure class="sp-thumb-container">
@@ -47,7 +18,7 @@ img: header.jpg
           <div class="sp-post-info sp-clearfix">
             <div class="sp-post-meta">
               <img class="sp-avatar" src="images/jose-thumb.jpg" alt="">
-              <p class="sp-author-name"><i>Por:</i> <a href="author.html">Jose Pablo Chacón</a></p>
+              <p class="sp-author-name"><i>Por:</i> Jose Pablo Chacón</p>
               <!--<p class="sp-comment-count"><a href="#">27 Comments</a></p>-->
               <hr class="sp-separator">
             </div>
@@ -72,3 +43,31 @@ img: header.jpg
   </div>
 </article> <!--//End Post-->
 {% endfor %}
+
+<!--//Post//-->
+<div class="sp-post">
+  <figure class="sp-thumb-container sp-featured-image frases-home">
+    <img src="/images/header-generico.jpg" alt="">
+    <figcaption class="sp-caption"><h2 class="sp-post-title">Frases para compartir</h2></figcaption>
+  </figure>
+  <div class="sp-post-content">
+    <div class="container">
+      <div class="row grid">
+        {% for frase in site.frases limit: 3%}
+          <div class="col-xs-4 grid-item">
+            <div class="thumbnail">
+              <a href="/frases/{{ frase.key }}/">
+                <img src="/images/frases/{{ frase.key }}.png" alt="{{ frase.contenido }}">
+              </a>
+              <div class="caption">
+                <!-- botones de compartir -->
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        <a class="btn btn-primary" href="/frases/">Ver más frases</a>
+    </div>
+  </div>
+</div> <!--//End Post-->

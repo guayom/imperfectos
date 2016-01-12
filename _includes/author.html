@@ -1,0 +1,16 @@
+<div class="sp-author-info">
+  <div class="sp-info-header clearfix">
+    <img class="sp-avatar" src="{{ site.url }}/images/jose-thumb.jpg" alt="">
+    <div class="sp-name"><a href="author.html"><span>Escrito por:</span> Jose Chacón</a></div>
+  </div>
+  <hr class="sp-separator">
+  <div class="sp-desc">
+    <p>Conferencista imperfecto, mis temas favoritos son el emprendimiento, la superación y la espiritualidad.</p>
+    <ul class="sp-social-link">
+		{% for red in site.redes %}
+            <li><a class="{{ red.nombre }}" href="{{ red.url }}"><i class="fa fa-{{ red.nombre }}"></i></a></li>
+        {% endfor %}
+    </ul>
+    <hr class="sp-separator">
+  </div>
+</div>

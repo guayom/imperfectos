@@ -26,3 +26,25 @@ header_img: header.jpg
 # Build settings
 markdown: kramdown
 
+sass:
+    sass_dir: _sass
+    style: compressed
+
+collections:
+  frases:
+    output: true
+    permalink: /frases/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: frases
+    values:
+      layout: frase
+
+gems:
+  - jekyll-srcset
+
+srcset:
+  cache: "/tmp/images"
+
