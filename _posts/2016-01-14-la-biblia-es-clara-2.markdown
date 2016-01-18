@@ -43,7 +43,7 @@ Como vemos, la Biblia es un armazón de lenguas antiguas, mezcladas y copiadas i
 Es por eso que la frase “la Biblia es clara” es un atentado en contra de la naturaleza misma de la Biblia.  En este artículo nos acercaremos a ella desde 3 perspectivas, de las cuales, nos restan las dos últimas:
 
 - La complejidad de sus lenguas.
-- [La complejidad de su texto.](/blog/2016/01/18/la-biblia-es-clara-3.html)
+- [La complejidad de su texto.](/blog/2016/01/17/la-biblia-es-clara-3.html)
 - La complejidad de sus traducciones. 
 
-Lea el [siguiente artículo.](/blog/2016/01/18/la-biblia-es-clara-3.html)
+Lea el [siguiente artículo.](/blog/2016/01/17/la-biblia-es-clara-3.html)

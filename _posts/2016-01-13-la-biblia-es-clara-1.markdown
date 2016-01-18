@@ -37,7 +37,7 @@ Así iniciamos la lectura de este libro de libros. Un poema de la creación cons
 Es por eso que la frase “la Biblia es clara” es un atentado en contra de la naturaleza misma de la Biblia.  En los siguientes 3 artículos nos acercaremos superficialmente a ella desde 3 perspectivas:
 
 - [La complejidad de sus lenguas.](/blog/2016/01/13/la-biblia-es-clara-2.html)
-- [La complejidad de su texto.](/blog/2016/01/18/la-biblia-es-clara-3.html)
+- [La complejidad de su texto.](/blog/2016/01/17/la-biblia-es-clara-3.html)
 - La complejidad de sus traducciones. 
 
 Lea el [siguiente artículo](/blog/2016/01/13/la-biblia-es-clara-2.html). 
