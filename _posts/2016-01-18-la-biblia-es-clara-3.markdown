@@ -81,7 +81,7 @@ El Nuevo Testamento da testimonio del inicio en firme del Reino de Dios, de tal 
 Es por eso que la frase “la Biblia es clara” es un atentado en contra de la naturaleza misma de la Biblia. En este artículo nos acercaremos a ella desde 3 perspectivas, de las cuales, nos resta solo la última. 
 
 - [La complejidad de sus lenguas.](/blog/2016/01/13/la-biblia-es-clara-2.html)
-La complejidad de su texto.
-La complejidad de sus traducciones.
+- La complejidad de su texto.
+- La complejidad de sus traducciones.
 
 Espere el siguiente artículo.
