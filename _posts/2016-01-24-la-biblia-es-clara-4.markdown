@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿La Biblia es clara? La coplejidad de sus traducciones"
+title:  "¿La Biblia es clara? La complejidad de sus traducciones"
 date:   2016-01-24 00:00:00
 categories: blog
 img: biblia-clara-4.jpg
