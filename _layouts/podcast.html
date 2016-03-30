@@ -1,0 +1,123 @@
+---
+layout: default
+extraclass: sp-single
+---
+<!--//Post//-->
+<div class="sp-post">
+	{% if page.img %}
+	<figure class="sp-thumb-container">
+	  <img src="/images/{{ page.img }}" alt="">
+	</figure>
+	{% endif %}
+
+	<div class="sp-post-content">
+	  <!--//Navigation//-->
+	  <!--
+	  <div class="sp-post-navigation">
+	    <a class="sp-prev" href="#">
+	      <span class="sp-icon"><i class="fa fa-chevron-left"></i></span>
+	      <img class="sp-img" src="{{ site.url }}/images/{{ page.img }}" alt="">
+	      <h4 class="sp-title">A Road Trip Through the Heart of Russia</h4>
+	    </a>
+	    <a class="sp-next" href="#">
+	      <span class="sp-icon"><i class="fa fa-chevron-right"></i></span>
+	      <img class="sp-img" src="{{ site.url }}/images/title-img03.jpg" alt="">
+	      <h4 class="sp-title">Learn to Surf Peninsula, Costa Rica.</h4>
+	    </a>
+	  </div>
+	--><!--//End Navigation-->
+
+	  <div class="sp-container">
+	    <div class="sp-post-desc">
+	      <header class="sp-post-header">
+	        <div class="sp-meta"><span><a href="#">{{ page.category }}</a></span> <span><a href="#">{{ page.date | date: "%b %-d, %Y" }}</a></span></div>
+	        <h2 class="sp-post-title">{{ page.title }}</h2>
+	      </header>
+
+	      <div class="sp-entry-content">
+	      	<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.track_id }}&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+	      	{{ content }}
+	        <div class="sp-author-info pull-left">
+	          <div class="sp-info-header clearfix">
+	            <img class="sp-avatar" src="{{ site.url }}/images/jose-thumb.jpg" alt="">
+	            <div class="sp-name"><span>Charla por:</span> Jose Chacón</div>
+	          </div>
+	          <hr class="sp-separator">
+	          <div class="sp-desc">
+	            <p>Conferencista imperfecto, mis temas favoritos son el emprendimiento, la superación y la espiritualidad.</p>
+	            <ul class="sp-social-link">
+            		{% for red in site.redes %}
+		                <li><a class="{{ red.nombre }}" href="{{ red.url }}"><i class="fa fa-{{ red.nombre }}"></i></a></li>
+		            {% endfor %}
+	            </ul>
+	            <hr class="sp-separator">
+	          </div>
+	        </div>
+
+	        
+	      </div>
+	      
+	      <footer class="sp-post-footer">
+	      	<!--
+	        <p><span>Tagged with:</span> <a href="#">Travel</a>, <a href="#">Photography</a>, <a href="#">Landscape</a> and <a href="#">Mountain</a>.</p>
+	        <p><span>Post On:</span> <a href="#">March 13, 2015</a> <span>Filed Under:</span> <a href="#">Travel</a></p>
+			-->
+
+	        <div class="sp-share-this">
+	          <span>Compartir:</span>
+	          <a class="twitter popup" href="http://twitter.com/share?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" target="_blank" title="Comprtir en Twitter" rel="nofollow"><i class="fa fa-twitter"></i> Twitter</a>
+	          <a class="facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Facebook"><i class="fa fa-facebook"></i> Facebook</a>
+	          <a class="g-plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus"></i> Google Plus</a>
+	          <a class="mail" href="mailto:?subject={{ page.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{site.url }}{{ page.url }}"><i class="fa fa-envelope-o"></i> Email</a>
+	        </div>
+
+	        <div>
+	        	<hr/>
+	        	<span>Dejá tu comentario</span>
+	        	<div id="disqus_thread"></div>
+				<script>
+				/**
+				* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+				* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+				*/
+				/*
+				var disqus_config = function () {
+				this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+				this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+				};
+				*/
+				(function() { // DON'T EDIT BELOW THIS LINE
+				var d = document, s = d.createElement('script');
+
+				s.src = '//imperfectos.disqus.com/embed.js';
+
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+				})();
+				</script>
+				<noscript>Por favor, habilita JavaScript para ver los<a href="https://disqus.com/?ref_noscript" rel="nofollow">comentarios de Disqus.</a></noscript>
+	        </div>
+	      </footer>
+	    </div>
+	  </div>
+	</div>
+</div> <!--//End Post-->
+
+<script>
+  $('.popup').click(function(event) {
+    var width  = 575,
+        height = 400,
+        left   = ($(window).width()  - width)  / 2,
+        top    = ($(window).height() - height) / 2,
+        url    = this.href,
+        opts   = 'status=1' +
+                 ',width='  + width  +
+                 ',height=' + height +
+                 ',top='    + top    +
+                 ',left='   + left;
+    
+    window.open(url, 'twitter', opts);
+ 
+    return false;
+  });
+</script>

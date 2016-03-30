@@ -18,7 +18,7 @@ permalink: /frases/
             <div class="thumbnail">
               <a href="/frases/{{ frase.key }}/">
                 {% assign img = frase.key | append: '.png' | prepend: '/images/frases/' %}
-                {% image_tag src=img width="350" %}
+                <img src="{{ img }}" alt="{{ frase.title }}" class="img-responsive"/>
               </a>
               <div class="caption">
                 <!-- botones de compartir -->

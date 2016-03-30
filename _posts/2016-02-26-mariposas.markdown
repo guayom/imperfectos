@@ -8,13 +8,12 @@ thumb: mariposas-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---
-Es casi como una revelación que me vino de golpe. Las mariposas nacen adultas. No hay mariposas bebés. Nacen adultas. 
-
+Es casi como una revelación que me vino de golpe. Las mariposas nacen adultas. No hay mariposas bebés. Nacen adultas.
 <!--more-->
 
 Cuando logran emprender su primer vuelo, con sus alas iridiscentes, las mariposas ya han nacido muchas veces. A cada nacimiento se le suele llamar holometábolo o metamorfosis. Cada uno de esos cambios representa una transformación radical. 
 
-Huevo, larva, pupa y mariposa. No son varios seres diferntes, no son encarnaciones. La mariposa fue embrión (huevo), bebé (larva), joven (pupa) y adulta (ímago). 
+Huevo, larva, pupa y mariposa. No son varios seres diferentes, no son encarnaciones. La mariposa fue embrión (huevo), bebé (larva), joven (pupa) y adulta (ímago). 
 
 Y no es nuevo para ninguno de nosotros que la etapa mas hermosa de la mariposa es la ultima, la adultez. Es la etapa más llamativa, la más contemplada, la más admirada, la que representa más libertad y mayor belleza.  
 

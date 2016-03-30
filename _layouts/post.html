@@ -4,9 +4,11 @@ extraclass: sp-single
 ---
 <!--//Post//-->
 <div class="sp-post">
+	{% if page.img %}
 	<figure class="sp-thumb-container">
 	  <img src="/images/{{ page.img }}" alt="">
 	</figure>
+	{% endif %}
 
 	<div class="sp-post-content">
 	  <!--//Navigation//-->
