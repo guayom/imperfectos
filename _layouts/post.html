@@ -6,7 +6,7 @@ extraclass: sp-single
 <div class="sp-post">
 	{% if page.img %}
 	<figure class="sp-thumb-container">
-	  <img src="/images/{{ page.img }}" alt="">
+	  <img src="{{ site.github.url }}/images/{{ page.img }}" alt="">
 	</figure>
 	{% endif %}
 
@@ -54,7 +54,7 @@ extraclass: sp-single
 
 	        {{ content }}
 	      </div>
-	      
+
 	      <footer class="sp-post-footer">
 	      	<!--
 	        <p><span>Tagged with:</span> <a href="#">Travel</a>, <a href="#">Photography</a>, <a href="#">Landscape</a> and <a href="#">Mountain</a>.</p>
@@ -113,9 +113,9 @@ extraclass: sp-single
                  ',height=' + height +
                  ',top='    + top    +
                  ',left='   + left;
-    
+
     window.open(url, 'twitter', opts);
- 
+
     return false;
   });
 </script>
