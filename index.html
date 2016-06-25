@@ -19,11 +19,11 @@ img: header.jpg
       <div class="sp-post-desc">
         <header class="sp-post-header">
           <div class="sp-meta"><span><a href="#">{{ post.categories }}</a></span> <span><a href="#">{{ post.date | date: "%b %-d, %Y" }}</a></span></div>
-          <h2 class="sp-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <h2 class="sp-post-title"><a href="{{ site.github.url }}/post.url">{{ post.title }}</a></h2>
 
           <div class="sp-post-info sp-clearfix">
             <div class="sp-post-meta">
-              <img class="sp-avatar" src="/images/jose-thumb.jpg" alt="">
+              <img class="sp-avatar" src="{{ site.github.url }}/images/jose-thumb.jpg" alt="">
               <p class="sp-author-name"><i>Por: </i>Jose Pablo Chacón</p>
               <!--<p class="sp-comment-count"><a href="#">27 Comments</a></p>-->
               <hr class="sp-separator">
@@ -60,7 +60,7 @@ img: header.jpg
               {% else %}
                 <span class="sp-prev">Anterior</span>
               {% endif %}
-              
+
               {% if paginator.next_page %}
                 <a class="sp-next" href="{{ paginator.next_page_path }}">Siguiente</a>
               {% else %}
