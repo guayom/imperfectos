@@ -22,7 +22,7 @@ prose:
       - name: "date"
         field:
           element: "text"
-          label: "date"
+          label: "Fecha"
           value: CURRENT_DATETIME
           help: "Aquí va la fecha en el formato que aparece en el campo"
       - name: "categories"
@@ -41,7 +41,7 @@ prose:
         field:
           element: "text"
           label: "Imagen Grande"
-          help:
+          help: "Aquí va el nombre de la imagen grande de cada artículo. Ej: imagen.jpg"
       - name: "thumb"
         field:
           element: "text"
