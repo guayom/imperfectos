@@ -7,7 +7,7 @@ img: header.jpg
 <article class="sp-post">
   {% if post.img %}
   <figure class="sp-thumb-container">
-    <a href="{{ site.github.url }}/{{ post.url}}"><img src="{{ site.github.url }}/images/{{ post.img }}" alt=""></a>
+    <a href="{{ site.github.url }}{{ post.url}}"><img src="{{ site.github.url }}/images/{{ post.img }}" alt=""></a>
   </figure>
   {% else %}
     {% if forloop.index != 1 %}
@@ -43,7 +43,7 @@ img: header.jpg
         <div class="sp-entry-content">
           {{ post.excerpt }}
         </div>
-        <a class="sp-more button button-default" href="{{ site.github.url }}/{{ post.url}}">Leer Más...</a>
+        <a class="sp-more button button-default" href="{{ site.github.url }}{{ post.url}}">Leer Más...</a>
       </div>
     </div>
   </div>
