@@ -130,6 +130,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-srcset
+  json
 
 BUNDLED WITH
    1.12.2
