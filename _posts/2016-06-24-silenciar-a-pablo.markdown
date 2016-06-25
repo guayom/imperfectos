@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  El crímen de silenciar al Apostol Pablo (1 de Timoteo 1:9-11)
-date:   2016-06-24 00:00:00
+extraclass: sp-single
+excerpt_separator: <!--more-->
 categories: blog
+layout: post
+title: 'El crímen de silenciar al Apostol Pablo (1 de Timoteo 1:9-11)'
+date: 'Thu Jun 23 2016 18:00:00 GMT-0600 (CST)'
 img: sh.jpg
 thumb: sh-th.jpg
-excerpt_separator: <!--more-->
-extraclass: sp-single
+published: true
 ---
 En la mitología griega Zeus tiene un amante infantil. El dios griego posee un amante casi niño. Se llama Ganímedes (Gr. Γανυμήδης).  Algunos escritores sugieren que el nombre significa “alegrándose en la virilidad”. Ganímedes fue secuestrado por Zeus en Frigia. Zeus es simbolizado como un águila que rapta al niño. Ya en el Olimpo lo transformó en su amante y su copero. Todos los dioses admiraban la belleza del joven, excepto la esposa de Zeus, llamada Hera.
 
@@ -73,4 +74,4 @@ Si esto es así, es doblemente confirmatorio cuando regresamos al marco ideado p
 
 En el mundo, cada año más de 3 millones de humanos son víctimas del tráfico de personas. El 80% de los que sufren este tipo de esclavitud moderna en el mundo son mujeres y niñas y ya se ha convertido en el segundo negocio clandestino más lucrativo del mundo, solo por detrás del tráfico de armas y drogas. Según el último índice de Walk Free Foundation (WFF) sobre la trata de personas en el mundo nada menos que 29,8 millones de personas viven como esclavos.
 
-Es momento de ponerle atención a los gritos de Dios, a los gritos de Pablo, y hacer que la Iglesia grite con ellos. Que la Iglesia trabaje en la protección de las víctimas más indefensas de la humanidad: los niños y las niñas.
+Es momento de ponerle atención a los gritos de Dios, a los gritos de Pablo, y hacer que la Iglesia grite con ellos. Que la Iglesia trabaje en la protección de las víctimas más indefensas de la humanidad: __los niños y las niñas__.
