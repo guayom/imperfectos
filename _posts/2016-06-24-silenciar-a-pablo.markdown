@@ -11,7 +11,7 @@ extraclass: sp-single
 En la mitología griega Zeus tiene un amante infantil. El dios griego posee un amante casi niño. Se llama Ganímedes (Gr. Γανυμήδης).  Algunos escritores sugieren que el nombre significa “alegrándose en la virilidad”. Ganímedes fue secuestrado por Zeus en Frigia. Zeus es simbolizado como un águila que rapta al niño. Ya en el Olimpo lo transformó en su amante y su copero. Todos los dioses admiraban la belleza del joven, excepto la esposa de Zeus, llamada Hera.
 
 <!--more-->
-[Ganimedes]: http://guayom.github.io/imperfectos/images/ganimedes.jpg "Ganímedes"
+![Ganimedes](http://guayom.github.io/imperfectos/images/ganimedes.jpg "Ganímedes")
 
 Para los romanos existía una especie de amante joven o infantil llamado “catamitus”,  palabra que se deriva del personaje griego de Ganímedes.  Parece haber consenso en que había una costumbre, entre griegos y romanos, de mantener niños o jóvenes como esclavos sexuales. Más adelante parece entenderse la palabra como un “niño prostituto”, es decir:  Un niño cautivo, un niño esclavo que era objeto sexual de sus amos.
 
