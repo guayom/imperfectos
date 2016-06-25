@@ -23,8 +23,8 @@ prose:
         field:
           element: "text"
           label: "Fecha"
-          value: CURRENT_DATETIME
-          help: "Aquí va la fecha en el formato que aparece en el campo"
+          placeholder: 2016-06-24 00:00:00
+          help: "Aquí va la fecha en este formato: 2016-06-24 00:00:00"
       - name: "categories"
         field:
           element: "hidden"
