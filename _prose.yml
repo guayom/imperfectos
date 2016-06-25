@@ -1,0 +1,49 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://imperfectos.org'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          help: "Aquí va el título del artículo"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: CURRENT_DATETIME
+          help: "Aquí va la fecha en el formato que aparece en el campo"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "excerpt_separator"
+        field:
+          element: "hidden"
+          value: "<!--more-->"
+      - name: "extraclass"
+        field:
+          element: "hidden"
+          value: "sp-single"
+      - name: "img"
+        field:
+          element: "text"
+          label: "Imagen Grande"
+          help:
+      - name: "thumb"
+        field:
+          element: "text"
+          label: "Thumbnail"
+          help: "Aquí hay que poner el nombre del thumbnail. ej: imagen.jpg. El thumbnail es el que sale en el menú de navegación"
