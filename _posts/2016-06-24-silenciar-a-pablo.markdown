@@ -32,6 +32,7 @@ Hay un pasaje escrito por Pablo que menciona esta práctica y la prohíbe rotund
 **11** según el glorioso evangelio del Dios bendito, que a mí me ha sido encomendado._
 
 El texto inicia con la frase “conociendo esto”. Es decir: sabiendo que la ley no se ha hecho para los justos. Los justos son los cristianos, porque para el Nuevo Testamenteo los justos habitan en la caridad (Romanos 5:5) y obran caridad (cf. Gálatas 5:18). Haciendo esa salvedad, Pablo entonces enumera catorce clases de personas injustas. Y las agrupa en una especie de listas conjuntas. Son seis listas de palabras, cada una de ellas con un tema específico en mente, como veremos a continuación.  
+
 1. Transgresores y desobedientes. 
 2. Impíos y pecadores.
 3. Irreverentes y profanos.
