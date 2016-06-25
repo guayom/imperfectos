@@ -7,7 +7,7 @@ permalink: /frases/
 <!--//Post//-->
 <div class="sp-post">
   <figure class="sp-thumb-container sp-featured-image">
-    <img src="/images/header-generico.jpg" alt="">
+    <img src="{{ site.github.url }}/images/header-generico.jpg" alt="">
     <figcaption class="sp-caption"><h2 class="sp-post-title">Frases para compartir</h2></figcaption>
   </figure>
   <div class="sp-post-content">
@@ -16,7 +16,7 @@ permalink: /frases/
         {% for frase in site.frases %}
           <div class="col-xs-4 grid-item">
             <div class="thumbnail">
-              <a href="/frases/{{ frase.key }}/">
+              <a href="{{ site.github.url }}/frases/{{ frase.key }}/">
                 {% assign img = frase.key | append: '.png' | prepend: '/images/frases/' %}
                 <img src="{{ img }}" alt="{{ frase.title }}" class="img-responsive"/>
               </a>
