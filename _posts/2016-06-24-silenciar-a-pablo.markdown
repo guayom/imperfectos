@@ -3,7 +3,7 @@ extraclass: sp-single
 excerpt_separator: <!--more-->
 categories: blog
 layout: post
-title: 'El crímen de silenciar al Apostol Pablo (1 de Timoteo 1:9-11)'
+title: 'EL VERDADERO CRIMEN DE 1 de Timoteo 1:9-11'
 date: 'Thu Jun 23 2016 18:00:00 GMT-0600 (CST)'
 img: sh.jpg
 thumb: sh-th.jpg
@@ -60,16 +60,19 @@ Pablo enlista y agrupa de forma muy ordenada y meditada. Cada palabra la ha eleg
 
 Pero al llegar a la quinta lista, notamos que algo se rompe en la armonía. No hay coherencia entre todas las palabras. Se rompe de cuajo la forma en que Pablo va construyendo su argumento.  Y es aquí donde debemos detenernos. ¿Por qué se rompe la armonía? ¿Por qué no coinciden las palabras? ¿Por qué parecen pertenecer a listas distintas? ¿Por qué no podrían usarse como sinónimos?  ¿Qué tienen que ver los secuestradores con los fornicarios? ¿Y qué podrían tener en común los “sodomitas” con los secuestradores? Nada.  Sin embargo, si con toda humildad y reverencia nos dirigimos al texto griego del Nuevo Testamento, podemos comprender que Pablo sí hizo bien su trabajo, todas las palabras de la lista número cinco coinciden entre sí. ¿Por qué no sucede eso en la traducción?
 
-Las tres palabras agrupadas en la quinta lista son: pornois (Gr. πόρνοις), arsenokoitais (Gr. ἀρσενοκοίταις) y andrapodistais (Gr. ἀνδραποδισταῖς).  Veamos varias traducciones:  La King James Version las traduce “For whoremongers, for them that defile themselves with mankind, for menstealers” Lo que se puede traducir como “Proxenetas (o el que usa prostitutas), los que se profanan a sí mismos con otros, ladrones de hombres”.
+Las tres palabras agrupadas en la quinta lista son: pornois (Gr. πόρνοις), arsenokoitais (Gr. ἀρσενοκοίταις) y andrapodistais (Gr. ἀνδραποδισταῖς).  Veamos varias traducciones:  
+
+La King James Version las traduce “For whoremongers, for them that defile themselves with mankind, for menstealers” Lo que se puede traducir como “Proxenetas (o el que usa prostitutas), los que se profanan a sí mismos con otros, ladrones de hombres”.
 
 La New International Version traduce “the sexually immoral, for those practicing homosexuality, for slave traders”. Es decir: “inmorales sexualmente, homosexuales, traficantes de esclavos.
 
 Así que podemos ver que no existe un consenso en las traducciones. Eso quiere decir que estas palabras no han sido de fácil traducción.  La primera de ellas “pornois” deriva del verbo “pernemi” que significa “vender” y puede significar alguien que se prostituye, alguien que prostituye a otra persona o alguien que paga por sexo.  Esta ultima acepción es la que derivaría en nuestra noción de “fornicario”.  La tercera palabra del texto es “andrapodistais” y al parecer los traductores no han tenido dificultad en coincidir en su significado. La grandísima mayoría de las versiones la traducen por “secuestrador” o por “traficante de humanos”.
 
-Hemos dejado de ultima la segunda palabra del texto para poder detenernos más en ella. La palabra es “arsenokoitais” y está compuesta por la palabra griega para “macho” (arseno) y la palabra griega para “camas” (koitai). Literalmente “macho encamador” O alguien que introduce forzosamente a otra persona en su cama.
+Hemos dejado de última la segunda palabra del texto para poder detenernos más en ella. La palabra es “arsenokoitais” y está compuesta por la palabra griega para “macho” (arseno) y la palabra griega para “camas” (koitai). Literalmente “macho encamador” O alguien que introduce forzosamente a otra persona en su cama.
+
 Si Pablo quería que todas las palabras tuvieran un sentido común, una coherencia conceptual, el griego no nos decepciona.  Las tres paabras cobran un sentido coherente ahora. La primera tiene que ver con la práctica del proxenetismo, la segunda con la violación o el abuso sexual y la tercera tiene que ver con el secuestro, el tráfico o la esclavización. Las tres palabras son abusos contra personas. De hecho, las tres palabras coinciden en la supresión de la libertad de las personas. Esta ultima coincidencia nos debe remitir al concepto ya mencionado del “catamita” o niño secuestrado o esclavizado para fines sexuales.  Lo cual tendría mucho sentido en el entorno de la quinta lista que hace Pablo. La primera palabra tiene la noción de violentar la libertad de las personas mediante la prostitución, la segunda palabra nos remite a la violación de la libertad de un menor de edad, esclavizándolo para fines sexuales, la tercera describe el tráfico de personas con el fin de venderlos como esclavos. En la época de Pablo era común que los hombres poseyeran niños esclavos, quizás hijos de sus esclavos, que eran considerados una especie de mascota y a los cuales tenían derecho a explotar sexualmente. A esta practica se le llama hoy en día “pederastía”.
 
-“Proxenetas, violadores de niños y traficantes de humanos” Ahora el texto adquiere una reveladora coherencia, un profundo y alarmante sentido. El corazón de Dios se rompe y grita en contra de estas cosas. Y Pablo grita con Dios, incluso rompiendo lo que era considerado normal en la cultura grecorromana.
+“Proxenetas, violadores de niños y traficantes de humanos” Ahora el texto adquiere una reveladora coherencia, un profundo y alarmante sentido. El corazón de Dios se rompe y grita en contra de estas cosas. Y Pablo grita con Dios, incluso rompiendo lo que era considerado normal en la cultura grecorromana.¿Será justamente por eso que las posteriores traducciones evitarán romper con el statu quo en estos aspectos? Así como eran perseguidos aquellos que ayudaban a los esclavos negros, considerando pecado su esclavitud ¿será que no era muy bien visto considerar pecado la pederastía?
 
 Si esto es así, es doblemente confirmatorio cuando regresamos al marco ideado por Pablo para hacer coincidir su lista de injusticias con el Decálogo. La quinta lista coincidiría con los mandamientos séptimo y octavo. El séptimo tiene que ver con las prácticas de fornicación o adulterio, que generalmente se daban en contextos de prostitución, sagrada o profana (Ex. 20:14) y, con toda sorpresa podemos notar que el octavo mandamiento tiene que ver con el hurto (Ex.20:15).  El texto de Pablo nos habla del proxeneta que hurta humanos con fines sexuales comerciales; de niños hurtados, secuestrados, para ser esclavos sexuales (catamitas); y del hurto o tráfico de humanos con fines esclavizadores.  
 
