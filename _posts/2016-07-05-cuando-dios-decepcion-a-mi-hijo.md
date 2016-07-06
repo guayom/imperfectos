@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 published: false
-title: Cuando Dios decepcionó a mi hijo
+title: 'Cuando Dios decepcionó a mi hijo, lecciones del día'
 img: nino-orando.jpg
 thumb: nino-orando-th.jpg
 date: '2016-07-05 00:00:00'
