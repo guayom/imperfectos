@@ -3,13 +3,15 @@ extraclass: sp-single
 excerpt_separator: <!--more-->
 categories: blog
 layout: post
-title: 'Cuando Dios decepcionó a mi hijo, lecciones del día'
+title: Cuando Dios decepcionó a mi hijo, lecciones del día
 img: nino-orando.jpg
 thumb: nino-orando-th.jpg
 date: 2016-07-05 00:00:00
 published: true
 ---
 Hay noches tranquilas y hay noches de tormanta. Hay noches que, al ver a los ojos de quien amas, presagian un terremoto. Anoche era una de esas noches en las que se augura una gran batalla. Y no importa si la noche es benévola o si gruñe con alevosía, mi hijo y yo oramos sin falta. Y oramos con fe, sin rutinas vacías. Nosotros conversamos juntos con Dios.
+
+<!--more-->
 
 Santi, por ejemplo, es capaz de conversar seriamente con el Dios que está conociendo y decirle “Dios, quitame toda esta chicha (enojo) que tengo”, o es frecuente que acabe todas sus oraciones con un simple “hasta luego Dios”.
 
