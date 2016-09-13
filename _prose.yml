@@ -47,3 +47,8 @@ prose:
           element: "text"
           label: "Thumbnail"
           help: "Aquí hay que poner el nombre del thumbnail. ej: imagen.jpg. El thumbnail es el que sale en el menú de navegación"
+      - name: "published"
+        field:
+          element: "text"
+          label: "Published"
+          placeholder: "true or false"
