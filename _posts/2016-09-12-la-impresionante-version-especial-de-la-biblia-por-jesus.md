@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'LA IMPRESIONANTE VERSION ESPECIAL DE LA BIBLIA, POR JESUS'
-published: false
+published: true
 ---
 Jesús entró a la sinagoga, cerca de donde había sido criado. Ahí leyó el texto de Isaías 61 en el que se configura su comisión en la tierra. Este acontecimiento está narrado en Lucas 4, y en los versículos 18 y 19 aparece el texto que pronunció Jesús de la siguiente manera:
 
