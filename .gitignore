@@ -3,3 +3,13 @@
 .jekyll-metadata
 _site/
 _glynn.yml
+
+_assets/.DS_Store
+
+_frases/.DS_Store
+
+_plugins/.DS_Store
+
+_posts/.DS_Store
+
+.DS_Store
