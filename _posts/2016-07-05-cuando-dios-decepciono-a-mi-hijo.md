@@ -6,7 +6,7 @@ layout: post
 title: Cuando Dios decepcionó a mi hijo, lecciones del día
 img: nino-orando.jpg
 thumb: nino-orando-th.jpg
-date: 'Jul 7 2016 00:00:00 GMT-0600 (CST)'
+date: 'Jul 5 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---
 Hay noches tranquilas y hay noches de tormanta. Hay noches que, al ver a los ojos de quien amas, presagian un terremoto. Anoche era una de esas noches en las que se augura una gran batalla. Y no importa si la noche es benévola o si gruñe con alevosía, mi hijo y yo oramos sin falta. Y oramos con fe, sin rutinas vacías. Nosotros conversamos juntos con Dios.
