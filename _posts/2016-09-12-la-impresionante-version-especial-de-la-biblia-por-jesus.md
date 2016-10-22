@@ -8,6 +8,7 @@ published: false
 img: nino-orando.jpg
 thumb: nino-orando-th.jpg
 date: 2016-07-05 00:00:00
+date: 'Sep 9 2016 00:00:00 GMT-0600 (CST)'
 ---
 Jesús entró a la sinagoga, cerca de donde había sido criado. Ahí leyó el texto de Isaías 61 en el que se configura su comisión en la tierra. Este acontecimiento está narrado en Lucas 4, y en los versículos 18 y 19 aparece el texto que pronunció Jesús de la siguiente manera:
 
