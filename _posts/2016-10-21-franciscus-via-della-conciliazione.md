@@ -11,6 +11,8 @@ published: true
 ---
 La Guardia Suiza permitió sin vacilar que el vehículo entrara a la Ciudad Estado del Vaticano. La furgoneta negra, propiedad del Pontificio Concilio para la Unidad de los Cristianos avanzó confiadamente, Vaticano adentro, hasta culminar en una gran plaza. Llovía levemente sobre Roma. Frente a nosotros el Palacio Apostólico, el Palacio de los Papas. En él han habitado y reinado por siglos los líderes supremos de la Iglesia romana.
 
+<!--more-->
+
 La noche anterior habíamos recibido la notificación de que seríamos recogidos por los personeros del Pontificio Concilio para la Unidad de los Cristianos justo en la significativa *Via della Conciliazione* (Vía de la conciliación). Una avenida de 500 metros de longitud que conecta la Plaza de San Pedro con el Castel Sant'Angelo en la ribera occidental del río Tiber. Fue construida entre pugnas y altercados políticos luego de que el Papa Pío IX declarara *sentirse un prisionero en el Vaticano.* Esta frase fue dicha en el contexto de la ocupación que sufrió el Vaticano por parte del Reino de Italia durante el siglo XIX.  ¿Se sentirá Francisco prisionero en el Vaticano? ¿O se sentirá prisionero del Vaticano?
 
 Yo pensaba contínuamente en la elección del lugar para el primer contacto, podría ser un sitio elegido al azar, por comodidad o cercanía, eso es cierto. Pero ¿y si encerraba, mas bien, una elección completamente intencionada, por parte de nuestros anfitriones? *La conciliación* podría ser un mensaje, una especie de consigna, una clave.  Entonces decidí creerlo: *La Via della Conciliazione* era una clave hermenéutica mediante la que deberíamos interpretar todo lo que acontecería en los siguientes días.
