@@ -3,7 +3,7 @@ extraclass: sp-single
 excerpt_separator: <!--more-->
 categories: blog
 layout: post
-title: Franciscus,  Via della Conciliazione
+title: Franciscus, Via della Conciliazione
 img: franciscus.jpg
 thumb: franciscus-th.jpg
 date: 2016-10-21 00:00:00
