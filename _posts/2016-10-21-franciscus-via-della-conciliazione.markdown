@@ -6,7 +6,7 @@ layout: post
 title: Franciscus, Via della Conciliazione
 img: franciscus.jpg
 thumb: franciscus-th.jpg
-date: 2016-10-21 00:00:00
+date: 2016-10-21 01:00:00
 published: true
 ---
 La Guardia Suiza permitió sin vacilar que el vehículo entrara a la Ciudad Estado del Vaticano. La furgoneta negra, propiedad del Pontificio Concilio para la Unidad de los Cristianos avanzó confiadamente, Vaticano adentro, hasta culminar en una gran plaza. Llovía levemente sobre Roma. Frente a nosotros el Palacio Apostólico, el Palacio de los Papas. En él han habitado y reinado por siglos los líderes supremos de la Iglesia romana.
