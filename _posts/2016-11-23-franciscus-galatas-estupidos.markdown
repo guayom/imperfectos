@@ -6,7 +6,7 @@ layout: post
 title: 'Franciscus, “Gálatas estúpidos”'
 img: franciscus-3.jpg
 thumb: franciscus-3-th.jpg
-date: 'Tue Nov 23 2016 00:00:00 GMT-0600 (CST)'
+date: 'Wed Nov 23 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---
 ¡Gálatas estúpidos! Lo dijo en italiano y utilizó la palabra stupido libremente y sin contemplaciones mientras agitaba sus manos, como buen argentino que es. El texto de Gálatas 3:1 en una versión italiana habla de los Gálatas tontos o insensatos stolti Gàlati, que habían permitido que se les sedujera con otras verdades. Francisco sonrió y se aseguró de que hubiéramos comprendido el golpe de su palabra:
