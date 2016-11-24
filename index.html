@@ -7,7 +7,7 @@ img: header.jpg
 <article class="sp-post">
   {% if post.img %}
   <figure class="sp-thumb-container">
-    <a href="{{ site.github.url }}{{ post.url}}"><img src="{{ site.github.url }}/images/{{ post.img }}" alt=""></a>
+    <a href="{{ site.url }}{{ post.url}}"><img src="{{ site.url }}/images/{{ post.img }}" alt=""></a>
   </figure>
   {% else %}
     {% if forloop.index != 1 %}
@@ -19,11 +19,11 @@ img: header.jpg
       <div class="sp-post-desc">
         <header class="sp-post-header">
           <div class="sp-meta"><span><a href="#">{{ post.categories }}</a></span> <span><a href="#">{{ post.date | date: "%b %-d, %Y" }}</a></span></div>
-          <h2 class="sp-post-title"><a href="{{ site.github.url }}{{post.url}}">{{ post.title }}</a></h2>
+          <h2 class="sp-post-title"><a href="{{ site.url }}{{post.url}}">{{ post.title }}</a></h2>
 
           <div class="sp-post-info sp-clearfix">
             <div class="sp-post-meta">
-              <img class="sp-avatar" src="{{ site.github.url }}/images/jose-thumb.jpg" alt="">
+              <img class="sp-avatar" src="{{ site.url }}/images/jose-thumb.jpg" alt="">
               <p class="sp-author-name"><i>Por: </i>Jose Pablo Chacón</p>
               <!--<p class="sp-comment-count"><a href="#">27 Comments</a></p>-->
               <hr class="sp-separator">
@@ -43,7 +43,7 @@ img: header.jpg
         <div class="sp-entry-content">
           {{ post.excerpt }}
         </div>
-        <a class="sp-more button button-default" href="{{ site.github.url }}{{ post.url}}">Leer Más...</a>
+        <a class="sp-more button button-default" href="{{ site.url }}{{ post.url}}">Leer Más...</a>
       </div>
     </div>
   </div>
@@ -76,7 +76,7 @@ img: header.jpg
 <!--//Post//-->
 <div class="sp-post">
   <figure class="sp-thumb-container sp-featured-image frases-home">
-    <img src="{{ site.github.url }}/images/header-generico.jpg" alt="">
+    <img src="{{ site.url }}/images/header-generico.jpg" alt="">
     <figcaption class="sp-caption"><h2 class="sp-post-title">Frases para compartir</h2></figcaption>
   </figure>
   <div class="sp-post-content">
@@ -85,8 +85,8 @@ img: header.jpg
         {% for frase in site.frases limit: 3%}
           <div class="col-xs-4 grid-item">
             <div class="thumbnail">
-              <a href="{{ site.github.url }}/frases/{{ frase.key }}/">
-                <img src="{{ site.github.url }}/images/frases/{{ frase.key }}.png" alt="{{ frase.contenido }}">
+              <a href="{{ site.url }}/frases/{{ frase.key }}/">
+                <img src="{{ site.url }}/images/frases/{{ frase.key }}.png" alt="{{ frase.contenido }}">
               </a>
               <div class="caption">
                 <!-- botones de compartir -->
@@ -96,7 +96,7 @@ img: header.jpg
         {% endfor %}
       </div>
       <div class="row text-center">
-        <a class="btn btn-primary" href="{{ site.github.url }}/frases/">Ver más frases</a>
+        <a class="btn btn-primary" href="{{ site.url }}/frases/">Ver más frases</a>
     </div>
   </div>
 </div> <!--//End Post-->
