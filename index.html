@@ -7,7 +7,7 @@ img: header.jpg
 <article class="sp-post">
   {% if post.img %}
   <figure class="sp-thumb-container">
-    <a href="{{ post.url}}"><img src="/images/{{ post.img }}" alt=""></a>
+    <a href="{{ post.url}}"><img src="/images/{{ post.img }}" alt="{{post.title}}"></a>
   </figure>
   {% else %}
     {% if forloop.index != 1 %}
@@ -23,7 +23,7 @@ img: header.jpg
 
           <div class="sp-post-info sp-clearfix">
             <div class="sp-post-meta">
-              <img class="sp-avatar" src="/images/jose-thumb.jpg" alt="">
+              <img class="sp-avatar" src="/images/jose-thumb.jpg" alt="Jose Pablo Chacón">
               <p class="sp-author-name"><i>Por: </i>Jose Pablo Chacón</p>
               <!--<p class="sp-comment-count"><a href="#">27 Comments</a></p>-->
               <hr class="sp-separator">
@@ -76,7 +76,7 @@ img: header.jpg
 <!--//Post//-->
 <div class="sp-post">
   <figure class="sp-thumb-container sp-featured-image frases-home">
-    <img src="/images/header-generico.jpg" alt="">
+    <img src="/images/header-generico.jpg" alt="Frases para compartir">
     <figcaption class="sp-caption"><h2 class="sp-post-title">Frases para compartir</h2></figcaption>
   </figure>
   <div class="sp-post-content">
