@@ -10,7 +10,7 @@ title: Podcast
 <article class="sp-post">
   {% if post.img %}
   <figure class="sp-thumb-container">
-    <a href="{{ site.url }}{{ post.url}}"><img src="{{ site.url }}/images/{{ post.img }}" alt=""></a>
+    <a href="{{ post.url}}"><img src="/images/{{ post.img }}" alt=""></a>
   </figure>
   {% else %}
     {% if forloop.index != 1 %}
