@@ -45,6 +45,7 @@ defaults:
 gems:
   - jekyll-srcset
   - jekyll-paginate
+  - jekyll-sitemap
 
 srcset:
   cache: "/tmp/images"
