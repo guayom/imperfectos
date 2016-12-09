@@ -5,7 +5,7 @@ description: "La palabra PERFECTO significa que ya está completo. Nosotros somo
 slogan: Buenas ideas<br/> para la gente imperfecta
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: ""
-url: "http://imperfectos.org" # the base hostname & protocol for your site
+url: "https://imperfectos.org" # the base hostname & protocol for your site
 
 #Redes Sociales
 redes:
