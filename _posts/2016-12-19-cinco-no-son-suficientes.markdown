@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'Cinco no son suficientes'
-img:
-thumb:
+img: cinco-no-son-suficientes.jpg
+thumb: cinco-no-son-suficientes-th.jpg
 date: 'Mon Dic 19 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---
