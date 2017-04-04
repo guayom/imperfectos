@@ -65,7 +65,7 @@ extraclass: sp-single
 	          <span>Compartir:</span>
 
             <!-- Twitter -->
-            <a class="twitter popup" href="https://twitter.com/share?url=https://imperfectos.org{{ post.url }}&amp;text={{ page.title }}&related={{ site.twitter_username }}" target="_blank">
+            <a class="twitter popup" href="https://twitter.com/share?url=https://imperfectos.org{{ page.url }}&amp;text={{ page.title }}&related={{ site.twitter_username }}" target="_blank">
                 <i class="fa fa-twitter"> Twitter</i>
             </a>
 
@@ -74,7 +74,11 @@ extraclass: sp-single
                <i class="fa fa-facebook"></i> Facebook
             </a>
 
-	          <a class="g-plus" href="https://plus.google.com/share?url={{ page.url }}" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus"></i> Google Plus</a>
+            <!-- Google+ -->
+            <a href="https://plus.google.com/share?url=https://imperfectos.org{{ page.url }}" rel="nofollow" target="_blank" class="g-plus gplus">
+              <i class="fa fa-google-plus"></i> Google Plus
+            </a>
+
 	          <a class="mail" href="mailto:?subject={{ page.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{site.url }}{{ page.url }}"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 

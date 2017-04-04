@@ -43,8 +43,12 @@ img: header.jpg
                  <i class="fa fa-facebook"></i>
               </a>
 
-              <a class="g-plus gplus" href="https://plus.google.com/share?url={{ post.url }}" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus"></i></a>
-              <a class="mail" href="mailto:?subject={{ post.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ post.url }}"><i class="fa fa-envelope-o"></i></a>
+              <!-- Google+ -->
+              <a href="https://plus.google.com/share?url=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="g-plus gplus">
+                <i class="fa fa-google-plus"></i>
+              </a>
+
+              <a class="mail" href="mailto:?subject={{ post.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ post.title }}: {{ post.url }}"><i class="fa fa-envelope-o"></i></a>
               </p>
             </div>
           </div>
