@@ -2,6 +2,8 @@
 .sass-cache/
 .jekyll-metadata
 _site/
+_site/**/
+_site
 _glynn.yml
 
 _assets/.DS_Store
@@ -13,3 +15,9 @@ _plugins/.DS_Store
 _posts/.DS_Store
 
 .DS_Store
+
+_site/2012/05/13/youcef-nadarkhani-contra-el-extremismo-cristiano.html
+
+_site/vida/2013/11/22/princesas-rojas-entre-musica-teologia-esperanza-y-decepcion.html
+
+_site/vida/2012/05/07/descalzo.html
