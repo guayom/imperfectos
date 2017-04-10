@@ -34,21 +34,21 @@ img: header.jpg
               <p class="sp-share-list">
 
               <!-- Twitter -->
-              <a class="twitter popup" href="https://twitter.com/share?url=https://imperfectos.org{{ post.url }}&amp;text={{ post.title }}&related={{ site.twitter_username }}" target="_blank">
+              <a class="twitter popup" href="https://twitter.com/share?url=https://imperfectos.org{{ post.url }}&amp;text={{ post.title }}&related={{ site.twitter_username }}" target="_blank" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Twitter', '{{ post.title }}');">
                   <i class="fa fa-twitter"></i>
               </a>
 
               <!-- Facebook -->
-              <a href="http://www.facebook.com/sharer.php?u=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="facebook" title="Compartir en Facebook">
+              <a href="http://www.facebook.com/sharer.php?u=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="facebook" title="Compartir en Facebook" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Facebook', '{{ post.title }}');">
                  <i class="fa fa-facebook"></i>
               </a>
 
               <!-- Google+ -->
-              <a href="https://plus.google.com/share?url=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="g-plus gplus">
+              <a href="https://plus.google.com/share?url=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="g-plus gplus" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Google+', '{{ post.title }}');">
                 <i class="fa fa-google-plus"></i>
               </a>
 
-              <a class="mail" href="mailto:?subject={{ post.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ post.title }}: {{ post.url }}"><i class="fa fa-envelope-o"></i></a>
+              <a class="mail" href="mailto:?subject={{ post.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ post.title }}: {{ post.url }}" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Mail', '{{ post.title }}');"><i class="fa fa-envelope-o"></i></a>
               </p>
             </div>
           </div>
@@ -56,7 +56,7 @@ img: header.jpg
         <div class="sp-entry-content">
           {{ post.excerpt }}
         </div>
-        <a class="sp-more button button-default" href="{{ post.url}}">Leer Más...</a>
+        <a class="sp-more button button-default" href="{{ post.url}}" onClick="ga('send', 'event', 'Home Clicks', 'Leer más', '{{ post.title }}');">Leer Más...</a>
       </div>
     </div>
   </div>
