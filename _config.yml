@@ -11,7 +11,7 @@ url: "http://imperfectos.org" # the base hostname & protocol for your site
 #Redes Sociales
 redes:
  - nombre: facebook
-   url: https://www.facebook.com/jose.chacona
+   url: https://www.facebook.com/imperfectos.org/
  - nombre: twitter
    url: https://twitter.com/yahvista
 
