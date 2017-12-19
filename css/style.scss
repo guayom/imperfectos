@@ -2228,3 +2228,14 @@ span.page_number {
     margin: 0 auto;
     text-align: center;
 }
+
+
+table {
+  border: solid 1px #ccc;
+  margin-bottom: 20px;
+
+  td, th {
+    padding: 10px;
+  }
+
+}
