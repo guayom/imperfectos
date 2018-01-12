@@ -6,7 +6,7 @@ layout: post
 title: 'Cinco no son suficientes'
 img: cinco-no-son-suficientes.jpg
 thumb: cinco-no-son-suficientes-th.jpg
-date: 'Mon Dic 19 2016 00:00:00 GMT-0600 (CST)'
+date: 'Dec 19 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---
 Cuando José Calvo Aguilar me sugirió la idea de escribir algunas líneas de recomendación de los 5 libros que todo líder debería leer, dije que sí inmediatamente. Días después me di cuenta de que era una tarea verdaderamente difícil.  Cinco libros no son suficientes, y no creo tener la ultima palabra en cuanto a libros. Tampoco tengo mis cinco favoritos. Los libros son como los amigos, todos ellos pueden ser tus mejores amigos en ciertas épocas y pueden dejar de serlo durante largas temporadas, pero también es posible que vuelvan a ser tus mejores compañeros, casi hermanos.  Aquí quiero recomendarles cinco de esos libros que han sido amigos cercanos para mí en el contexto del liderazgo, aunque hoy por hoy quizás no todos ellos lo sean.

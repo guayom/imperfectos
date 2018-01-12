@@ -9,7 +9,6 @@ thumb: conservadurismo-th.jpg
 date: 'Dec 18 2017 00:00:00 GMT-0600 (CST)'
 published: true
 ---
-
 *Feto* es una palabra que puede evocar muchas emociones. Desde el punto de vista de unos padres que esperan la vida de un hijo o una hija, el feto es la esperanza más preciosa del nuevo nacimiento, el milagro de la vida y de la ternura. Para otros, la palabra feto, puede evocar a la debilidad más despreciable o a la vulnerabildiad de un ser que aún no puede ser considerado digno.  Incluso, para los que piensan que este mundo se está acabando y que cada vez es peor, la palabra feto puede suponer una tragedia que debe ser evitada porque sería preferible no traer más niños a este terrible mundo perdido.
 
 <!--more-->
