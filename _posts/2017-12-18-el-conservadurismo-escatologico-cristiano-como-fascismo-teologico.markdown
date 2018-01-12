@@ -6,7 +6,7 @@ layout: post
 title: 'El conservadurismo escatológico cristiano como fascismo teológico'
 img: conservadurismo.jpg
 thumb: conservadurismo-th.jpg
-date: 'Tue Dec 18 2017 00:00:00 GMT-0600 (CST)'
+date: 'Dec 18 2017 00:00:00 GMT-0600 (CST)'
 published: true
 ---
 
