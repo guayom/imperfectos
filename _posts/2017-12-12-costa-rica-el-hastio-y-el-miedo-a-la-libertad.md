@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'Costa Rica, el hastío y el miedo a la libertad'
-img: hastio.jpg
-thumb: hastio-th.jpg
+img: /images/hastio.jpg
+thumb: /images/hastio-th.jpg
 date: 'Tue Dec 12 2017 00:00:00 GMT-0600 (CST)'
 published: true
 ---

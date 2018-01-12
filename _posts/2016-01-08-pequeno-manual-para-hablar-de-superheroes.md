@@ -3,8 +3,8 @@ layout: post
 title:  Pequeño manual para hablar de superhéroes
 date:   2016-01-08 00:00:00
 categories: blog
-img: superheroes.jpg
-thumb: superheroes-th.jpg
+img: /images/superheroes.jpg
+thumb: /images/superheroes-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

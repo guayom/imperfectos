@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'Franciscus, Via della Conciliazione'
-img: franciscus.jpg
-thumb: franciscus-th.jpg
+img: /images/franciscus.jpg
+thumb: /images/franciscus-th.jpg
 date: 'Fri Oct 21 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---

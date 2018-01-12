@@ -23,7 +23,7 @@ Gracias a Dios existen aún muchos otros corazones dispuestos a dar sin esperar 
 El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ y a personas particulares. Me pregunto por qué, en medio de tanta cristiandad, habrá tan pocos cristianos que recuerden este tajante texto:
 "Cuídense de no hacer sus obras de justicia delante de la gente para llamar la atención. Si actúan así, su Padre que está en el cielo no les dará ninguna recompensa. Por eso, cuando des a los necesitados, no lo anuncies al son de trompeta, como lo hacen los hipócritas en las sinagogas y en las calles para que la gente les rinda homenaje. Les aseguro que ellos ya han recibido toda su recompensa. Más bien, cuando des a los necesitados, que no se entere tu mano izquierda de lo que hace la derecha, para que tu limosna sea en secreto. Así tu Padre, que ve lo que se hace en secreto, te recompensará". (Mt. 6:1-4). 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -43,7 +43,7 @@ El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ
 "Cuídense de no hacer sus obras de justicia delante de la gente para llamar la atención. Si actúan así, su Padre que está en el cielo no les dará ninguna recompensa. Por eso, cuando des a los necesitados, no lo anuncies al son de trompeta, como lo hacen los hipócritas en las sinagogas y en las calles para que la gente les rinda homenaje. Les aseguro que ellos ya han recibido toda su recompensa. Más bien, cuando des a los necesitados, que no se entere tu mano izquierda de lo que hace la derecha, para que tu limosna sea en secreto. Así tu Padre, que ve lo que se hace en secreto, te recompensará". (Mt. 6:1-4). 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -58,7 +58,7 @@ Gracias a Dios existen aún muchos otros corazones dispuestos a dar sin esperar 
 El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ y a personas particulares. Me pregunto por qué, en medio de tanta cristiandad, habrá tan pocos cristianos que recuerden este tajante texto:
 "Cuídense de no hacer sus obras de justicia delante de la gente para llamar la atención. Si actúan así, su Padre que está en el cielo no les dará ninguna recompensa. Por eso, cuando des a los necesitados, no lo anuncies al son de trompeta, como lo hacen los hipócritas en las sinagogas y en las calles para que la gente les rinda homenaje. Les aseguro que ellos ya han recibido toda su recompensa. Más bien, cuando des a los necesitados, que no se entere tu mano izquierda de lo que hace la derecha, para que tu limosna sea en secreto. Así tu Padre, que ve lo que se hace en secreto, te recompensará". (Mt. 6:1-4). 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -74,8 +74,8 @@ El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/vida/2012/01/04/solidaridad-vs-oportunismo.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/vida/2012/01/04/solidaridad-vs-oportunismo.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -83,6 +83,8 @@ El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -292,7 +294,7 @@ El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Solidaridad Vs. Oportunismo.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/vida/2012/01/04/solidaridad-vs-oportunismo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Solidaridad Vs. Oportunismo.');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Solidaridad Vs. Oportunismo.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/vida/2012/01/04/solidaridad-vs-oportunismo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Solidaridad Vs. Oportunismo.');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -453,6 +455,18 @@ El proyecto sigue en pie, gracias a empresas como Cefa, Universidad Veritas, JBQ
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

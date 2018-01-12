@@ -27,7 +27,7 @@ Actualmente  su población es cerca de 50% cristiana y 50% musulmana. Sin embar
 Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz. (Is. 9:6)
 En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de Paz, en esa misma Belén no hay esperanza, no hay paz, no hay libertad. Allá donde corrió el pequeño Jesús, cada vez que un niño es golpeado por el terror de la guerra,  allá vuelve a caer el niño más famoso de Belén y vuelve a llorar de dolor.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -51,7 +51,7 @@ Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro
 En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de Paz, en esa misma Belén no hay esperanza, no hay paz, no hay libertad. Allá donde corrió el pequeño Jesús, cada vez que un niño es golpeado por el terror de la guerra,  allá vuelve a caer el niño más famoso de Belén y vuelve a llorar de dolor.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -68,7 +68,7 @@ Actualmente  su población es cerca de 50% cristiana y 50% musulmana. Sin embar
 Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz. (Is. 9:6)
 En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de Paz, en esa misma Belén no hay esperanza, no hay paz, no hay libertad. Allá donde corrió el pequeño Jesús, cada vez que un niño es golpeado por el terror de la guerra,  allá vuelve a caer el niño más famoso de Belén y vuelve a llorar de dolor.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -84,8 +84,8 @@ En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de 
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/30/un-nino-llora-en-belen.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/30/un-nino-llora-en-belen.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -93,6 +93,8 @@ En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de 
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -304,7 +306,7 @@ En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de 
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Un niño llora en Belén&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/30/un-nino-llora-en-belen.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Un niño llora en Belén');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Un niño llora en Belén&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/30/un-nino-llora-en-belen.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Un niño llora en Belén');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -465,6 +467,18 @@ En Belén nació el Consejero, el Dios Fuerte, el Padre Eterno, el Príncipe de 
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

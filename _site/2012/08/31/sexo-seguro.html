@@ -15,7 +15,7 @@
   <meta itemprop="description" content="¿Qué es realmente sexo seguro? Me pregunto qué estarán pensando aquellos que afirman que el sexo seguro se practica dentro del matrimonio... con tanta violencia sexual, con tanto dolor no intencional que puede traer el sexo (dentro o fuera del matrimonio) ¿Qué es sexo seguro? Mi respuesta es que no existe el sexo seguro, ni siquiera la abstinencia es "sexo seguro". Lo importante sería enseñar a nuestros niños las implicaciones del sexo, en toda su amplia dimensión.
 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="¿Qué es realmente sexo seguro? Me pregunto qué estarán pensando aquellos que afirman que el sexo seguro se practica dentro del matrimonio... con tanta violencia sexual, con tanto dolor no intencional que puede traer el sexo (dentro o fuera del matrimonio) ¿Qué es sexo seguro? Mi respuesta es que no existe el sexo seguro, ni siquiera la abstinencia es "sexo seguro". Lo importante sería enseñar a nuestros niños las implicaciones del sexo, en toda su amplia dimensión.
@@ -27,7 +27,7 @@
 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -38,7 +38,7 @@
     <meta property="og:description" content="¿Qué es realmente sexo seguro? Me pregunto qué estarán pensando aquellos que afirman que el sexo seguro se practica dentro del matrimonio... con tanta violencia sexual, con tanto dolor no intencional que puede traer el sexo (dentro o fuera del matrimonio) ¿Qué es sexo seguro? Mi respuesta es que no existe el sexo seguro, ni siquiera la abstinencia es "sexo seguro". Lo importante sería enseñar a nuestros niños las implicaciones del sexo, en toda su amplia dimensión.
 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -54,8 +54,8 @@
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2012/08/31/sexo-seguro.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2012/08/31/sexo-seguro.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -63,6 +63,8 @@
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -240,7 +242,7 @@
 	        </div>
 
 	        <p>¿Qué es realmente sexo seguro? Me pregunto qué estarán pensando aquellos que afirman que el sexo seguro se practica dentro del matrimonio... con tanta violencia sexual, con tanto dolor no intencional que puede traer el sexo (dentro o fuera del matrimonio) ¿Qué es sexo seguro? Mi respuesta es que no existe el sexo seguro, ni siquiera la abstinencia es "sexo seguro". Lo importante sería enseñar a nuestros niños las implicaciones del sexo, en toda su amplia dimensión.</p>
-<p><a href="http://lospalimpsestos.files.wordpress.com/2012/08/captura-de-pantalla-2012-08-30-a-las-22-35-241.png"><img class="size-full wp-image" src="/assets/captura-de-pantalla-2012-08-30-a-las-22-35-241.png?w=633" alt="Image" /></a></p>
+<p><a href="http://lospalimpsestos.files.wordpress.com/2012/08/captura-de-pantalla-2012-08-30-a-las-22-35-241.png"><img class="size-full wp-image" src="/assets/captura-de-pantalla-2012-08-30-a-las-22-35-241.png" alt="Image" /></a></p>
 
 	      </div>
 
@@ -268,7 +270,7 @@
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=¿Sexo Seguro?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2012/08/31/sexo-seguro.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Sexo Seguro?');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=¿Sexo Seguro?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2012/08/31/sexo-seguro.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Sexo Seguro?');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -429,6 +431,18 @@
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

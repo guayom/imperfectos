@@ -3,8 +3,8 @@ layout: post
 title:  ¿Cómo convertí el fracaso del abuso en mi mayor éxito de vida?
 date:   2016-03-30 00:00:00
 categories: blog
-img: fracaso-de-abuso-mayor-exito.jpg
-thumb: fracaso-de-abuso-mayor-exito-th.jpg
+img: /images/fracaso-de-abuso-mayor-exito.jpg
+thumb: /images/fracaso-de-abuso-mayor-exito-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

@@ -7,7 +7,7 @@ img: header.jpg
 <article class="sp-post">
   {% if post.img %}
   <figure class="sp-thumb-container">
-    <a href="{{ post.url}}"><img src="/images/{{ post.img }}" alt="{{post.title}}"></a>
+    <a href="{{ post.url}}"><img src="{{ post.img }}" alt="{{post.title}}"></a>
   </figure>
   {% else %}
     {% if forloop.index != 1 %}

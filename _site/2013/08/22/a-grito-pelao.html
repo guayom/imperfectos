@@ -59,7 +59,7 @@ El estilo prepotente predica sobre una vda irreal, con soluciones irreales impos
 Busquemos predicar con naturalidad, prediquemos sencillamente, como lo hacía Jesús, entendiendo que quienes nos escuchan merecen un mensaje respetuoso, pero alegre, con lágrimas a veces, pero con humildad y que comprenda que no es fácil, la vida no es sencilla y la vida cristiana tampoco lo es.
 Recomiendo el material del Dr. Rubén Gil titulado "Hacia una predicación comunicativa, aplicando las técnicas periodísticas al púlpito", del cual he extraído algunas de las ideas expuestas en esta entrada.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="Nací en una familia de pastores y misioneros. Esto, más allá del azar del destino, creo que ha sido una de esas interesantes ideas de Dios.
@@ -115,7 +115,7 @@ Busquemos predicar con naturalidad, prediquemos sencillamente, como lo hacía Je
 Recomiendo el material del Dr. Rubén Gil titulado "Hacia una predicación comunicativa, aplicando las técnicas periodísticas al púlpito", del cual he extraído algunas de las ideas expuestas en esta entrada.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -148,7 +148,7 @@ El estilo prepotente predica sobre una vda irreal, con soluciones irreales impos
 Busquemos predicar con naturalidad, prediquemos sencillamente, como lo hacía Jesús, entendiendo que quienes nos escuchan merecen un mensaje respetuoso, pero alegre, con lágrimas a veces, pero con humildad y que comprenda que no es fácil, la vida no es sencilla y la vida cristiana tampoco lo es.
 Recomiendo el material del Dr. Rubén Gil titulado "Hacia una predicación comunicativa, aplicando las técnicas periodísticas al púlpito", del cual he extraído algunas de las ideas expuestas en esta entrada.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -164,8 +164,8 @@ Recomiendo el material del Dr. Rubén Gil titulado "Hacia una predicación comun
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2013/08/22/a-grito-pelao.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2013/08/22/a-grito-pelao.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -173,6 +173,8 @@ Recomiendo el material del Dr. Rubén Gil titulado "Hacia una predicación comun
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -400,7 +402,7 @@ Crecí viendo a mi papá en un púlpito, siempre digo que mis primeros recuerdos
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=¡A grito pelao!&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2013/08/22/a-grito-pelao.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¡A grito pelao!');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=¡A grito pelao!&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2013/08/22/a-grito-pelao.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¡A grito pelao!');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -561,6 +563,18 @@ Crecí viendo a mi papá en un púlpito, siempre digo que mis primeros recuerdos
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

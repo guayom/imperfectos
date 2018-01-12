@@ -29,7 +29,7 @@ Y no es que hayamos estado lejos de la sangre y de la guerra. Al norte, en Nicar
 A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, que anhelan la paz. Yo vengo de la paz y voy a la paz. Y no solo yo, me acompaña (o debería acompañar) toda una generación de costarricenses hijos de la paz. Por eso, a la pregunta de quién soy yo para hablar de paz, mi respuesta es que mi madre patria se llama Costa Rica y se apellida Paz".
 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -55,7 +55,7 @@ A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, qu
 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -73,7 +73,7 @@ Y no es que hayamos estado lejos de la sangre y de la guerra. Al norte, en Nicar
 A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, que anhelan la paz. Yo vengo de la paz y voy a la paz. Y no solo yo, me acompaña (o debería acompañar) toda una generación de costarricenses hijos de la paz. Por eso, a la pregunta de quién soy yo para hablar de paz, mi respuesta es que mi madre patria se llama Costa Rica y se apellida Paz".
 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -89,8 +89,8 @@ A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, qu
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/15/mi-madre-patria-se-llama-costa-rica-y-se-apellida-paz.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/15/mi-madre-patria-se-llama-costa-rica-y-se-apellida-paz.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -98,6 +98,8 @@ A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, qu
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -310,7 +312,7 @@ A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, qu
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Se llama Costa Rica y se apellida Paz&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/15/mi-madre-patria-se-llama-costa-rica-y-se-apellida-paz.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Se llama Costa Rica y se apellida Paz');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Se llama Costa Rica y se apellida Paz&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/15/mi-madre-patria-se-llama-costa-rica-y-se-apellida-paz.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Se llama Costa Rica y se apellida Paz');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -471,6 +473,18 @@ A estos ciudadanos añado a todos aquellos, sin importar dónde hayan nacido, qu
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

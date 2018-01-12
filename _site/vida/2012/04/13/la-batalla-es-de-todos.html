@@ -21,7 +21,7 @@ Hay mucho ruido ahí afuera. Motores, pitos, gritos. La calle grita más fuerte 
 Cada vez que pasemos al frente, debemos hacer silencio, aquietar la mente y el corazón, y lanzar una granada de fe, una bomba atómica de esperanza.
 La lucha es de todos.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -39,7 +39,7 @@ Cada vez que pasemos al frente, debemos hacer silencio, aquietar la mente y el c
 La lucha es de todos.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -53,7 +53,7 @@ Hay mucho ruido ahí afuera. Motores, pitos, gritos. La calle grita más fuerte 
 Cada vez que pasemos al frente, debemos hacer silencio, aquietar la mente y el corazón, y lanzar una granada de fe, una bomba atómica de esperanza.
 La lucha es de todos.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -69,8 +69,8 @@ La lucha es de todos.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/vida/2012/04/13/la-batalla-es-de-todos.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/vida/2012/04/13/la-batalla-es-de-todos.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -78,6 +78,8 @@ La lucha es de todos.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -254,7 +256,7 @@ La lucha es de todos.
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.files.wordpress.com/2012/04/captura-de-pantalla-2012-04-13-a-las-10-42-03.png"><img class="aligncenter size-medium wp-image-232" title="Captura de pantalla 2012-04-13 a la(s) 10.42.03" src="/assets/captura-de-pantalla-2012-04-13-a-las-10-42-03.png?w=300" alt="" width="300" height="226" /></a></p>
+	        <p><a href="http://lospalimpsestos.files.wordpress.com/2012/04/captura-de-pantalla-2012-04-13-a-las-10-42-03.png"><img class="aligncenter size-medium wp-image-232" title="Captura de pantalla 2012-04-13 a la(s) 10.42.03" src="/assets/captura-de-pantalla-2012-04-13-a-las-10-42-03.png" alt="" width="300" height="226" /></a></p>
 <p>Ahí dentro se libra una guerra las 24 horas del día, todos los días del año, todos los años. ¿Cuántas veces pasamos al frente y no escuchamos el fragor de la batalla?</p>
 <p>Hay mucho ruido ahí afuera. Motores, pitos, gritos. La calle grita más fuerte que los niños.</p>
 <p>Cada vez que pasemos al frente, debemos hacer silencio, aquietar la mente y el corazón, y lanzar una granada de fe, una bomba atómica de esperanza.</p>
@@ -286,7 +288,7 @@ La lucha es de todos.
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=La batalla es de todos&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/vida/2012/04/13/la-batalla-es-de-todos.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'La batalla es de todos');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=La batalla es de todos&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/vida/2012/04/13/la-batalla-es-de-todos.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'La batalla es de todos');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -447,6 +449,18 @@ La lucha es de todos.
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

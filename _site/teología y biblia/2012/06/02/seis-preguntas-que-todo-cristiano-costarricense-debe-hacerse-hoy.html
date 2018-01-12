@@ -29,7 +29,7 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
 6. Si la Biblia afirma que el que dice que no es pecador miente (1a de Juan 1:8) ¿Deberíamos aplicar todo lo que pensamos de los pecadores a nosotros mismos?
 "Simultáneamente justo y pecador. Pecador en mí, justo en Cristo" (Martín Lutero)
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -55,7 +55,7 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
 "Simultáneamente justo y pecador. Pecador en mí, justo en Cristo" (Martín Lutero)
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -73,7 +73,7 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
 6. Si la Biblia afirma que el que dice que no es pecador miente (1a de Juan 1:8) ¿Deberíamos aplicar todo lo que pensamos de los pecadores a nosotros mismos?
 "Simultáneamente justo y pecador. Pecador en mí, justo en Cristo" (Martín Lutero)
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -89,8 +89,8 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/06/02/seis-preguntas-que-todo-cristiano-costarricense-debe-hacerse-hoy.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/06/02/seis-preguntas-que-todo-cristiano-costarricense-debe-hacerse-hoy.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -98,6 +98,8 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -274,7 +276,7 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.files.wordpress.com/2012/06/01.jpg"><img class="size-full wp-image aligncenter" src="/assets/01.jpg?w=330" alt="Image" /></a></p>
+	        <p><a href="http://lospalimpsestos.files.wordpress.com/2012/06/01.jpg"><img class="size-full wp-image aligncenter" src="/assets/01.jpg" alt="Image" /></a></p>
 <p><strong>NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noción de pecado que cada quien posea. </strong></p>
 <p>1. Si el prójimo para Jesús era un samaritano (enemigo) y nos insta a amar a nuestro prójimo (Lucas 10:29) ¿Quién es nuestro prójimo? (Lea también Levítico 24:16; Mateo 5:43; Mateo 19:19; Marcos 12:33).</p>
 <p>2. Si Jesús era amigo de pecadores (Mateo 11:19), ¿Podríamos aplicar la palabra "amigo" a una persona que consideramos completamente pecadora? (Lea también: Juan 15:13).</p>
@@ -310,7 +312,7 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Seis preguntas que todo cristiano costarricense debe responder hoy.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/06/02/seis-preguntas-que-todo-cristiano-costarricense-debe-hacerse-hoy.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Seis preguntas que todo cristiano costarricense debe responder hoy.');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Seis preguntas que todo cristiano costarricense debe responder hoy.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/06/02/seis-preguntas-que-todo-cristiano-costarricense-debe-hacerse-hoy.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Seis preguntas que todo cristiano costarricense debe responder hoy.');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -471,6 +473,18 @@ NOTA: Las preguntas no procuran determinar qué es pecado, ni modificar la noci�
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

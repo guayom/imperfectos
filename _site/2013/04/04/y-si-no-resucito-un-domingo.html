@@ -21,7 +21,7 @@ Una lectura sencilla de los relatos de la muerte y resurrección de Jesus en el 
 Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer día.  En Mateo 12:40 se nos dice que:  'Porque, del mismo modo que Jonás estuvo tres días y tres noches en el vientre del gran pez, así también el Hijo del Hombre estará tres días y tres noches en el seno de la tierra'. No hay una forma conocida en la matemática antigua o moderna para colocar 3 días y 3 noches entre la tarde del viernes y la mañana del Domingo.
  
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -39,7 +39,7 @@ Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer d�
  
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -53,7 +53,7 @@ Una lectura sencilla de los relatos de la muerte y resurrección de Jesus en el 
 Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer día.  En Mateo 12:40 se nos dice que:  'Porque, del mismo modo que Jonás estuvo tres días y tres noches en el vientre del gran pez, así también el Hijo del Hombre estará tres días y tres noches en el seno de la tierra'. No hay una forma conocida en la matemática antigua o moderna para colocar 3 días y 3 noches entre la tarde del viernes y la mañana del Domingo.
  
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -69,8 +69,8 @@ Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer d�
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2013/04/04/y-si-no-resucito-un-domingo.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2013/04/04/y-si-no-resucito-un-domingo.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -78,6 +78,8 @@ Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer d�
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -254,7 +256,7 @@ Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer d�
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.files.wordpress.com/2013/04/waddington_big.jpg"><img class="size-full wp-image" id="i-1170" alt="Imagen" src="/assets/waddington_big.jpg?w=650" /></a></p>
+	        <p><a href="http://lospalimpsestos.files.wordpress.com/2013/04/waddington_big.jpg"><img class="size-full wp-image" id="i-1170" alt="Imagen" src="/assets/waddington_big.jpg" /></a></p>
 <p> </p>
 <p>Una lectura sencilla de los relatos de la muerte y resurrección de Jesus en el Nuevo Testamento, nos lleva a la también sencilla conclusión de que Jesus no resucitó un domingo, sino un lunes. </p>
 <p>Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer día.  En Mateo 12:40 se nos dice que:  '<em>Porque, del mismo modo que Jonás estuvo tres días y tres noches en el vientre del gran pez, así también el Hijo del Hombre estará tres días y tres noches en el seno de la tierra'.</em> No hay una forma conocida en la matemática antigua o moderna para colocar 3 días y 3 noches entre la tarde del viernes y la mañana del Domingo.</p>
@@ -286,7 +288,7 @@ Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer d�
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=¿Y si no resucitó un domingo?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2013/04/04/y-si-no-resucito-un-domingo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Y si no resucitó un domingo?');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=¿Y si no resucitó un domingo?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2013/04/04/y-si-no-resucito-un-domingo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Y si no resucitó un domingo?');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -447,6 +449,18 @@ Jesús dice 3 veces en Mateo y 3 veces en Lucas que él resucitará al tercer d�
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

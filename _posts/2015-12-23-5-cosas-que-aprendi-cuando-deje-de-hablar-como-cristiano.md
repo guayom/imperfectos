@@ -3,8 +3,8 @@ layout: post
 title:  5 Cosas que aprendí cuando dejé de hablar como Cristiano
 date:   2015-12-23 05:51:02
 categories: blog
-img: cristiano.jpg
-thumb: cristiano-th.jpg
+img: /images/cristiano.jpg
+thumb: /images/cristiano-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

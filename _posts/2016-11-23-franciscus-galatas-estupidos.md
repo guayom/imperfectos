@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'Franciscus, “Gálatas estúpidos”'
-img: franciscus-4.jpg
-thumb: franciscus-4-th.jpg
+img: /images/franciscus-4.jpg
+thumb: /images/franciscus-4-th.jpg
 date: 'Tue Nov 23 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---

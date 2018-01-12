@@ -3,8 +3,8 @@ layout: post
 title:  "De regalos y regaloides"
 date:   2015-12-12 05:51:02
 categories: blog
-img: navidad.jpg
-thumb: navidad-th.jpg
+img: /images/navidad.jpg
+thumb: /images/navidad-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

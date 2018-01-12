@@ -40,7 +40,7 @@
         {% for post in site.categories["blog"] limit:3 %}
         <li>
           <a href="{{ post.url }}">
-            <figure class="sp-thumb-container"><img alt="{{ post.title}}" src="/images/{{ post.thumb }}"></figure>
+            <figure class="sp-thumb-container"><img alt="{{ post.title}}" src="{{ post.thumb }}"></figure>
             <div class="sp-desc">
               <h4 class="sp-title">{{ post.title }}</h4>
               <span class="sp-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

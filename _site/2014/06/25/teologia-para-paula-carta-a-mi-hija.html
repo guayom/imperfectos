@@ -65,7 +65,7 @@ Papá.
 &nbsp;
 &nbsp;
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -127,7 +127,7 @@ Papá.
 &nbsp;
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -163,7 +163,7 @@ Papá.
 &nbsp;
 &nbsp;
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -179,8 +179,8 @@ Papá.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2014/06/25/teologia-para-paula-carta-a-mi-hija.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2014/06/25/teologia-para-paula-carta-a-mi-hija.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -188,6 +188,8 @@ Papá.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -364,7 +366,7 @@ Papá.
 	          </div>
 	        </div>
 
-	        <p><a href="https://lospalimpsestos.files.wordpress.com/2014/06/foto-del-dc3ada-29-08-13-a-las-15-36-3.jpg"><img class="aligncenter size-medium wp-image-2092" src="/assets/foto-del-dc3ada-29-08-13-a-las-15-36-3.jpg?w=300" alt="Foto del día 29-08-13 a la(s) 15.36 #3" width="300" height="200" /></a></p>
+	        <p><a href="https://lospalimpsestos.files.wordpress.com/2014/06/foto-del-dc3ada-29-08-13-a-las-15-36-3.jpg"><img class="aligncenter size-medium wp-image-2092" src="/assets/foto-del-dc3ada-29-08-13-a-las-15-36-3.jpg" alt="Foto del día 29-08-13 a la(s) 15.36 #3" width="300" height="200" /></a></p>
 <p>Querida hija… yo no sabía lo dulce y poderoso que se siente pronunciar esa palabra. Es más, nunca me había detenido a pronunciarla en serio. Y es en tu nombre, Paula, que pronuncio por primera vez, y con toda su profundidad, esa palabra que aunque se parezca mucho a su gemela masculina, no es la misma.</p>
 <p>Querida hija, esta carta es para vos.</p>
 <p>Y las primeras palabras que te quiero decir es que te amo con corazón de papá enamorado. Esperé largas semanas, semanas que se me hicieron eternas para poder llamarte por tu nombre: Paula.</p>
@@ -418,7 +420,7 @@ Querida hija.</p>
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Teología para Paula (Carta a mi hija)&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2014/06/25/teologia-para-paula-carta-a-mi-hija.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Teología para Paula (Carta a mi hija)');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Teología para Paula (Carta a mi hija)&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2014/06/25/teologia-para-paula-carta-a-mi-hija.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Teología para Paula (Carta a mi hija)');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -579,6 +581,18 @@ Querida hija.</p>
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

@@ -5,8 +5,8 @@ categories: blog
 layout: post
 title: 'LA IMPRESIONANTE VERSION ESPECIAL DE LA BIBLIA, POR JESUS'
 published: true
-img: nino-orando.jpg
-thumb: nino-orando-th.jpg
+img: /images/nino-orando.jpg
+thumb: /images/nino-orando-th.jpg
 date: 'Sep 12 2016 00:00:00 GMT-0600 (CST)'
 ---
 Jesús entró a la sinagoga, cerca de donde había sido criado. Ahí leyó el texto de Isaías 61 en el que se configura su comisión en la tierra. Este acontecimiento está narrado en Lucas 4, y en los versículos 18 y 19 aparece el texto que pronunció Jesús de la siguiente manera:

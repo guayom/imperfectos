@@ -3,8 +3,8 @@ layout: post
 title:  ¿La Biblia es clara? Tres acercamientos superficiales.
 date: 'Jan 13 2016 00:00:00 GMT-0600 (CST)'
 categories: blog
-img: biblia-clara-1.jpg
-thumb: biblia-clara-1-th.jpg
+img: /images/biblia-clara-1.jpg
+thumb: /images/biblia-clara-1-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

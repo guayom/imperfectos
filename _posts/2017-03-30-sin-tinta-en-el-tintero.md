@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'Sin tinta en el tintero'
-img: sin-tinta-en-el-tintero.jpg
-thumb: sin-tinta-en-el-tintero-th.jpg
+img: /images/sin-tinta-en-el-tintero.jpg
+thumb: /images/sin-tinta-en-el-tintero-th.jpg
 date: 'Jue Mar 30 2017 00:00:00 GMT-0600 (CST)'
 published: true
 ---

@@ -7,7 +7,7 @@
   <!-- Schema.org markup for Google+ -->
   <meta itemprop="name" content="{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.title }}{% endif %}">
   <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta itemprop="image" content="/images/{{ page.img }}">
+  <meta itemprop="image" content="{{ page.img }}">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
@@ -15,7 +15,7 @@
   <meta name="twitter:title" content="Imperfectos.org">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/{{ page.img }}">
+  <meta name="twitter:image" content="{{ page.img }}">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="{{ site.title }}"/>
@@ -30,7 +30,7 @@
   {% else %}
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}" />
-    <meta property="og:image" content="/images/{{ page.img }}" />
+    <meta property="og:image" content="{{ page.img }}" />
   {% endif %}
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />

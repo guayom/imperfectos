@@ -5,8 +5,8 @@ categories: blog
 layout: post
 title: 'EL VERDADERO CRIMEN DE 1 de Timoteo 1:9-11'
 date: 'Thu Jun 23 2016 18:00:00 GMT-0600 (CST)'
-img: sh.jpg
-thumb: sh-th.jpg
+img: /images/sh.jpg
+thumb: /images/sh-th.jpg
 published: true
 ---
 En la mitología griega Zeus tiene un amante infantil. El dios griego posee un amante casi niño. Se llama Ganímedes (Gr. Γανυμήδης).  Algunos escritores sugieren que el nombre significa “alegrándose en la virilidad”. Ganímedes fue secuestrado por Zeus en Frigia. Zeus es simbolizado como un águila que rapta al niño. Ya en el Olimpo lo transformó en su amante y su copero. Todos los dioses admiraban la belleza del joven, excepto la esposa de Zeus, llamada Hera.

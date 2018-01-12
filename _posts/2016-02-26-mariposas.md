@@ -3,8 +3,8 @@ layout: post
 title:  Las mariposas nacen adultas
 date:   2016-02-26 00:00:00
 categories: blog
-img: mariposas.jpg
-thumb: mariposas-th.jpg
+img: /images/mariposas.jpg
+thumb: /images/mariposas-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

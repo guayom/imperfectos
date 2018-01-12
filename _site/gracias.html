@@ -11,7 +11,7 @@
   <!-- Schema.org markup for Google+ -->
   <meta itemprop="name" content="Imperfectos.org">
   <meta itemprop="description" content="La palabra PERFECTO significa que ya está completo. Nosotros somos IMPERFECTOS porque aún no hemos acabado, vamos por más. Este es el espacio de las buenas ideas para la gente imperfecta. Blog, libros, podcast, ideas, cursos y charlas sobre liderazgo, espiritualidad, superación y cotidianidad.">
-  <meta itemprop="image" content="/images/header.jpg">
+  <meta itemprop="image" content="header.jpg">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="La palabra PERFECTO significa que ya está completo. Nosotros somos IMPERFECTOS porque aún no hemos acabado, vamos por más. Este es el espacio de las buenas ideas para la gente imperfecta. Blog, libros, podcast, ideas, cursos y charlas sobre liderazgo, espiritualidad, superación y cotidianidad.">
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="Imperfectos.org">
   <meta name="twitter:description" content="La palabra PERFECTO significa que ya está completo. Nosotros somos IMPERFECTOS porque aún no hemos acabado, vamos por más. Este es el espacio de las buenas ideas para la gente imperfecta. Blog, libros, podcast, ideas, cursos y charlas sobre liderazgo, espiritualidad, superación y cotidianidad.">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/header.jpg">
+  <meta name="twitter:image" content="header.jpg">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -28,7 +28,7 @@
   
     <meta property="og:type" content="website" />
     <meta property="og:description" content="La palabra PERFECTO significa que ya está completo. Nosotros somos IMPERFECTOS porque aún no hemos acabado, vamos por más. Este es el espacio de las buenas ideas para la gente imperfecta. Blog, libros, podcast, ideas, cursos y charlas sobre liderazgo, espiritualidad, superación y cotidianidad." />
-    <meta property="og:image" content="/images/header.jpg" />
+    <meta property="og:image" content="header.jpg" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -44,8 +44,8 @@
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/gracias.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/gracias.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -53,6 +53,8 @@
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -312,6 +314,18 @@
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

@@ -37,7 +37,7 @@ Para Jesús el mal no proviene de una filosofía, de una religión o una etnia, 
 Amad, pues, a vuestros enemigos, haced bien, y prestad, no esperando de ello nada; y vuestra recompensa será grande, y seréis hijos del Altísimo, porque él es benigno para con los ingratos y malos. (Lc. 6:35).
 Dicho todo lo anterior ¿Quienes son los malos? ¿Qué piensa Dios de ellos? ¿Qué debemos pensar nosotros?
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -71,7 +71,7 @@ Amad, pues, a vuestros enemigos, haced bien, y prestad, no esperando de ello nad
 Dicho todo lo anterior ¿Quienes son los malos? ¿Qué piensa Dios de ellos? ¿Qué debemos pensar nosotros?
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -93,7 +93,7 @@ Para Jesús el mal no proviene de una filosofía, de una religión o una etnia, 
 Amad, pues, a vuestros enemigos, haced bien, y prestad, no esperando de ello nada; y vuestra recompensa será grande, y seréis hijos del Altísimo, porque él es benigno para con los ingratos y malos. (Lc. 6:35).
 Dicho todo lo anterior ¿Quienes son los malos? ¿Qué piensa Dios de ellos? ¿Qué debemos pensar nosotros?
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -109,8 +109,8 @@ Dicho todo lo anterior ¿Quienes son los malos? ¿Qué piensa Dios de ellos? ¿Q
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/19/los-malos-2.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/19/los-malos-2.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -118,6 +118,8 @@ Dicho todo lo anterior ¿Quienes son los malos? ¿Qué piensa Dios de ellos? ¿Q
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -334,7 +336,7 @@ Sin entrar en muchos detalles, la gran mayoría de nosotros recibimos muchos men
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Los Malos&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/19/los-malos-2.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Los Malos');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Los Malos&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/19/los-malos-2.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Los Malos');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -495,6 +497,18 @@ Sin entrar en muchos detalles, la gran mayoría de nosotros recibimos muchos men
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

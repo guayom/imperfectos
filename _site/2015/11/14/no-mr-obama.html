@@ -25,7 +25,7 @@ Why did you not mention the attack on Beirut, which left tens of dead and which 
 The words that should come out of the mouth of the holder of a Nobel Peace Prize should be words that lead us to peace and not to war. You, those who run the world, should show love towards Israel together with love towards Syria, Irak, Iran, Palestine, Europe, America, Africa… maybe something starts to change when you, those who run the world, start to change.
 PS: I say Obama, but I could say “us”
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -47,7 +47,7 @@ The words that should come out of the mouth of the holder of a Nobel Peace Prize
 PS: I say Obama, but I could say “us”
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -63,7 +63,7 @@ Why did you not mention the attack on Beirut, which left tens of dead and which 
 The words that should come out of the mouth of the holder of a Nobel Peace Prize should be words that lead us to peace and not to war. You, those who run the world, should show love towards Israel together with love towards Syria, Irak, Iran, Palestine, Europe, America, Africa… maybe something starts to change when you, those who run the world, start to change.
 PS: I say Obama, but I could say “us”
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -79,8 +79,8 @@ PS: I say Obama, but I could say “us”
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/14/no-mr-obama.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/14/no-mr-obama.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -88,6 +88,8 @@ PS: I say Obama, but I could say “us”
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -298,7 +300,7 @@ English version by José Calvo Aguilar.</p>
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=No, Mr. Obama!&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/14/no-mr-obama.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'No, Mr. Obama!');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=No, Mr. Obama!&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/14/no-mr-obama.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'No, Mr. Obama!');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -459,6 +461,18 @@ English version by José Calvo Aguilar.</p>
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

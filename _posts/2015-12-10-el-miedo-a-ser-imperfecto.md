@@ -3,8 +3,8 @@ layout: post
 title:  "El miedo a ser imperfecto"
 date: 'Dec 10 2015 00:00:00 GMT-0600 (CST)'
 categories: blog
-img: header.jpg
-thumb: header-th.jpg
+img: /images/header.jpg
+thumb: /images/header-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

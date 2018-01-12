@@ -47,7 +47,7 @@ Mi próximo miedo a vencer, será aprender a bailar. Bailaré con mi esposa, y c
 Yo nací con miedo. Yo vencí mi miedo.
 ¿Cuál es tu miedo? ¿Cómo lo venciste? ¡Cuéntalo a todo el mundo!
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -91,7 +91,7 @@ Yo nací con miedo. Yo vencí mi miedo.
 ¿Cuál es tu miedo? ¿Cómo lo venciste? ¡Cuéntalo a todo el mundo!
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -118,7 +118,7 @@ Mi próximo miedo a vencer, será aprender a bailar. Bailaré con mi esposa, y c
 Yo nací con miedo. Yo vencí mi miedo.
 ¿Cuál es tu miedo? ¿Cómo lo venciste? ¡Cuéntalo a todo el mundo!
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -134,8 +134,8 @@ Yo nací con miedo. Yo vencí mi miedo.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/11/yo-naci-con-miedo.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/11/yo-naci-con-miedo.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -143,6 +143,8 @@ Yo nací con miedo. Yo vencí mi miedo.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -319,7 +321,7 @@ Yo nací con miedo. Yo vencí mi miedo.
 	          </div>
 	        </div>
 
-	        <p style="text-align:center;"><a href="https://lospalimpsestos.files.wordpress.com/2015/11/10628524_290209337854013_2160455484842360545_n.jpg"><img class="alignnone size-medium wp-image-2228" src="/assets/10628524_290209337854013_2160455484842360545_n.jpg?w=207" alt="10628524_290209337854013_2160455484842360545_n" width="207" height="300" /></a></p>
+	        <p style="text-align:center;"><a href="https://lospalimpsestos.files.wordpress.com/2015/11/10628524_290209337854013_2160455484842360545_n.jpg"><img class="alignnone size-medium wp-image-2228" src="/assets/10628524_290209337854013_2160455484842360545_n.jpg" alt="10628524_290209337854013_2160455484842360545_n" width="207" height="300" /></a></p>
 <p>Yo nací con miedo. Esta es una parte de mi historia, una parte importante. Esta es la forma en que llegué a convertirme en quien soy ahora. Yo nací con muchos miedos. Y no me convertí en psicólogo, ni en terapeuta, ni en psiquiatra... me convertí en pastor.</p>
 <p>Esta es la pequeña historia de alguien que  mordió el polvo, alguien que llegó al fondo, no una, sino muchas veces.  Una historia simple en la que las cenizas se convierten en semillas y florecen. Esta es mi historia, mi pequeña, corta, sencilla historia, en la que tomé mis propias cenizas y las sembré para que dieran frutos. Hoy vivo de esas semillas.</p>
 <p>Yo nací con miedos. Sufrí mucho por mis miedos. Nací observando un micrófono, un hombre detrás de él y un público frente a él. El hombre detrás del micrófono era mi padre. Crecí viendo micrófonos, tarimas, carpas, auditorios, público, podios, púlpitos, escenarios y el sempiterno micrófono y la voz amplificada, emocionada y segura de mi padre, frente al micrófono. Nací con un miedo terrible al micrófono, un pánico terrorífico a hablar en público. Un miedo paralizante a hablar, en cualquier caso.</p>
@@ -364,7 +366,7 @@ Yo nací con miedo. Yo vencí mi miedo.
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Yo nací con miedo.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/11/yo-naci-con-miedo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Yo nací con miedo.');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Yo nací con miedo.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/11/yo-naci-con-miedo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Yo nací con miedo.');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -525,6 +527,18 @@ Yo nací con miedo. Yo vencí mi miedo.
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

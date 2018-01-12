@@ -41,7 +41,7 @@ Romanos 13:13 Andemos como de día, honestamente; no en glotonerías y borrache
 Gálatas 5:21 ...envidias, homicidios, borracheras, orgías, y cosas semejantes a éstas; de las cuales os denuncio, como ya os he anunciado, que los que hacen tales cosas no heredarán el Reino de Dios.
 Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de lado todo reduccionismo y todo legalismo. Leamos las palabras de Jesús y conozcámosle personalmente.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -79,7 +79,7 @@ Gálatas 5:21 ...envidias, homicidios, borracheras, orgías, y cosas semejantes
 Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de lado todo reduccionismo y todo legalismo. Leamos las palabras de Jesús y conozcámosle personalmente.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -103,7 +103,7 @@ Romanos 13:13 Andemos como de día, honestamente; no en glotonerías y borrache
 Gálatas 5:21 ...envidias, homicidios, borracheras, orgías, y cosas semejantes a éstas; de las cuales os denuncio, como ya os he anunciado, que los que hacen tales cosas no heredarán el Reino de Dios.
 Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de lado todo reduccionismo y todo legalismo. Leamos las palabras de Jesús y conozcámosle personalmente.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -119,8 +119,8 @@ Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de 
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/01/19/reduccionismo-legalista.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/01/19/reduccionismo-legalista.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -128,6 +128,8 @@ Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de 
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -346,7 +348,7 @@ Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de 
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Reduccionismo legalista&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/01/19/reduccionismo-legalista.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Reduccionismo legalista');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Reduccionismo legalista&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/01/19/reduccionismo-legalista.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Reduccionismo legalista');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -507,6 +509,18 @@ Lo importante realmente es estudiar la Biblia en todos sus alcances, dejando de 
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

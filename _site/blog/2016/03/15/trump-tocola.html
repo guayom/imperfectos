@@ -15,7 +15,7 @@
   <meta itemprop="description" content="Las sociedades más represivas y menos democráticas son aquellas que han logrado silenciar a los otros. La manifestación de esa represión inicia con la “defensa de la moral”. Cada vez que se silencia la expresión (sobre todo artística) de alguien, se atenta contra la democracia y contra la salud de una sociedad.
 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="Las sociedades más represivas y menos democráticas son aquellas que han logrado silenciar a los otros. La manifestación de esa represión inicia con la “defensa de la moral”. Cada vez que se silencia la expresión (sobre todo artística) de alguien, se atenta contra la democracia y contra la salud de una sociedad.
@@ -27,7 +27,7 @@
 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -38,7 +38,7 @@
     <meta property="og:description" content="Las sociedades más represivas y menos democráticas son aquellas que han logrado silenciar a los otros. La manifestación de esa represión inicia con la “defensa de la moral”. Cada vez que se silencia la expresión (sobre todo artística) de alguien, se atenta contra la democracia y contra la salud de una sociedad.
 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -54,8 +54,8 @@
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/blog/2016/03/15/trump-tocola.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/blog/2016/03/15/trump-tocola.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -63,6 +63,8 @@
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -293,7 +295,7 @@ A Sócrates lo envenenó su sociedad aduciendo que era pernicioso para el conjun
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Trump, Tocola, los ticos y hagamos Costa Rica grande de nuevo&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/blog/2016/03/15/trump-tocola.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Trump, Tocola, los ticos y hagamos Costa Rica grande de nuevo');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Trump, Tocola, los ticos y hagamos Costa Rica grande de nuevo&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/blog/2016/03/15/trump-tocola.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Trump, Tocola, los ticos y hagamos Costa Rica grande de nuevo');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -454,6 +456,18 @@ A Sócrates lo envenenó su sociedad aduciendo que era pernicioso para el conjun
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

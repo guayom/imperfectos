@@ -3,8 +3,8 @@ layout: post
 title:  "La Biblia es clara: La complejidad de sus lenguas"
 date: 'Jan 14 2016 00:00:00 GMT-0600 (CST)'
 categories: blog
-img: biblia-clara-2.jpg
-thumb: biblia-clara-2-th.jpg
+img: /images/biblia-clara-2.jpg
+thumb: /images/biblia-clara-2-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

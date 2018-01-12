@@ -111,7 +111,7 @@ También fue difícil, desde el inicio, todos los ataques de las iglesias tradic
 He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa solo a mí sino a todos los pastores. Es difícil saber que Interludio necesita una resurrección, un nuevo capítulo y volver a encender los motores del Transbordador espacial con toda la energía, amor, pasión y esperanza.
 ¿Podremos?
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -219,7 +219,7 @@ He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa sol
 ¿Podremos?
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -278,7 +278,7 @@ También fue difícil, desde el inicio, todos los ataques de las iglesias tradic
 He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa solo a mí sino a todos los pastores. Es difícil saber que Interludio necesita una resurrección, un nuevo capítulo y volver a encender los motores del Transbordador espacial con toda la energía, amor, pasión y esperanza.
 ¿Podremos?
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -294,8 +294,8 @@ He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa sol
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/12/lo-bueno-lo-malo-lo-lindo-lo-feo.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/12/lo-bueno-lo-malo-lo-lindo-lo-feo.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -303,6 +303,8 @@ He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa sol
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -556,7 +558,7 @@ He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa sol
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Lo bueno, lo malo, lo lindo, lo feo&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/12/lo-bueno-lo-malo-lo-lindo-lo-feo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Lo bueno, lo malo, lo lindo, lo feo');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Lo bueno, lo malo, lo lindo, lo feo&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/12/lo-bueno-lo-malo-lo-lindo-lo-feo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Lo bueno, lo malo, lo lindo, lo feo');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -717,6 +719,18 @@ He tenido ganas de renunciar una o dos veces al año. Aunque esto no me pasa sol
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

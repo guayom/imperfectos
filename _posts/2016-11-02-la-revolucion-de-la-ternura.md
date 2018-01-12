@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'FRANCISCUS La revolución de la ternura.'
-img: franciscus-3.jpg
-thumb: franciscus-3-th.jpg
+img: /images/franciscus-3.jpg
+thumb: /images/franciscus-3-th.jpg
 date: 'Tue Nov 2 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---

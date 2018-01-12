@@ -235,7 +235,7 @@ Al oír esto, uno de los que estaban sentados a la mesa con Jesús le dijo:
 —¡Dichoso el que coma en el banquete del reino de Dios!
 SANTI, esta era mi carta, tengo escrita para dártela. Te amo con todo mi corazón, hijo del Rey de reyes, ahora pasa y cena en la mesa del rey.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -467,7 +467,7 @@ Al oír esto, uno de los que estaban sentados a la mesa con Jesús le dijo:
 SANTI, esta era mi carta, tengo escrita para dártela. Te amo con todo mi corazón, hijo del Rey de reyes, ahora pasa y cena en la mesa del rey.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -588,7 +588,7 @@ Al oír esto, uno de los que estaban sentados a la mesa con Jesús le dijo:
 —¡Dichoso el que coma en el banquete del reino de Dios!
 SANTI, esta era mi carta, tengo escrita para dártela. Te amo con todo mi corazón, hijo del Rey de reyes, ahora pasa y cena en la mesa del rey.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -604,8 +604,8 @@ SANTI, esta era mi carta, tengo escrita para dártela. Te amo con todo mi coraz�
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/08/20/discapacidad.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/08/20/discapacidad.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -613,6 +613,8 @@ SANTI, esta era mi carta, tengo escrita para dártela. Te amo con todo mi coraz�
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -789,7 +791,7 @@ SANTI, esta era mi carta, tengo escrita para dártela. Te amo con todo mi coraz�
 	          </div>
 	        </div>
 
-	        <p style="text-align:center;"><a href="https://lospalimpsestos.files.wordpress.com/2015/08/discapacidad-apariencia-principales-causas-1959897.jpg"><img class="alignnone size-medium wp-image-2168" src="/assets/discapacidad-apariencia-principales-causas-1959897.jpg?w=300" alt="Discapacidad-apariencia-principales-causas-1959897" width="300" height="157" /></a></p>
+	        <p style="text-align:center;"><a href="https://lospalimpsestos.files.wordpress.com/2015/08/discapacidad-apariencia-principales-causas-1959897.jpg"><img class="alignnone size-medium wp-image-2168" src="/assets/discapacidad-apariencia-principales-causas-1959897.jpg" alt="Discapacidad-apariencia-principales-causas-1959897" width="300" height="157" /></a></p>
 <p>Este artículo (transcripción de una charla dada el 19 de julio de 2015 en Interludio) tiene dedicatoria, es una especia de carta teológica. Esta carta teológica es para mi hijo y para mi mamá.</p>
 <p>Como papá de un niño que nació con malformaciones congénitas he tenido que enfrentarme a la vida de fe, a la Biblia y a la espiritualidad pensada para él. Más recientemente mi mamá adquirió (esperemos que de forma temporal) ciertas discapacidades (no puede tragar, no puede caminar, habla con dificultad), producto de varios aneurismas. Estas dos experiencias me impulsaron a hacer este recuento de todo lo que he venido pensando acerca de la discapacidad desde una perspectiva bíblica y cristiana.</p>
 <p>En un tercer nivel, creo que el entender estos temas me ha ayudado a comprender que yo mismo poseo mis propias limitaciones y discapacidades y que la misma respuesta Bíblica para un no vidente, una persona en silla de ruedas o alguien con malformaciones congénitas, se puede aplicar a mi vida, aunque nadie vea o conozca mis limitaciones emocionales, relacionales, físicas o espirituales.</p>
@@ -928,7 +930,7 @@ Isaías 52:14</p>
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=¿Discapacidad?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/08/20/discapacidad.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Discapacidad?');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=¿Discapacidad?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/08/20/discapacidad.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Discapacidad?');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -1089,6 +1091,18 @@ Isaías 52:14</p>
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

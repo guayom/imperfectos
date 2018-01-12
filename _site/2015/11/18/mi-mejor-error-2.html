@@ -25,7 +25,7 @@ Hay unos errores que no producen ruidos en su cajón. Estos son los que han prod
 A decir verdad, después de todas las fortalezas que me han dejado los errores anteriores, mi mejor error es el que aun no he cometido para alcanzar mis metas.
 Después de todo, debemos saber que nunca estamos más cerca del verdadero fracaso como cuando dejamos de cometer errores cotidianos.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -47,7 +47,7 @@ A decir verdad, después de todas las fortalezas que me han dejado los errores 
 Después de todo, debemos saber que nunca estamos más cerca del verdadero fracaso como cuando dejamos de cometer errores cotidianos.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -63,7 +63,7 @@ Hay unos errores que no producen ruidos en su cajón. Estos son los que han prod
 A decir verdad, después de todas las fortalezas que me han dejado los errores anteriores, mi mejor error es el que aun no he cometido para alcanzar mis metas.
 Después de todo, debemos saber que nunca estamos más cerca del verdadero fracaso como cuando dejamos de cometer errores cotidianos.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -79,8 +79,8 @@ Después de todo, debemos saber que nunca estamos más cerca del verdadero fraca
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/18/mi-mejor-error-2.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/18/mi-mejor-error-2.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -88,6 +88,8 @@ Después de todo, debemos saber que nunca estamos más cerca del verdadero fraca
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -298,7 +300,7 @@ Después de todo, debemos saber que nunca estamos más cerca del verdadero fraca
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Mi mejor error&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/18/mi-mejor-error-2.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Mi mejor error');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Mi mejor error&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/18/mi-mejor-error-2.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Mi mejor error');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -459,6 +461,18 @@ Después de todo, debemos saber que nunca estamos más cerca del verdadero fraca
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

@@ -3,8 +3,8 @@ layout: post
 title:  "¿La Biblia Es Clara? La Complejidad De Su Texto"
 date: 'Jan 18 2016 00:00:00 GMT-0600 (CST)'
 categories: blog
-img: biblia-clara-3.jpg
-thumb: biblia-clara-3-th.jpg
+img: /images/biblia-clara-3.jpg
+thumb: /images/biblia-clara-3-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

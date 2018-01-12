@@ -75,7 +75,7 @@ Zig: Mi fe está en Dios y no en las imágenes de santos. Zag: Dejemos la músi
 
 Pd: Agregue usted mismo el próximo Zig Zag.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -147,7 +147,7 @@ Zig: Mi fe está en Dios y no en las imágenes de santos. Zag: Dejemos la músi
 Pd: Agregue usted mismo el próximo Zig Zag.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -188,7 +188,7 @@ Zig: Mi fe está en Dios y no en las imágenes de santos. Zag: Dejemos la músi
 
 Pd: Agregue usted mismo el próximo Zig Zag.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -204,8 +204,8 @@ Pd: Agregue usted mismo el próximo Zig Zag.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2012/12/18/teologia-zig-zag.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2012/12/18/teologia-zig-zag.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -213,6 +213,8 @@ Pd: Agregue usted mismo el próximo Zig Zag.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -389,7 +391,7 @@ Pd: Agregue usted mismo el próximo Zig Zag.
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.wordpress.com/2012/12/18/teologia-zig-zag/sign-30929_640/" rel="attachment wp-att-982"><img class="aligncenter size-medium wp-image-982" alt="sign-30929_640" src="/assets/sign-30929_640.png?w=300" width="300" height="266" /></a></p>
+	        <p><a href="http://lospalimpsestos.wordpress.com/2012/12/18/teologia-zig-zag/sign-30929_640/" rel="attachment wp-att-982"><img class="aligncenter size-medium wp-image-982" alt="sign-30929_640" src="/assets/sign-30929_640.png" width="300" height="266" /></a></p>
 <p>Por José Chacón y Johnny Mora.</p>
 <p>__________________________________________________________________</p>
 <p>Por <em>Teología Zig Zag</em> entendemos ese sinfín de contradicciones en que los cristianos incurrimos sin darnos cuenta. Una cosa es lo que creemos que creemos, otra cosa es lo que realmente creemos y practicamos.</p>
@@ -448,7 +450,7 @@ Pd: Agregue usted mismo el próximo Zig Zag.
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Teología Zig Zag&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2012/12/18/teologia-zig-zag.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Teología Zig Zag');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Teología Zig Zag&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2012/12/18/teologia-zig-zag.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Teología Zig Zag');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -609,6 +611,18 @@ Pd: Agregue usted mismo el próximo Zig Zag.
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

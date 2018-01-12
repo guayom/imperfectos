@@ -39,7 +39,7 @@ Cuando nada está en mis manos, todo está en mi esperanza.
 &nbsp;
 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="Hay noches de insomnio que las dedico a contemplarte. La tibia iluminación de tu cuarto, la lámpara que proyecta la vía láctea en el techo, tu respiración cada día más larga y profunda. A esa respiración la recuerdo débil y entrecortada, con síncopas vertiginosas entre aquélla cánula vital. Pero esos eran otros tiempos. Hoy te miro y veo tu paz, creo ver una paz que se sabe lograda con esfuerzo. Esa manera que tenés de disfrutar tu cunita lo dice todo.
@@ -75,7 +75,7 @@ Cuando nada está en mis manos, todo está en mi esperanza.
 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -98,7 +98,7 @@ Cuando nada está en mis manos, todo está en mi esperanza.
 &nbsp;
 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -114,8 +114,8 @@ Cuando nada está en mis manos, todo está en mi esperanza.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2013/04/17/contemplarte.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2013/04/17/contemplarte.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -123,6 +123,8 @@ Cuando nada está en mis manos, todo está en mi esperanza.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -312,7 +314,7 @@ Cuando nada está en mis manos, todo está en mi esperanza.
 <p>Cuando no puedo darte una niñez sin hospital.</p>
 <p>Cuando nada está en mis manos, todo está en mi esperanza.</p>
 <p>&nbsp;</p>
-<p><a href="http://lospalimpsestos.files.wordpress.com/2013/04/481589_10151163586457219_606761832_n.jpg"><img class="aligncenter size-medium wp-image-1206" alt="481589_10151163586457219_606761832_n" src="/assets/481589_10151163586457219_606761832_n.jpg?w=200" width="200" height="300" /></a></p>
+<p><a href="http://lospalimpsestos.files.wordpress.com/2013/04/481589_10151163586457219_606761832_n.jpg"><img class="aligncenter size-medium wp-image-1206" alt="481589_10151163586457219_606761832_n" src="/assets/481589_10151163586457219_606761832_n.jpg" width="200" height="300" /></a></p>
 
 	      </div>
 
@@ -340,7 +342,7 @@ Cuando nada está en mis manos, todo está en mi esperanza.
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Contemplarte.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2013/04/17/contemplarte.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Contemplarte.');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Contemplarte.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2013/04/17/contemplarte.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Contemplarte.');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -501,6 +503,18 @@ Cuando nada está en mis manos, todo está en mi esperanza.
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

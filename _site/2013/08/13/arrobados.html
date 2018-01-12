@@ -51,7 +51,7 @@ Karl Medearis, Speaking of Jesus, the art of not-evangelism.
 Adelino Cattani, Expresarse con acierto.
 Hans Küng, La Iglesia.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -99,7 +99,7 @@ Adelino Cattani, Expresarse con acierto.
 Hans Küng, La Iglesia.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -128,7 +128,7 @@ Karl Medearis, Speaking of Jesus, the art of not-evangelism.
 Adelino Cattani, Expresarse con acierto.
 Hans Küng, La Iglesia.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -144,8 +144,8 @@ Hans Küng, La Iglesia.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2013/08/13/arrobados.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2013/08/13/arrobados.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -153,6 +153,8 @@ Hans Küng, La Iglesia.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -329,7 +331,7 @@ Hans Küng, La Iglesia.
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.files.wordpress.com/2013/08/img_arroba1.jpg"><img class="size-full wp-image aligncenter" id="i-1490" alt="Imagen" src="/assets/img_arroba1.jpg?w=241" /></a></p>
+	        <p><a href="http://lospalimpsestos.files.wordpress.com/2013/08/img_arroba1.jpg"><img class="size-full wp-image aligncenter" id="i-1490" alt="Imagen" src="/assets/img_arroba1.jpg" /></a></p>
 <p>Karl Medearis es un experto en relaciones musulmano-cristianas, ha vivido en Libano por muchos años y he estado leyendo uno de sus libros intitulado: "Speaking of Jesus, the art of not-evangelism".<br />
 Y es precisamente ese subtítulo el que me atrapó desde que vi el libro por primera vez. Pensé que tendría que decir algo que rompiera muchos paradigmas, y así ha sido.</p>
 <p>¿Evangelismo? ¿Qué es realmente el evangelismo? Una gran pregunta con una sola respuesta: Llevar el mensaje. Sin embargo esa respuesta tan sencilla y tan aparentemente obvia se las trae, porque aquí millones de cristianos, durante muchas centurias, se han "arrobado" con el qué y el cómo.<br />
@@ -376,7 +378,7 @@ Hans Küng, La Iglesia.</p>
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Arrobados (con el evangelismo)&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2013/08/13/arrobados.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Arrobados (con el evangelismo)');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Arrobados (con el evangelismo)&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2013/08/13/arrobados.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Arrobados (con el evangelismo)');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -537,6 +539,18 @@ Hans Küng, La Iglesia.</p>
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

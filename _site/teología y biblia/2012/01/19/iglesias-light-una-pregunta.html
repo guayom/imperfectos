@@ -81,7 +81,7 @@ El Movimiento de Jesús no poseía una estructura definida o un liderazgo pirami
 Jesús despojó a la religión imperante de todo lo que le sobraba, ayudando a la gente a creer de una forma más genuina, más sincera, más directa. Por todo esto fue criticado y tachado de traidor.
 La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -159,7 +159,7 @@ Jesús despojó a la religión imperante de todo lo que le sobraba, ayudando a l
 La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -203,7 +203,7 @@ El Movimiento de Jesús no poseía una estructura definida o un liderazgo pirami
 Jesús despojó a la religión imperante de todo lo que le sobraba, ayudando a la gente a creer de una forma más genuina, más sincera, más directa. Por todo esto fue criticado y tachado de traidor.
 La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -219,8 +219,8 @@ La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/01/19/iglesias-light-una-pregunta.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/01/19/iglesias-light-una-pregunta.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -228,6 +228,8 @@ La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -466,7 +468,7 @@ La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=¿Iglesias light? Una pregunta.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/01/19/iglesias-light-una-pregunta.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Iglesias light? Una pregunta.');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=¿Iglesias light? Una pregunta.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/01/19/iglesias-light-una-pregunta.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¿Iglesias light? Una pregunta.');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -627,6 +629,18 @@ La pregunta más importante para nosotros es: ¿De qué deberíamos ser light?
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

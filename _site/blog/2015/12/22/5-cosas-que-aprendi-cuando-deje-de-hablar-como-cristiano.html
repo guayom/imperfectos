@@ -54,8 +54,8 @@
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/blog/2015/12/22/5-cosas-que-aprendi-cuando-deje-de-hablar-como-cristiano.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/blog/2015/12/22/5-cosas-que-aprendi-cuando-deje-de-hablar-como-cristiano.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -63,6 +63,8 @@
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -195,7 +197,7 @@
 <div class="sp-post">
 	
 	<figure class="sp-thumb-container">
-	  <img src="/images/cristiano.jpg" alt="5 Cosas que aprendí cuando dejé de hablar como Cristiano">
+	  <img src="" alt="5 Cosas que aprendí cuando dejé de hablar como Cristiano">
 	</figure>
 	
 
@@ -205,7 +207,7 @@
 	  <div class="sp-post-navigation">
 	    <a class="sp-prev" href="#">
 	      <span class="sp-icon"><i class="fa fa-chevron-left"></i></span>
-	      <img class="sp-img" src="/images/cristiano.jpg" alt="">
+	      <img class="sp-img" src="/images//images/cristiano.jpg" alt="">
 	      <h4 class="sp-title">A Road Trip Through the Heart of Russia</h4>
 	    </a>
 	    <a class="sp-next" href="#">
@@ -291,7 +293,7 @@
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=5 Cosas que aprendí cuando dejé de hablar como Cristiano&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/blog/2015/12/22/5-cosas-que-aprendi-cuando-deje-de-hablar-como-cristiano.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '5 Cosas que aprendí cuando dejé de hablar como Cristiano');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=5 Cosas que aprendí cuando dejé de hablar como Cristiano&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/blog/2015/12/22/5-cosas-que-aprendi-cuando-deje-de-hablar-como-cristiano.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '5 Cosas que aprendí cuando dejé de hablar como Cristiano');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -452,6 +454,18 @@
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

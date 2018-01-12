@@ -51,7 +51,7 @@ Huyo, eso sí, también del orgullo de creer que no tendré que volver a reunir 
 Ayer decidí huir y dejarlo todo. Me siento libre, una vez más, huyo con fuerza y dejo todo... en las manos de Dios.
 Huyamos juntos, que huir es de valientes.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -99,7 +99,7 @@ Ayer decidí huir y dejarlo todo. Me siento libre, una vez más, huyo con fuerza
 Huyamos juntos, que huir es de valientes.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -128,7 +128,7 @@ Huyo, eso sí, también del orgullo de creer que no tendré que volver a reunir 
 Ayer decidí huir y dejarlo todo. Me siento libre, una vez más, huyo con fuerza y dejo todo... en las manos de Dios.
 Huyamos juntos, que huir es de valientes.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -144,8 +144,8 @@ Huyamos juntos, que huir es de valientes.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2012/12/20/ayer-decidi-huir-y-dejarlo-todo.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2012/12/20/ayer-decidi-huir-y-dejarlo-todo.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -153,6 +153,8 @@ Huyamos juntos, que huir es de valientes.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -329,7 +331,7 @@ Huyamos juntos, que huir es de valientes.
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.files.wordpress.com/2012/12/huida1.jpg"><img class="size-full wp-image aligncenter" id="i-1082" alt="Image" src="/assets/huida1.jpg?w=292" /></a></p>
+	        <p><a href="http://lospalimpsestos.files.wordpress.com/2012/12/huida1.jpg"><img class="size-full wp-image aligncenter" id="i-1082" alt="Image" src="/assets/huida1.jpg" /></a></p>
 <p>Si, he decidido huir. No es alejarme, ni apartarme, sino huir. Porque uno puede alejarse lentamente, contemplando y añorando el objeto del que se aparta, pero al huir se corre sin mirar atrás. Si, la palabra que debo usar es huir.</p>
 <p>Ayer decidí correr. Tengo prisa, se me acabó la paciencia y no pretendo regresar.</p>
 <p>Tantos años estuve ahí, sentado, sin moverme mucho, sin decidirme, sintiéndome atado por cuerdas invisibles. Sintiéndome prisionero y anhelando otra cosa.</p>
@@ -376,7 +378,7 @@ Huyamos juntos, que huir es de valientes.
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Ayer decidí huir y dejarlo todo.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2012/12/20/ayer-decidi-huir-y-dejarlo-todo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Ayer decidí huir y dejarlo todo.');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Ayer decidí huir y dejarlo todo.&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2012/12/20/ayer-decidi-huir-y-dejarlo-todo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Ayer decidí huir y dejarlo todo.');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -537,6 +539,18 @@ Huyamos juntos, que huir es de valientes.
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

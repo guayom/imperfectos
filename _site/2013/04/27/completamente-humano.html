@@ -31,7 +31,7 @@ Ota Benga fue tratado como animal. Y peor aún, el trato animal es una conducta 
 Todos somos responsables de la continuación inmisericorde del zoológico del Bronx en 1906. 
 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="El primer día de la exhibición estaba nervioso. Era la tarde del 8 de septiembre de 1906 en el zoológico del Bronx. La casa de los monos, como se le llamaba a la zona donde se exhibían los primates, estaba de fiesta. Un gran rótulo describía al nuevo miembro de la colección, proveniente directamente del Congo, con las siguientes palabras:
@@ -59,7 +59,7 @@ Todos somos responsables de la continuación inmisericorde del zoológico del Br
 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -78,7 +78,7 @@ Ota Benga fue tratado como animal. Y peor aún, el trato animal es una conducta 
 Todos somos responsables de la continuación inmisericorde del zoológico del Bronx en 1906. 
 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -94,8 +94,8 @@ Todos somos responsables de la continuación inmisericorde del zoológico del Br
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2013/04/27/completamente-humano.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2013/04/27/completamente-humano.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -103,6 +103,8 @@ Todos somos responsables de la continuación inmisericorde del zoológico del Br
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -316,7 +318,7 @@ Todos somos responsables de la continuación inmisericorde del zoológico del Br
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Completamente humano&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2013/04/27/completamente-humano.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Completamente humano');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Completamente humano&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2013/04/27/completamente-humano.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Completamente humano');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -477,6 +479,18 @@ Todos somos responsables de la continuación inmisericorde del zoológico del Br
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

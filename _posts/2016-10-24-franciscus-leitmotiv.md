@@ -4,8 +4,8 @@ excerpt_separator: <!--more-->
 categories: blog
 layout: post
 title: 'Franciscus, Leitmotiv'
-img: franciscus-2.jpg
-thumb: franciscus-2-th.jpg
+img: /images/franciscus-2.jpg
+thumb: /images/franciscus-2-th.jpg
 date: 'Tue Oct 25 2016 00:00:00 GMT-0600 (CST)'
 published: true
 ---

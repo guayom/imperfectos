@@ -11,7 +11,7 @@
   <!-- Schema.org markup for Google+ -->
   <meta itemprop="name" content="Triste">
   <meta itemprop="description" content="">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="">
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="Imperfectos.org">
   <meta name="twitter:description" content="">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -46,8 +46,8 @@
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/frases/triste/">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/frases/triste/">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -55,6 +55,8 @@
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -234,7 +236,7 @@
 	          <a class="twitter popup" href="http://twitter.com/share?text=Triste&url=/frases/triste/&via=yahvista&related=yahvista" target="_blank" title="Comprtir en Twitter" rel="nofollow"><i class="fa fa-twitter"></i> Twitter</a>
 	          <a class="facebook" href="https://facebook.com/sharer.php?u=/frases/triste/" rel="nofollow" target="_blank" title="Compartir en Facebook"><i class="fa fa-facebook"></i> Facebook</a>
 	          <a class="g-plus" href="https://plus.google.com/share?url=/frases/triste/" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus"></i> Google Plus</a>
-	          <a class="mail" href="mailto:?subject=Triste&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/frases/triste/"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Triste&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/frases/triste/"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -395,6 +397,18 @@
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

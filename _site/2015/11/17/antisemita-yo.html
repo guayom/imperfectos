@@ -43,7 +43,7 @@ Una corriente política e ideológica, que no es precisamente religiosa, y que n
 Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblos semitas no me convierte de ninguna manera en antisemita. No me molestaría si me llaman, por ejemplo: antisionista.
 &nbsp;
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -83,7 +83,7 @@ Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblo
 &nbsp;
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -108,7 +108,7 @@ Una corriente política e ideológica, que no es precisamente religiosa, y que n
 Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblos semitas no me convierte de ninguna manera en antisemita. No me molestaría si me llaman, por ejemplo: antisionista.
 &nbsp;
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -124,8 +124,8 @@ Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblo
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/17/antisemita-yo.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/17/antisemita-yo.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -133,6 +133,8 @@ Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblo
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -352,7 +354,7 @@ Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblo
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Antisemita ¿yo?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/17/antisemita-yo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Antisemita ¿yo?');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Antisemita ¿yo?&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/17/antisemita-yo.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Antisemita ¿yo?');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -513,6 +515,18 @@ Y para no alargarme mucho más. Debo decir a mi favor, que defender a dos pueblo
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

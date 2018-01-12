@@ -75,7 +75,7 @@ A mí me delata El Nombre, Su Nombre, a mí también, como a Pedro, aunque lo ni
 »¡En ningún otro hay salvación! Dios no ha dado ningún otro nombre bajo el cielo, mediante el cual podamos ser salvos». (Hch. 4:12)
 Pero todo el que invoque el nombre del Señor será salvo”. (Hch. 2:21)
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -147,7 +147,7 @@ A mí me delata El Nombre, Su Nombre, a mí también, como a Pedro, aunque lo ni
 Pero todo el que invoque el nombre del Señor será salvo”. (Hch. 2:21)
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -188,7 +188,7 @@ A mí me delata El Nombre, Su Nombre, a mí también, como a Pedro, aunque lo ni
 »¡En ningún otro hay salvación! Dios no ha dado ningún otro nombre bajo el cielo, mediante el cual podamos ser salvos». (Hch. 4:12)
 Pero todo el que invoque el nombre del Señor será salvo”. (Hch. 2:21)
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -204,8 +204,8 @@ Pero todo el que invoque el nombre del Señor será salvo”. (Hch. 2:21)
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2013/08/29/el-nombre-de-una-mujer-me-delata.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2013/08/29/el-nombre-de-una-mujer-me-delata.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -213,6 +213,8 @@ Pero todo el que invoque el nombre del Señor será salvo”. (Hch. 2:21)
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -389,7 +391,7 @@ Pero todo el que invoque el nombre del Señor será salvo”. (Hch. 2:21)
 	          </div>
 	        </div>
 
-	        <p><a href="http://lospalimpsestos.files.wordpress.com/2013/08/pulso.jpg"><img class="size-full wp-image aligncenter" id="i-1799" alt="Imagen" src="/assets/pulso.jpg?w=471" /></a></p>
+	        <p><a href="http://lospalimpsestos.files.wordpress.com/2013/08/pulso.jpg"><img class="size-full wp-image aligncenter" id="i-1799" alt="Imagen" src="/assets/pulso.jpg" /></a></p>
 <p><em>El amenazado</em>, así se llama el poema de Jorge Luis Borges que contiene esta frase. Aparece en <em>El oro de los tigres,</em> 1972.  Borges, un hombre intelectual, robusto de letras, no vidente del pequeño mundo exterior pero vidente excepcional del gran mundo, de la complejidad de las cosas, de los espejos y los laberitos. Tan intelectual y árido a veces que sorprende encontrar, de golpe, esta frase tan desnuda y que desarma y desviste toda intelectualidad.</p>
 <p>¨¿De qué me servirán mis talismanes: el ejercicio de las letras,<br />
 la vaga erudición, el aprendizaje de las palabras que usó el<br />
@@ -448,7 +450,7 @@ amistad, las galerías de la Biblioteca...¨</p>
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=El nombre de una mujer me delata&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2013/08/29/el-nombre-de-una-mujer-me-delata.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'El nombre de una mujer me delata');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=El nombre de una mujer me delata&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2013/08/29/el-nombre-de-una-mujer-me-delata.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'El nombre de una mujer me delata');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -609,6 +611,18 @@ amistad, las galerías de la Biblioteca...¨</p>
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

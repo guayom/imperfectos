@@ -3,8 +3,8 @@ layout: post
 title:  Contradictio
 date: 'Jan 4 2016 00:00:00 GMT-0600 (CST)'
 categories: blog
-img: contradictio.jpg
-thumb: contradictio-th.jpg
+img: /images/contradictio.jpg
+thumb: /images/contradictio-th.jpg
 excerpt_separator: <!--more-->
 extraclass: sp-single
 ---

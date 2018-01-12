@@ -47,7 +47,7 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
 13. Y también los otros, los que creyeron en él y en sus causas, han sido sellados con su voto prometido.
 14. Que es garantía de discriminación de toda minoría que no esté de acuerdo con él. Amén.
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -91,7 +91,7 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
 14. Que es garantía de discriminación de toda minoría que no esté de acuerdo con él. Amén.
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -118,7 +118,7 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
 13. Y también los otros, los que creyeron en él y en sus causas, han sido sellados con su voto prometido.
 14. Que es garantía de discriminación de toda minoría que no esté de acuerdo con él. Amén.
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -134,8 +134,8 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/06/01/primea-carta-a-los-adefesios.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/06/01/primea-carta-a-los-adefesios.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -143,6 +143,8 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -319,7 +321,7 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
 	          </div>
 	        </div>
 
-	        <p style="text-align:left;" align="center"><a href="http://lospalimpsestos.files.wordpress.com/2012/06/justo-orozco-400x2672.jpg"><img class="aligncenter size-medium wp-image-414" title="justo orozco (400x267)" src="/assets/justo-orozco-400x2672.jpg?w=300" alt="" width="300" height="200" /></a></p>
+	        <p style="text-align:left;" align="center"><a href="http://lospalimpsestos.files.wordpress.com/2012/06/justo-orozco-400x2672.jpg"><img class="aligncenter size-medium wp-image-414" title="justo orozco (400x267)" src="/assets/justo-orozco-400x2672.jpg" alt="" width="300" height="200" /></a></p>
 <p style="text-align:left;" align="center"><strong><em>NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ephesios”, el título de una carta de San Pablo a los cristianos de Éfeso. Como los efesios continuaban con sus “malas costumbres” la expresión “hablar Ad Ephesios” comenzó a significar “decir disparates o ridiculeces”, de donde derivó al significado actual. </em></strong></p>
 <p style="text-align:center;" align="center">:::::::::::::::::::</p>
 <p> <em>Estimado Pablo</em></p>
@@ -364,7 +366,7 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=Primera Carta a los Adefesios&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/teolog%C3%ADa%20y%20biblia/2012/06/01/primea-carta-a-los-adefesios.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Primera Carta a los Adefesios');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=Primera Carta a los Adefesios&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/teolog%C3%ADa%20y%20biblia/2012/06/01/primea-carta-a-los-adefesios.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', 'Primera Carta a los Adefesios');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -525,6 +527,18 @@ NOTA: Adefesio (individuo, objeto o cosa ridícula y fea.) proviene de “Ad Ep
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 

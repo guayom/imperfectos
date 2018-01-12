@@ -27,7 +27,7 @@ De sus labios, labios de un Premio Nobel de la Paz, deberían salir frases que c
 Pd: Digo Obama, por no decir nosotros.
 
 ">
-  <meta itemprop="image" content="/images/">
+  <meta itemprop="image" content="">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="
@@ -51,7 +51,7 @@ Pd: Digo Obama, por no decir nosotros.
 
 ">
   <meta name="twitter:creator" content="@yahvista">
-  <meta name="twitter:image" content="/images/">
+  <meta name="twitter:image" content="">
 
   <!--Facebook MetaData -->
   <meta property="og:site_name" content="Imperfectos.org"/>
@@ -68,7 +68,7 @@ De sus labios, labios de un Premio Nobel de la Paz, deberían salir frases que c
 Pd: Digo Obama, por no decir nosotros.
 
 " />
-    <meta property="og:image" content="/images/" />
+    <meta property="og:image" content="" />
   
   <meta property="og:locale" content="es_ES" />
   <meta property="article:author" content="https://www.facebook.com/jose.chacona" />
@@ -84,8 +84,8 @@ Pd: Digo Obama, por no decir nosotros.
   <link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/2015/11/14/no-senor-obama.html">
-  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="http://localhost:4000/feed.xml" />
+  <link rel="canonical" href="https://imperfectos.org/2015/11/14/no-senor-obama.html">
+  <link rel="alternate" type="application/rss+xml" title="Imperfectos.org" href="https://imperfectos.org/feed.xml" />
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -93,6 +93,8 @@ Pd: Digo Obama, por no decir nosotros.
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
   <![endif]-->
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -304,7 +306,7 @@ Pd: Digo Obama, por no decir nosotros.
               <i class="fa fa-google-plus"></i> Google Plus
             </a>
 
-	          <a class="mail" href="mailto:?subject=¡No, señor Obama!&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. http://localhost:4000/2015/11/14/no-senor-obama.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¡No, señor Obama!');"><i class="fa fa-envelope-o"></i> Email</a>
+	          <a class="mail" href="mailto:?subject=¡No, señor Obama!&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. https://imperfectos.org/2015/11/14/no-senor-obama.html" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '¡No, señor Obama!');"><i class="fa fa-envelope-o"></i> Email</a>
 	        </div>
 
 	        <div>
@@ -465,6 +467,18 @@ Pd: Digo Obama, por no decir nosotros.
     <script src="/js/main.js"></script>
 
     
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 
