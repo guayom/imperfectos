@@ -43,7 +43,7 @@ defaults:
     values:
       layout: frase
 
-gems:
+plugins:
   - jekyll-srcset
   - jekyll-paginate
   - jekyll-sitemap
