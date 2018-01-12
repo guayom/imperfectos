@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Contradictio
-date:   2016-01-04 00:00:00
+date: 'Jan 4 2016 00:00:00 GMT-0600 (CST)'
 categories: blog
 img: contradictio.jpg
 thumb: contradictio-th.jpg
@@ -19,7 +19,7 @@ Eso revela una gran contradicción en la idea de pastorear personas el día de h
 
 En el Antiguo Testamento se suele utilizar la palabra hebrea _raah_ que tiene que ver con alimentar en el campo (como en Salmo 23:1), pero también se relaciona con la acción de “ver”, en Génesis 16:13 “el Dios que me ve”.   
 
-Ya en el Nuevo Testamento se usa _poimanó_, palabra que aparece 11 veces en todo el Nuevo Testamento y tiene un sentido de cuidado, atención, protección y provisión, como en Mateo 2:6 
+Ya en el Nuevo Testamento se usa _poimanó_, palabra que aparece 11 veces en todo el Nuevo Testamento y tiene un sentido de cuidado, atención, protección y provisión, como en Mateo 2:6
 
 Es cierto que la comodidad del corral crea confort y control, pero al lado de toda esa zona de seguridad, debemos ser guiados también hacia afuera, al campo, a la libertad, al riesgo, al mundo.
 
