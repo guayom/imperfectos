@@ -2,9 +2,19 @@ html,
 body {
   color: #444;
   font-size: 14px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Serif', serif;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-  padding: 20px;
+  background: #f8f8f8;
+}
+
+.hero {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
 }
