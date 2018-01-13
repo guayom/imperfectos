@@ -49,11 +49,7 @@ Dentro de este marco, la importancia concreta de la mujer se refiere tanto a la 
 
 **LOS COLLEGIA RELIGIONIS CAUSA:**
 
-En el mundo romano no solo emergía una nueva expresión del judaísmo como germen del cristianismo. También proliferaban cientos de agrupaciones de diversas espiritualidades que se reunían periodicamente. La legislación romana creó una figura bajo la cual podían legalizarse todas estas agrupaciones. A esta figura se le llamaba collegia. Eran asociaciones de derecho privado, que podían tener carácter profesional, religioso o funerario. Se debían basar en la solidaridad de sus miembros y en la asistencia recíproca. Debían elegir un representante y contribuir a la
-
-“caja” con una ofrenda mensual. El Imperio podía controlar estas asociaciones, desintegrando las que se convertían en amenazas o apoyando aquellas que contribuían solidariamente a los mas necesitados de la sociedad. No es de extrañar que las casas-iglesia tomaran poco a poco la determinación de convertirse en collegia para estar bien integradas en la sociedad romana. Las distintas investigaciones sugieren que la mayor parte de los collegia cristianos nacían primero como casas- iglesia de familias ricas y luego se legalizaban, permitiendo en muchas ocasiones a las mujeres ser las representantes legales de cada una de ellas. Esto se debe, sobre todo, porque muchas mujeres que habían enviudado se transformaban en pater familias y,
-
-al convertirse al cristianismo, ponían todas sus posesiones a la orden de la comunidad. Legalmente eran las dueñas y las representantes, eclesiológicamente eran las fundadoras y las sustentaban espiritual y economicamente (E. W. Stegemann y W. Stegemann, Historia social del cristianismo primitivo, Estella (2001), p. 196-200). Un ejemplo claro puede ser la función de Marta y María como promotoras, patrocinadoras y sustentadoras de reuniones espirituales en su casa. Aún cuando Lázaro era el varón de la familia (de hermanos) ellas fungían como las convocantes, organizadoras (Marta) y sutentadoras de la vida espiritual (María).
+En el mundo romano no solo emergía una nueva expresión del judaísmo como germen del cristianismo. También proliferaban cientos de agrupaciones de diversas espiritualidades que se reunían periodicamente. La legislación romana creó una figura bajo la cual podían legalizarse todas estas agrupaciones. A esta figura se le llamaba collegia. Eran asociaciones de derecho privado, que podían tener carácter profesional, religioso o funerario. Se debían basar en la solidaridad de sus miembros y en la asistencia recíproca. Debían elegir un representante y contribuir a la “caja” con una ofrenda mensual. El Imperio podía controlar estas asociaciones, desintegrando las que se convertían en amenazas o apoyando aquellas que contribuían solidariamente a los mas necesitados de la sociedad. No es de extrañar que las casas-iglesia tomaran poco a poco la determinación de convertirse en collegia para estar bien integradas en la sociedad romana. Las distintas investigaciones sugieren que la mayor parte de los collegia cristianos nacían primero como casas- iglesia de familias ricas y luego se legalizaban, permitiendo en muchas ocasiones a las mujeres ser las representantes legales de cada una de ellas. Esto se debe, sobre todo, porque muchas mujeres que habían enviudado se transformaban en pater familias y, al convertirse al cristianismo, ponían todas sus posesiones a la orden de la comunidad. Legalmente eran las dueñas y las representantes, eclesiológicamente eran las fundadoras y las sustentaban espiritual y economicamente (E. W. Stegemann y W. Stegemann, Historia social del cristianismo primitivo, Estella (2001), p. 196-200). Un ejemplo claro puede ser la función de Marta y María como promotoras, patrocinadoras y sustentadoras de reuniones espirituales en su casa. Aún cuando Lázaro era el varón de la familia (de hermanos) ellas fungían como las convocantes, organizadoras (Marta) y sutentadoras de la vida espiritual (María).
 
 **CONFRONTACION PREVIA A LA SEPARACION DE LOS MINISTERIOS:**
 
@@ -63,9 +59,7 @@ Por una parte estaba Santiago y la comunidad de habla hebrea. A ellos se les asi
 
 Fijémonos en el grupo de habla griega, también denominado “Grupo de los siete”, acostumbrados a que las mujeres participasen en las sinagogas y en las comidas. Lucas hace una referencia expresa a las hijas de Felipe, que profetizaban y pertenecían a este grupo; además, como los helenistas estaban acostumbrados, no veían ninguna restricción en la participación de las mujeres en la celebración del “partimiento del pan”. Por otro lado, en Hch 12,12-17 se dice que los helenistas estaban reunidos en la casa de María y allí es hacia donde Pedro se dirige tras ser liberado de la prisión por el Ángel del Señor, diciéndoles que se lo anuncien a Santiago y sus hermanos. Los hebreos en cambio no estaban acostumbrados a nada de esto, y así surge el conflicto y la división de ministerios, con la consiguiente marginación de la mujer pues los servicios, que en un principio se entendían como una diakonia abierta a todos, van a ir siendo reservados a los varones, alejándose así de la primera postura cristiana que no admitía la superioridad de unos sobre otros.
 
-El verdadero conflicto no es entre hombres y mujeres, sino entre la sinagoga (en la facción hebraísta conservadora) y la comunidad cristiana (la naciente comunidad marcada por el liderazco de Jesús) o, dicho de otra forma: Sinagoga Vs. Iglesia. Convirtiéndose este conflicto en la norma paradigmática en lo relativo a los roles de
-
-poder en la iglesia. La homologación entre Templo judío e Iglesia (obviamente cristiana), Sinagoga e Iglesia, da como resultado una homologación entre Sacerdocio judío (patriarcal y excluyente) y pastoral cristiana, donde ya no hay diferencia entre hombre y mujer y todos son uno en Cristo (Gálatas 3:28); entre Moisés y Jesús o, si se quiere: Entre Antiguo Testamento y Nuevo Testamento, lo cual, evidentemente, crea confusiones y equivocos enormes en la eclesiología.
+El verdadero conflicto no es entre hombres y mujeres, sino entre la sinagoga (en la facción hebraísta conservadora) y la comunidad cristiana (la naciente comunidad marcada por el liderazco de Jesús) o, dicho de otra forma: Sinagoga Vs. Iglesia. Convirtiéndose este conflicto en la norma paradigmática en lo relativo a los roles de poder en la iglesia. La homologación entre Templo judío e Iglesia (obviamente cristiana), Sinagoga e Iglesia, da como resultado una homologación entre Sacerdocio judío (patriarcal y excluyente) y pastoral cristiana, donde ya no hay diferencia entre hombre y mujer y todos son uno en Cristo (Gálatas 3:28); entre Moisés y Jesús o, si se quiere: Entre Antiguo Testamento y Nuevo Testamento, lo cual, evidentemente, crea confusiones y equivocos enormes en la eclesiología.
 
 **LA MUJER Y EL ESTIGMA DE LA HEREJIA:**
 
@@ -81,9 +75,7 @@ Someterse a la autoridad de las mujeres, intelectual o socialmente, ponía en ap
 
 Un ejemplo de ese desarrollo del pensamiento cristiano puede aleccionarnos al respecto. Juan Crisóstomo (s. IV-V), teólogo importante de la iglesia antigua, escribió un tratado en contra de la practica ascética de los “matrimonios espirituales”, que consistía en la convivencia sin relaciones sexuales. El escribe:
 
-“Igual que cuando alguien captura a un león orgulloso y de mirada altiva, le corta la melena, le rompe los dientes, le corta las uñas y le convierte en un especimen desgraciado y ridículo (...) así esas mujeres convierten a los hombres que capturan en presas fáciles del mal. Los hacen débiles, airados, vergonzosos, despreocupados, irascibles, insolentes, inoportunos, innobles, rudos, serviles, tacaños, temerarios y
-
-tontos. En resumen, las mujeres toman todas sus corruptas costumbres femeninas y las imprimen en las almas de los hombres” (J. Crisóstomo, Contra los que habitan con virgenes 11).
+“Igual que cuando alguien captura a un león orgulloso y de mirada altiva, le corta la melena, le rompe los dientes, le corta las uñas y le convierte en un especimen desgraciado y ridículo (...) así esas mujeres convierten a los hombres que capturan en presas fáciles del mal. Los hacen débiles, airados, vergonzosos, despreocupados, irascibles, insolentes, inoportunos, innobles, rudos, serviles, tacaños, temerarios y tontos. En resumen, las mujeres toman todas sus corruptas costumbres femeninas y las imprimen en las almas de los hombres” (J. Crisóstomo, Contra los que habitan con virgenes 11).
 
 Con todo, la participación de la mujer en el liderazgo de las diversas iglesias y expresiones cristianas no dejó de existir. No cabe en este documento hacer una exposición de cada una de esas expresiones y movimientos, por motivos de tiempo y formato. Sin embargo podemos resumir que es a partir del siglo II que la Iglesia comienza a constituirse en una comunidad jerárquica, gobernada conforme a criterios patriarcales, que aspira a presentarse como un sistema “respetable” ante la sociedad grecoromana y su consiguiente “acomodo” a su legislación.
 
@@ -115,9 +107,7 @@ Un acercamiento desde el castellano no nos ayudará mucho. Lo que nos aportará 
 
 Recordemos que Pablo era judío y su pensamiento, teología y literatura parten de “lo judío” del primer siglo. La palabra griega que Pablo utliza para referirse a “cabeza” es kephale (κεφαλὴ) que literalmente significa “origen, fuente o procedencia”. El hebreo utliza la palabra rosh con el mismo sentido, como en rosh ha shana o año nuevo judío.
 
-Ni en griego ni en hebreo la palabra tiene un sentido de autoridad o jerarquía. El primer mes del año no tiene autoridad sobre el último, por ejemplo. Ni en los clásicos,
-
-ni en la LXX ni en el Nuevo Testamento encontramos la palabra griega κεφαλὴ con un sentido de gobierno, autoridad o jerarquía.
+Ni en griego ni en hebreo la palabra tiene un sentido de autoridad o jerarquía. El primer mes del año no tiene autoridad sobre el último, por ejemplo. Ni en los clásicos, ni en la LXX ni en el Nuevo Testamento encontramos la palabra griega κεφαλὴ con un sentido de gobierno, autoridad o jerarquía.
 
 Las palabras griegas de connotación jerarquica, o denotantes de poder o autoridad son otras, como por ejemplo: archon que significa “jefe” o “principal”. También el griego utliza la palabra oikodespotes, que significa “patriarca” o el principal de la familia. Incluso podemos encontrar la palabra hegeomai, que significa “lider” o el que va delante o el que establece lo que debe ser. Un detalle muy importante, pasado por alto, es que Pablo no utlizó ninguna palabra que denotara jerarquía o autoridad al referirse a la relación entre hombre y mujer, sino otra que carece por completo de ese significado.
 
@@ -129,17 +119,13 @@ Del mismo modo, del Logos (Cristo), salió el ser humano (Adam, en término gen�
 
 Cristo, en otro orden de cosas, es la cabeza de la iglesia porque de él y desde él se origina y funda ella. Cuando el Nuevo Testamento quiere denotar la jerarquía y autoridad de Cristo sobre la iglesia, utiliza la idea de la “piedra angular”, no la de cabeza. La noción de “piedra angular” es ya frecuente en el Antiguo Testamento (Job 38:6, Salmo 118:22, Isaías 26:16 etc). Notemos como el texto de Isaías 26:16 deja clara la noción de autoridad mediante la frase “piedra angular”:
 
-Isaías 28:16Nueva Versión Internacional (NVI) 16 Por eso dice el Señor omnipotente:
+Isaías 28:16 Nueva Versión Internacional (NVI) 
 
-«¡Yo pongo en Sión una piedra probada!,
-
-piedra angular y preciosa para un cimiento firme; el que confíe no andará desorientado
+_16 Por eso dice el Señor omnipotente: «¡Yo pongo en Sión una piedra probada!, piedra angular y preciosa para un cimiento firme; el que confíe no andará desorientado._
 
 La idea de “cabeza” no describe el cimiento o la potencia que sostiene, sino lugar o fuente de origen. Así como enero no es el cimiento de abril, ni la semana se sostiene por el lunes, la mujer no es sostenida por el hombre, sino que es, según Génesis, posterior en tiempo a él. Así lo utiliza el mismo Pablo en Colosenses 1:18
 
-18 Él es la cabeza (κεφαλὴ) del cuerpo, que es la iglesia.
-
-Él es el principio, el primogénito de la resurrección, para ser en todo el primero.
+_18 Él es la cabeza (κεφαλὴ) del cuerpo, que es la iglesia. Él es el principio, el primogénito de la resurrección, para ser en todo el primero._
 
 Eso implica, aplicado al hombre y la mujer, que ontológicamente tienen la misma esencia, son iguales, y sustancialmente idénticos, es decir, son Adam (Génesis 5:2), en hebreo la palabra “adam” significa literalmente “humanidad”.
 
@@ -147,7 +133,7 @@ Pablo retoma esta idea en 1 Corintios 11:11-12
 
 1 Corintios 11:11-12Nueva Versión Internacional (NVI)
 
-11 Sin embargo, en el Señor, ni la mujer existe aparte del hombre ni el hombre aparte de la mujer. 12 Porque así como la mujer procede del hombre, también el hombre nace de la mujer; pero todo proviene de Dios.
+_11 Sin embargo, en el Señor, ni la mujer existe aparte del hombre ni el hombre aparte de la mujer. 12 Porque así como la mujer procede del hombre, también el hombre nace de la mujer; pero todo proviene de Dios._
 
 El apóstol está deslindándose del desarrollo legal y cultural grecorromano: “ni el varón es sin la mujer ni la mujer es sin el varón”.
 
@@ -155,7 +141,7 @@ Luego, en el versículo 12, su argumentación final es que si bien es cierto la 
 
 Notemos como hay una coherencia evidente en toda la literatura paulina:
 
-1 Timoteo 5:14: “Quiero pues, que las que son jóvenes se casen, críen hijos, gobiernen la casa; que ninguna ocasión den al adversario para maldecir”. Aquí las mujeres son comisionadas a oikodespotein “gobernar” (Gr. οἰκοδεσποτεῖν) las casas, aun cuando sean casadas.
+1 Timoteo 5:14: _“Quiero pues, que las que son jóvenes se casen, críen hijos, gobiernen la casa; que ninguna ocasión den al adversario para maldecir”. Aquí las mujeres son comisionadas a oikodespotein “gobernar” (Gr. οἰκοδεσποτεῖν) las casas, aun cuando sean casadas._
 
 Habiendo exclarecido el problema que planteaba la palabra “cabeza” referida al hombre en su relación con la mujer, queda también salvada la idea de que, así como en la casa la autoridad es el hombre, también en la iglesia la mujer debe estar subordinada al varón. Dicha idea no emana del Nuevo Testamento.
 
