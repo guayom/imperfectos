@@ -9,7 +9,7 @@ date: 2018-01-13T05:35:49.568Z
 img: /images/screen-shot-2014-06-06-at-10.07.05-pm.png.html.png
 thumb: /images/screen-shot-2014-06-06-at-10.07.05-pm.png.html.png
 ---
-MOTIVACIÓN Y CONTEXTO:
+**MOTIVACIÓN Y CONTEXTO:**
 
 Las siguientes ideas son el aporte personal al conversatorio que se ha denominado:  ̈Simposio sobre la vocación de la mujer en el liderazgo de la iglesia ̈, organizado por la Federación de Iglesias Viña de Costa Rica.
 
@@ -21,7 +21,7 @@ Todo ser humano puede tener vocación, sea éste un niño o una niña, un hombre
 
 Finalmente es importante considerar que el presente documento está pensado para ser expuesto en un “diálogo” entre amigos, como se nos fue planteado en las reuniones de pastores precedentes. Es por eso que el formato y el lenguaje utilizado atienden a la idea de una charla más que a un trabajo formal. En todo caso, la bibliografía y citas estarán mencionadas al final de cada parágrafo indicado.
 
-EL CULTO A LA MUJER EN EL IMPERIO ROMANO:
+**EL CULTO A LA MUJER EN EL IMPERIO ROMANO:**
 
 Tanto los romanos como los griegos poseían una amplia gama de diosas a quienes veneraban. Lo femenino y lo divino no se contradecían. En ese contexto, las casas romanas debían mimetizar al imperio. Era una especie de reflejo, una pequeña Roma en casa. Todas las casas romanas veneraban a Hestia, simbolizada por el fuego, que debía permanecer encendido bajo la resposabilidad de las mujeres.
 
@@ -29,7 +29,7 @@ En el entorno religioso propiamente dicho, las vírgenes vestales fueron las pri
 
 Tanto en las casas, como en el templo, su función principal era la de mantener vivo el fuego sagrado. De la casa en el primer caso, del Estado en el segundo. El poder del hogar y del Estado estaba directamente relacionado con el “oficio”de las mujeres de mantener el fuego sagrado vivo, una especie de sacerdocio cultural.
 
-LA MUJER EN EL JUDAISMO:
+**LA MUJER EN EL JUDAISMO:**
 
 Este protagonismo no lo compartía el judaísmo, al menos de forma inicial. Las mujeres no eran consideradas portadoras de lo sagrado, debían celebrar sus fiestas religiosas por separado y no se les reservaba ningún puesto de importancia dentro del desarrollo cultual del templo.
 
@@ -39,27 +39,23 @@ La caída del templo impidió seguir con un ritual que excluía a las mujeres pe
 
 Pero el desarrollo teológico posterior plantea serios problemas, ya que existen grandes desavenencias entre la Misnah y el Talmud babilónico. Mientras uno permitía a la mujer tocar el shofar o leer el libro de Ester en Purim, el otro tratado se los prohibía rotundamente (Judith Wegner, Chattel or person. The status of women in the Mishnah, Oxford University Press, N. York 1988, p. 158).
 
-
-
 En las comunidades judías de Asia Menor podemos encontrar una primera figura legal y estructural de liderazgo femenino. A esa figura se la denominaba archisinagogos, que equivale a lider general de sinagoga. La lista de mujeres con estos cargos se hace muy larga y la encontramos en Creta, Tebas, Tracia, Venosa, Venecia, Roma o Malta. Bernadette Brooten ha investigado ampliamente la figura y, a través de sus investigaciones podemos conocer los nombres de hasta 21 mujeres que ostentaron cargos en las antiguas sinagogas.
 
-NACIMIENTO DE LA IGLESIA:
+**NACIMIENTO DE LA IGLESIA:**
 
 La iglesia nace en casas. Y las casas romanas, tanto judías como paganas configuraban la misma noción en la que la mujer era la responsable de mantener el fuego sagrado encendido. Al leer el libro de los Hechos y las cartas paulinas se puede descubrir una correlación entre los términos ekklesía y oikós (casa). De ahí la frecuente fórmula apostólica “la iglesia en la casa de...”, demostrando la amplia proliferación de la iglesia en casa (E. W. Stegemann y W. Stegemann, Historia social del cristianismo primitivo, Estella 2001. p. 355 ss).
 
 Dentro de este marco, la importancia concreta de la mujer se refiere tanto a la fundación de iglesias domésticas cuanto a su mantenimiento y promoción (Hch 16,15;12,12; Rom 16,5). El desarrollo del cristianismo debe mucho a las iglesias en casas. El movimiento misionero estaba sostenido por esta figura. Las casas-iglesias eran lugar de acogida, instrucción y financiación para el avance misionero. Es de importancia capital subrayar el papel de las mujeres como fundadoras, patrocinadoras y sustentadoras de las iglesias en casa. Mientras los apóstoles y otros hombres hacían su trabajo en un ambiente público (Puerta del Templo o plazas) las mujeres sustentaban la vida espiritual y material de las iglesias en casas.
 
-LOS COLLEGIA RELIGIONIS CAUSA:
+**LOS COLLEGIA RELIGIONIS CAUSA:**
 
 En el mundo romano no solo emergía una nueva expresión del judaísmo como germen del cristianismo. También proliferaban cientos de agrupaciones de diversas espiritualidades que se reunían periodicamente. La legislación romana creó una figura bajo la cual podían legalizarse todas estas agrupaciones. A esta figura se le llamaba collegia. Eran asociaciones de derecho privado, que podían tener carácter profesional, religioso o funerario. Se debían basar en la solidaridad de sus miembros y en la asistencia recíproca. Debían elegir un representante y contribuir a la
 
 “caja” con una ofrenda mensual. El Imperio podía controlar estas asociaciones, desintegrando las que se convertían en amenazas o apoyando aquellas que contribuían solidariamente a los mas necesitados de la sociedad. No es de extrañar que las casas-iglesia tomaran poco a poco la determinación de convertirse en collegia para estar bien integradas en la sociedad romana. Las distintas investigaciones sugieren que la mayor parte de los collegia cristianos nacían primero como casas- iglesia de familias ricas y luego se legalizaban, permitiendo en muchas ocasiones a las mujeres ser las representantes legales de cada una de ellas. Esto se debe, sobre todo, porque muchas mujeres que habían enviudado se transformaban en pater familias y,
 
-
-
 al convertirse al cristianismo, ponían todas sus posesiones a la orden de la comunidad. Legalmente eran las dueñas y las representantes, eclesiológicamente eran las fundadoras y las sustentaban espiritual y economicamente (E. W. Stegemann y W. Stegemann, Historia social del cristianismo primitivo, Estella (2001), p. 196-200). Un ejemplo claro puede ser la función de Marta y María como promotoras, patrocinadoras y sustentadoras de reuniones espirituales en su casa. Aún cuando Lázaro era el varón de la familia (de hermanos) ellas fungían como las convocantes, organizadoras (Marta) y sutentadoras de la vida espiritual (María).
 
-CONFRONTACION PREVIA A LA SEPARACION DE LOS MINISTERIOS:
+**CONFRONTACION PREVIA A LA SEPARACION DE LOS MINISTERIOS:**
 
 Cuando Pablo se refiere a las casas-iglesia aun no se había dado la separación de los ministerios. Hubo un conflicto que debemos leer con esta clave. El conflicto lo podemos encontrar en Hechos 6. Es un enfrentamiento entre los judíos de habla hebrea y los judíos de habla griega. Su discusión tiene que ver con la división de las tareas y ministerios.
 
@@ -69,11 +65,9 @@ Fijémonos en el grupo de habla griega, también denominado “Grupo de los siet
 
 El verdadero conflicto no es entre hombres y mujeres, sino entre la sinagoga (en la facción hebraísta conservadora) y la comunidad cristiana (la naciente comunidad marcada por el liderazco de Jesús) o, dicho de otra forma: Sinagoga Vs. Iglesia. Convirtiéndose este conflicto en la norma paradigmática en lo relativo a los roles de
 
-
-
 poder en la iglesia. La homologación entre Templo judío e Iglesia (obviamente cristiana), Sinagoga e Iglesia, da como resultado una homologación entre Sacerdocio judío (patriarcal y excluyente) y pastoral cristiana, donde ya no hay diferencia entre hombre y mujer y todos son uno en Cristo (Gálatas 3:28); entre Moisés y Jesús o, si se quiere: Entre Antiguo Testamento y Nuevo Testamento, lo cual, evidentemente, crea confusiones y equivocos enormes en la eclesiología.
 
-LA MUJER Y EL ESTIGMA DE LA HEREJIA:
+**LA MUJER Y EL ESTIGMA DE LA HEREJIA:**
 
 Desde el inicio de la Iglesia Imperial, se persiguió la herejía. Esa persecución se asocia directamente con la hejemonía del poder. Un solo poder, una sola línea sucesoria y una sola forma de hacer iglesia.
 
@@ -89,33 +83,21 @@ Un ejemplo de ese desarrollo del pensamiento cristiano puede aleccionarnos al re
 
 “Igual que cuando alguien captura a un león orgulloso y de mirada altiva, le corta la melena, le rompe los dientes, le corta las uñas y le convierte en un especimen desgraciado y ridículo (...) así esas mujeres convierten a los hombres que capturan en presas fáciles del mal. Los hacen débiles, airados, vergonzosos, despreocupados, irascibles, insolentes, inoportunos, innobles, rudos, serviles, tacaños, temerarios y
 
-
-
 tontos. En resumen, las mujeres toman todas sus corruptas costumbres femeninas y las imprimen en las almas de los hombres” (J. Crisóstomo, Contra los que habitan con virgenes 11).
 
 Con todo, la participación de la mujer en el liderazgo de las diversas iglesias y expresiones cristianas no dejó de existir. No cabe en este documento hacer una exposición de cada una de esas expresiones y movimientos, por motivos de tiempo y formato. Sin embargo podemos resumir que es a partir del siglo II que la Iglesia comienza a constituirse en una comunidad jerárquica, gobernada conforme a criterios patriarcales, que aspira a presentarse como un sistema “respetable” ante la sociedad grecoromana y su consiguiente “acomodo” a su legislación.
 
-EFECTOS INTERPRETATIVOS DEL ESTIGMA HERETICO:
+**EFECTOS INTERPRETATIVOS DEL ESTIGMA HERETICO:**
 
 Producto de todo lo anterior, el desarrollo interpretativo de la Iglesia bajo la clave patriarcal dio como resultado un sin fin de exégesis forzadas y retorcidas que impactaron severamente nuestra sociedad cristiana. Podemos ver, entonces, que la dirección estigmatizante hacia la mujer y su consecuente marginación en el liderazgo de la iglesia no discurre de la marginación a laintegración, sino todo lo contrario: de la integración a la marginación.
 
-3 MALAS TRADUCCIONES BIBLICAS QUE HAN CREADO UNA CULTURA MACHISTA:
+**3 MALAS TRADUCCIONES BIBLICAS QUE HAN CREADO UNA CULTURA MACHISTA:**
 
-1. La mujer como "ayuda idónea". El Génesis no describe a la mujer como una simple ayuda o un simple complemento del hombre. La frase que la describe es
+1. La mujer como "ayuda idónea". El Génesis no describe a la mujer como una simple ayuda o un simple complemento del hombre. La frase que la describe es"Ezer Kenegdo" que significa literalmente "Auxilio o salvación frente a él". El resultado de la mala traducción es la concepción de la mujer como una "segundo de abordo", una "ayudante" del hombre. Gana menos dinero, y tiene menos derechos.
+2. La mujer como bien económico: Cuando en Isaías se describe a la mujer que daría a luz al Salvador, no describe a una mujer "virgen" sino a una niña que no ha tenido menstruación o una joven que no se ha casado. La palabra hebrea que se usa para virgen es "betullah", pero el texto de Isaías utiliza la palabra "almah", muy distinta. El énfasis en la virginidad es erróneo, el autor de Isaías pone el acento en el milagro de que una mujer no casada conciba y no en el valor de la virginidad. El resultado de esta mala traducción es ese énfasis enfermizo en el valor de la mujer basado en su virginidad. Si es virgen vale más, si al casarse ya no lo es, vale menos. Los padres de la antigüedad concebían la virginidad de sus hijas como un bien por el que el hombre pagaría para casarse con ella (la dote). Muchas agresiones machistas están basadas en esto. Y no solo por parte de sus parejas, sino por parte de sus padres, quienes ante un embarazo prematuro son capaces de agredir emocional, patrimonial o físicamente a sus hijas.
+3. El concepto de “cabeza” en Pablo: El ultimo ejemplo que quiero exponer debe ser desarrollado con más detenimiento y amplitud por sus consecuencias directas, ya no solo en la construcción social de lo femenino, ni en el desarrollo de lo religioso, del concepto de pureza y santidad en la mujer, sino en el impacto que ha tenido en el liderazgo de la mujer en la iglesia.
 
-"Ezer Kenegdo" que significa literalmente "Auxilio o salvación frente a él". El resultado de la mala traducción es la concepción de la mujer como una "segundo de abordo", una "ayudante" del hombre. Gana menos dinero, y tiene menos derechos.
-
-2. La mujer como bien económico: Cuando en Isaías se describe a la mujer que daría a luz al Salvador, no describe a una mujer "virgen" sino a una niña que no ha tenido menstruación o una joven que no se ha casado. La palabra hebrea que se usa para virgen es "betullah", pero el texto de Isaías utiliza la palabra "almah", muy distinta. El énfasis en la virginidad es erróneo, el autor de Isaías pone el acento en el milagro de que una mujer no casada conciba y no en el valor de la virginidad. El resultado de esta mala traducción es ese énfasis enfermizo en el valor de la mujer basado en
-
-su virginidad. Si es virgen vale más, si al casarse ya no lo es, vale menos. Los padres de la antigüedad concebían la virginidad de sus hijas como un bien por el que el hombre pagaría para casarse con ella (la dote). Muchas agresiones machistas están basadas en esto. Y no solo por parte de sus parejas, sino por parte de sus padres, quienes ante un embarazo prematuro son capaces de agredir emocional, patrimonial o físicamente a sus hijas.
-
-3. El concepto de “cabeza” en Pablo: El ultimo ejemplo que quiero exponer debe ser desarrollado con más detenimiento y amplitud por sus consecuencias directas, ya no solo en la construcción social de lo femenino, ni en el desarrollo de lo religioso, del
-
-
-
-concepto de pureza y santidad en la mujer, sino en el impacto que ha tenido en el liderazgo de la mujer en la iglesia.
-
-El esposo como cabeza de la esposa y de la familia
+**El esposo como cabeza de la esposa y de la familia**
 
 La frecuencia con la que se dice que el hombre es la cabeza-autoridad de la esposa hace pensar que es imposible ponerla en duda y regresar al texto bíblico para corroborar dicha noción. Al regresar a la Biblia, no encontramos ninguna afirmación explícita acerca del varón como autoridad de la mujer. Tal afirmación, mas bien, es heredada de la legislación romana (como ya hemos anotado) y ha traído la supresión de derechos y libertades de las mujeres. La Biblia no afirma tal cosa.
 
@@ -135,8 +117,6 @@ Recordemos que Pablo era judío y su pensamiento, teología y literatura parten 
 
 Ni en griego ni en hebreo la palabra tiene un sentido de autoridad o jerarquía. El primer mes del año no tiene autoridad sobre el último, por ejemplo. Ni en los clásicos,
 
-
-
 ni en la LXX ni en el Nuevo Testamento encontramos la palabra griega κεφαλὴ con un sentido de gobierno, autoridad o jerarquía.
 
 Las palabras griegas de connotación jerarquica, o denotantes de poder o autoridad son otras, como por ejemplo: archon que significa “jefe” o “principal”. También el griego utliza la palabra oikodespotes, que significa “patriarca” o el principal de la familia. Incluso podemos encontrar la palabra hegeomai, que significa “lider” o el que va delante o el que establece lo que debe ser. Un detalle muy importante, pasado por alto, es que Pablo no utlizó ninguna palabra que denotara jerarquía o autoridad al referirse a la relación entre hombre y mujer, sino otra que carece por completo de ese significado.
@@ -151,8 +131,6 @@ Cristo, en otro orden de cosas, es la cabeza de la iglesia porque de él y desde
 
 Isaías 28:16Nueva Versión Internacional (NVI) 16 Por eso dice el Señor omnipotente:
 
-
-
 «¡Yo pongo en Sión una piedra probada!,
 
 piedra angular y preciosa para un cimiento firme; el que confíe no andará desorientado
@@ -161,9 +139,7 @@ La idea de “cabeza” no describe el cimiento o la potencia que sostiene, sino
 
 18 Él es la cabeza (κεφαλὴ) del cuerpo, que es la iglesia.
 
-Él es el principio,
-
-el primogénito de la resurrección, para ser en todo el primero.
+Él es el principio, el primogénito de la resurrección, para ser en todo el primero.
 
 Eso implica, aplicado al hombre y la mujer, que ontológicamente tienen la misma esencia, son iguales, y sustancialmente idénticos, es decir, son Adam (Génesis 5:2), en hebreo la palabra “adam” significa literalmente “humanidad”.
 
@@ -183,9 +159,7 @@ Notemos como hay una coherencia evidente en toda la literatura paulina:
 
 Habiendo exclarecido el problema que planteaba la palabra “cabeza” referida al hombre en su relación con la mujer, queda también salvada la idea de que, así como en la casa la autoridad es el hombre, también en la iglesia la mujer debe estar subordinada al varón. Dicha idea no emana del Nuevo Testamento.
 
-  
-
-EVIDENCIA LITERARIA Y ARQUEOLOGICA DEL LIDERAZGO DE LA MUJER EN LA ANTIGÜEDAD:
+**EVIDENCIA LITERARIA Y ARQUEOLOGICA DEL LIDERAZGO DE LA MUJER EN LA ANTIGÜEDAD:**
 
 En el capítulo titulado «Mujeres presbíteros», Kevin Madigan y Carolyn Osiek (Ordained Women in the Early Church, Johns Hopkins University Press) exponen la evidencia de 37 textos e inscripciones antiguos referentes a mujeres pastoras o que ejercen roles de liderazgo en la iglesia primitiva. Las dos palabras más frecuentes son “presbitera” y “episcopa”, ambas pudiendo ser traducidas como “pastora”. A continuación menciono varios ejemplos citados, a excepción de fractio panis, por los dos autores en su investigación.
 
@@ -207,11 +181,9 @@ En el capítulo titulado «Mujeres presbíteros», Kevin Madigan y Carolyn Osiek
 
 \- Kale Presbytis (Sicila, s. IV-V): «Aquí yace Kale, presbítera, que vivió cincuenta años de manera intachable. Falleció en la decimonovena kalenda de octubre».
 
-
-
 \- Leta la presbítera (Calabria \[Italia de sur], s. IV-V): La parte pertinente de la inscripción dice: «Sagrada en su buena memoria, Leta la presbitera vivió cuarenta años, ocho meses y nueve días».
 
-CONCLUSIONES PRACTICAS
+**CONCLUSIONES PRACTICAS**
 
 \- Habiendo comprendido que el rol de la mujer en el liderazgo de la iglesia discurrió desde su completa integración en las iglesias-casa hasta su subordinación en la Iglesia Imperial, debemos cooperar en la enmienda de dicho devenir erróneo levantando todas las restricciones para la completa integración de la mujer en el liderazgo de la iglesia.
 
