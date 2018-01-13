@@ -6,7 +6,7 @@ publish_mode: editorial_workflow
 
 media_folder: "images"
 collections:
-  - name: "post"
+  - name: "posts"
     label: "Posts"
     folder: "_posts"
     create: true
