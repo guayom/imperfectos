@@ -19,7 +19,7 @@
         var image = entry.getIn(['data', 'img']);
 
         return h('div', {},
-          h('img', {src: bg.toString()}),
+          h('img', {src: image.toString()}),
           h('h1', {}, entry.getIn(['data', 'title'])),
           h('div', {"className": "text"}, this.props.widgetFor('body'))
         );
