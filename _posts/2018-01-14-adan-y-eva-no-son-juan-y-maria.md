@@ -19,6 +19,4 @@ Y es justo ahí, luego de ser llamada de muchas formas distintas (incluído un i
 
 La lectura literal nos lleva a pensar que Eva era una muchacha, adán un muchacho y la serpiente un animalito que hablaba. Luego los 3 pecaron y Dios castigó a Adan con trabajo, a Eva con dolores de parto y a la serpiente con arrastrarse... en ese caso, si fuera literal la serpiente debería seguir hablando porque el castigo no le impedía la conversada. 
 
-
-
 La lectura real, la literaria, reconoce que esa parte de Génesis es poesía, así que Adam no es un muchacho, sino muchos, eva no es una persona sino la fertilidad en la humanidad... y los roles de varón y hembra se fueron creando en la sociedad, como vemos en este pequeño articulo.
