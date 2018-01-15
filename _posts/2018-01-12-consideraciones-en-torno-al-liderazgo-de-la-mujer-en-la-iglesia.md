@@ -11,7 +11,7 @@ thumb: /images/screen-shot-2014-06-06-at-10.07.05-pm.png.html.png
 ---
 **MOTIVACIÓN Y CONTEXTO:**
 
-Las siguientes ideas son el aporte personal al conversatorio que se ha denominado:  ̈Simposio sobre la vocación de la mujer en el liderazgo de la iglesia ̈, organizado por la Federación de Iglesias Viña de Costa Rica.
+Las siguientes ideas son el aporte personal al conversatorio que se ha denominado:  ̈Simposio sobre la vocación de la mujer en el liderazgo de la iglesia ̈, organizado por la Federación de Iglesias Viña de Costa Rica. <!--more-->
 
 El Movimiento de La Viña en Costa Rica nace de la mano de líderes provenientes de diferentes herencias eclesiásticas, la mayoría de las veces heredando y conservando las eclesiologías subyacentes. Tales herencias han contribuido a una estructuración muy variada del liderazgo ministerial. Asi, en algunas iglesias existe un liderazgo de la mujer más notorio que en otras. Sin embargo, como factor común, todas las iglesias de La Viña en Costa Rica se estructuran actualmente bajo un liderazgo eminentemente masculino, teniendo todas ellas pastores principales masculinos.
 
