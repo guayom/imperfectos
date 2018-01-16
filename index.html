@@ -32,23 +32,7 @@ img: header.jpg
             <div class="sp-share-this">
               <p class="sp-meta-title">Compartir en:</p>
               <p class="sp-share-list">
-
-              <!-- Twitter -->
-              <a class="twitter popup" href="https://twitter.com/share?url=https://imperfectos.org{{ post.url }}&amp;text={{ post.title }}&related={{ site.twitter_username }}" target="_blank" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Twitter', '{{ post.title }}');">
-                  <i class="fa fa-twitter"></i>
-              </a>
-
-              <!-- Facebook -->
-              <a href="http://www.facebook.com/sharer.php?u=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="facebook" title="Compartir en Facebook" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Facebook', '{{ post.title }}');">
-                 <i class="fa fa-facebook"></i>
-              </a>
-
-              <!-- Google+ -->
-              <a href="https://plus.google.com/share?url=https://imperfectos.org{{ post.url }}" rel="nofollow" target="_blank" class="g-plus gplus" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Google+', '{{ post.title }}');">
-                <i class="fa fa-google-plus"></i>
-              </a>
-
-              <a class="mail" href="mailto:?subject={{ post.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ post.title }}: {{ post.url }}" onClick="ga('send', 'event', 'Home Clicks', 'Compartir', 'Mail', '{{ post.title }}');"><i class="fa fa-envelope-o"></i></a>
+                {% include sharer.html %}
               </p>
             </div>
           </div>
