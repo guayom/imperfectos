@@ -17,7 +17,7 @@ layout: default
               {% for post in site.posts %}
                 "{{ post.url | slugify }}": {
                   "title": "{{ post.title | xml_escape }}",
-                  "content": {{ post.excerpt | strip_html | strip_newlines | jsonify | strip}},
+                  "content": {{ post.content | strip_html | strip_newlines | jsonify | truncate: 200 | replace: '"' "" | append: '"' | prepend: '"'}},
                   "url": "{{ post.url | xml_escape }}"
                 }
                 {% unless forloop.last %},{% endunless %}
