@@ -63,23 +63,8 @@ extraclass: sp-single
 
 	        <div class="sp-share-this">
 	          <span>Compartir:</span>
-
-            <!-- Twitter -->
-            <a class="twitter popup" href="https://twitter.com/share?url=https://imperfectos.org{{ page.url }}&amp;text={{ page.title }}&related={{ site.twitter_username }}" target="_blank" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Twitter', '{{ page.title }}');">
-                <i class="fa fa-twitter"> Twitter</i>
-            </a>
-
-            <!-- Facebook -->
-            <a href="http://www.facebook.com/sharer.php?u=https://imperfectos.org{{ page.url }}" target="_blank" class="facebook" title="Compartir en Facebook" rel="nofollow" class="facebook" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Facebook', '{{ page.title }}');">
-               <i class="fa fa-facebook"></i> Facebook
-            </a>
-
-            <!-- Google+ -->
-            <a href="https://plus.google.com/share?url=https://imperfectos.org{{ page.url }}" rel="nofollow" target="_blank" class="g-plus gplus" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Google+', '{{ page.title }}');">
-              <i class="fa fa-google-plus"></i> Google Plus
-            </a>
-
-	          <a class="mail" href="mailto:?subject={{ page.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{site.url }}{{ page.url }}" onClick="ga('send', 'event', 'Post Clicks', 'Compartir', 'Mail', '{{ page.title }}');"><i class="fa fa-envelope-o"></i> Email</a>
+            <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a5d5b45b4d5b800123095a1&product=inline-share-buttons"></script>
+            <div class="sharethis-inline-share-buttons"></div>
 	        </div>
 
 	        <div>
