@@ -18,6 +18,7 @@ layout: default
                 "{{ post.url | slugify }}": {
                   "title": "{{ post.title | xml_escape }}",
                   "content": {{ post.content | strip_html | strip_newlines | truncate: 200 | jsonify }},
+                  "date": {{ post.date | date: "%b %-d, %Y" | jsonify }},
                   "url": "{{ post.url | xml_escape }}"
                 }
                 {% unless forloop.last %},{% endunless %}
