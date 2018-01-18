@@ -32,7 +32,7 @@ img: header.jpg
             <div class="sp-share-this">
               <p class="sp-meta-title">Compartir en:</p>
               <p class="sp-share-list">
-                <div class="sharethis-inline-share-buttons" data-url="{{site.url}}{{ post.url }}" data-title="{{post.title}}"></div>
+                {% include sharer.html url=post.url title=post.title %}
               </p>
             </div>
           </div>
