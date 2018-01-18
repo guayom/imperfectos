@@ -12,7 +12,7 @@
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:site" content="@yahvista">
-  <meta name="twitter:title" content="Imperfectos.org">
+  <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:creator" content="@yahvista">
   <meta name="twitter:image" content="{{ page.img }}">
