@@ -9,14 +9,14 @@ date: 2018-01-18T15:49:30.231Z
 img: /images/untitled design-5.png
 thumb: /images/untitled design-5.png
 ---
-Esta es la transcripción del mensaje llamado "Posicionamiento de Interludio ante el momento de polarización nacional" difundido a través de un video para toda la comunidad de la iglesia Interludio. \
-\
+Esta es la transcripción del mensaje llamado "Posicionamiento de Interludio ante el momento de polarización nacional" difundido a través de un video para toda la comunidad de la iglesia Interludio. 
+
 <!--more-->
 
 \
  Vivimos momentos de confrontación y de polarización. Son momentos importantes en nuestra sociedad. Ser pacificadores es una de las labores de quienes hemos decidido ser cristianos.   La polarización sin reflexión no deja nada bueno. Recuerdo cuando se realizó el Referndum del TLC, existen heridas que perduran hasta el día de hoy.  
 
- ¿Qué debe hacer la iglesia? ¿Qué debe hacer nuestra iglesia?   En Interludio creemos que la iglesia no debe tener una posición como iglesia o como institución.  Una iglesia es un conjunto de personas y cada una de esas personas tiene sus puntos de vista, sus ideas y sus posiciones.   Es decir, la iglesia es gente, y no toda la gente piensa igual y cree igual.   Así que nosotros hemos decidido posicionarnos como una iglesia que hace un llamado a la unidad, a la pacificación y al amor.   
+** ¿Qué debe hacer la iglesia?** ¿Qué debe hacer nuestra iglesia?   En Interludio creemos que la iglesia no debe tener una posición como iglesia o como institución.  Una iglesia es un conjunto de personas y cada una de esas personas tiene sus puntos de vista, sus ideas y sus posiciones.   Es decir, la iglesia es gente, y no toda la gente piensa igual y cree igual.   Así que nosotros hemos decidido posicionarnos como una iglesia que hace un llamado a la unidad, a la pacificación y al amor.   
 
 No importa si usted está a favor o en contra de un candidato, de un partido o de alguna idea específica, puede venir a Interludio sin que nadie lo señale. No es nuestra labor decirle por quién debe votar.   
 
@@ -48,13 +48,15 @@ Pero en el contexto que leemos, ser un extranjero tiene implicaciones que hoy, q
 
 Los nombres de las Ciudades Refugio, enlistados en los versículos 7 y 8, nos dan una guía expresa de la filosofía de trabajo, del por qué de su existencia. 
 
-1. CEDES\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_SANTUARIO O JUSTICIA (refugio al pecador)
-2. SIQUEM \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ESPALDA U HOMBRO (refugio a los fatigados)
-3. HEBRON\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_PACTO O COMUNIÓN (refugio a los desamparados)
-4. BESER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_FORTALEZA (refugio para el débil)
-5. RAMOT\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__EXALTADO (refugio al desanimado)
-6. GOLAN\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__GOZO (refugio a los afligidos) 
-   Por lo tanto, si unimos todas esas palabras clave en Interludio, obtendríamos un Refugio donde la gente puede esperar: Un Santuario, un hombro, comunidad, fortaleza, ánimo, y alegría.
+1. **CEDES\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_SANTUARIO O JUSTICIA (refugio al pecador)**
+2. **SIQUEM \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ESPALDA U HOMBRO (refugio a los fatigados)**
+3. **HEBRON\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_PACTO O COMUNIÓN (refugio a los desamparados)**
+4. **BESER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_FORTALEZA (refugio para el débil)**
+5. **RAMOT\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__EXALTADO (refugio al desanimado)**
+6. **GOLAN\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__GOZO (refugio a los afligidos) **
+
+
+Por lo tanto, si unimos todas esas palabras clave en Interludio, obtendríamos un Refugio donde la gente puede esperar: Un Santuario, un hombro, comunidad, fortaleza, ánimo, y alegría.
 
 Ante esta oleada de división, enojo, odio, agresión. Nuestra elección es ser REFUGIO Y NO CUARTEL.   Es más, si en este tiempo te has sentido que te quedaste sin un lugar donde pertenecer, en Interludio queremos ofrecerte UN SANTUARIO DONDE ADORAR, UN HOMBRO DONDE DESCANSAR, UNA COMUNIDAD PARA PERTENECER, FORTALEZA, ANIMO Y ALEGRIA 
 
