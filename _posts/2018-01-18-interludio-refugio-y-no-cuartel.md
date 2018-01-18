@@ -11,6 +11,9 @@ thumb: /images/untitled design-5.png
 ---
 Esta es la transcripción del mensaje llamado "Posicionamiento de Interludio ante el momento de polarización nacional" difundido a través de un video para toda la comunidad de la iglesia Interludio. \
 \
+<!--more-->
+
+\
  Vivimos momentos de confrontación y de polarización. Son momentos importantes en nuestra sociedad. Ser pacificadores es una de las labores de quienes hemos decidido ser cristianos.   La polarización sin reflexión no deja nada bueno. Recuerdo cuando se realizó el Referndum del TLC, existen heridas que perduran hasta el día de hoy.  
 
  ¿Qué debe hacer la iglesia? ¿Qué debe hacer nuestra iglesia?   En Interludio creemos que la iglesia no debe tener una posición como iglesia o como institución.  Una iglesia es un conjunto de personas y cada una de esas personas tiene sus puntos de vista, sus ideas y sus posiciones.   Es decir, la iglesia es gente, y no toda la gente piensa igual y cree igual.   Así que nosotros hemos decidido posicionarnos como una iglesia que hace un llamado a la unidad, a la pacificación y al amor.   
