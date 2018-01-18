@@ -13,7 +13,4 @@ Este es, quizás, el artículo más pequeño que haya publicado en mi vida. Pero
 
 <!--more-->
 
-\
-Una estudiante de la Universidad me preguntó: ¿Cómo puedo saber si lo que estoy creyendo (en términos de religión) es correcto? MI respuesta fue simple: Si lo que crees te lleva al amor, entonces es correcto; Si, por el contrario, lo que crees te lleva al odio, enojo, discriminación o violencia, entonces es incorrecto. Ese es un primer filtro, para empezar.
-
-Hagamos un  trato: Si estás de acuerdo conmigo, pasalo a otros.
+Una estudiante de la Universidad me preguntó: ¿Cómo puedo saber si lo que estoy creyendo (en términos de religión) es correcto? Mi respuesta fue simple: Si lo que crees te lleva al amor, entonces es correcto; Si, por el contrario, lo que crees te lleva al odio, enojo, discriminación o violencia, entonces es incorrecto. Ese es un primer filtro, para empezar.
