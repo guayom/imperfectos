@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'INTERLUDIO: REFUGIO Y NO CUARTEL'
 date: 2018-01-18T15:49:30.231Z
-img: /images/captura de pantalla 2017-12-12 a la(s) 14.05.32.png
-thumb: /images/captura de pantalla 2017-12-12 a la(s) 14.05.32.png
+img: /images/different.jpg
+thumb: /images/different.jpg
 ---
 Esta es la transcripción del mensaje llamado "Posicionamiento de Interludio ante el momento de polarización nacional" difundido a través de un video para toda la comunidad de la iglesia Interludio. 
 
@@ -26,13 +26,13 @@ Como iglesia podemos tomar dos posiciones: O nos convertimos en un cuartel gener
 
 Un cuartel general es un lugar donde los soldados planifican el ataque, donde se está en continua batalla para ganar una idea o una posición.  
 
-Un refugio, en cambio, es un lugar donde llegamos para ser protegidos. Donde nos sentimos seguros.  
+Un** refugio**, en cambio, es un lugar donde llegamos para ser protegidos. Donde nos sentimos seguros.  
 
 Un cuartel general crea una sensación de estar en guerra constante.  
 
-Un refugio es un lugar para estar en paz unos con otros, para ayudarnos unos a otros, para abrazarnos unos a otros.  En un refugio nos defendemos todos, en un cuartel se desconfía de los espías o de los intrusos o de los enemigos.   
+Un **refugio** es un lugar para estar en paz unos con otros, para ayudarnos unos a otros, para abrazarnos unos a otros.  En un **refugio** nos defendemos todos, en un cuartel se desconfía de los espías o de los intrusos o de los enemigos.   
 
-Interludio debe ser un refugio y no un cuartel. Pero eso no es algo que nos hemos inventado nosotros.  Lo hemos encontrado en la Biblia.   
+Interludio debe ser un **refugio** y no un cuartel. Pero eso no es algo que nos hemos inventado nosotros.  Lo hemos encontrado en la Biblia.   
 
 Si hay una necesidad en las personas que llegan a una comunidad de fe, es la de encontrar un verdadero refugio. Y justamente esa palabra es importante en la Biblia. El Antiguo Testamento la utiliza para nombrar lugares excepcionales donde los seres humanos serían protegidos, verdaderos refugios. Ese era un fabuloso proyecto de Dios. Estos lugares especiales eran llamados “ciudades refugio”. La palabra traducida por “refugio” viene de la raíz hebrea que significa “receptáculo” o “asilo”. Es decir, un lugar de recibimiento, donde se puede solicitar asilo, cuidado y protección. 
 
@@ -54,7 +54,6 @@ Los nombres de las Ciudades Refugio, enlistados en los versículos 7 y 8, nos da
 4. **BESER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_FORTALEZA (refugio para el débil)**
 5. **RAMOT\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__EXALTADO (refugio al desanimado)**
 6. **GOLAN\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__GOZO (refugio a los afligidos) **
-
 
 Por lo tanto, si unimos todas esas palabras clave en Interludio, obtendríamos un Refugio donde la gente puede esperar: Un Santuario, un hombro, comunidad, fortaleza, ánimo, y alegría.
 
