@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'INTERLUDIO: REFUGIO Y NO CUARTEL'
 date: 2018-01-18T15:49:30.231Z
-img: /images/untitled design-5.png
-thumb: /images/untitled design-5.png
+img: /images/captura de pantalla 2017-12-12 a la(s) 14.05.32.png
+thumb: /images/captura de pantalla 2017-12-12 a la(s) 14.05.32.png
 ---
 Esta es la transcripción del mensaje llamado "Posicionamiento de Interludio ante el momento de polarización nacional" difundido a través de un video para toda la comunidad de la iglesia Interludio. 
 
