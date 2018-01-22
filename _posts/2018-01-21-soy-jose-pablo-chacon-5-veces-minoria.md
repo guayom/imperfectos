@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'SOY JOSE PABLO CHACON 5 VECES MINORIA '
 date: 2018-01-22T05:00:33.002Z
-img: /images/untitled design-8.png
-thumb: /images/untitled design-8.png
+img: /images/21768239_752612024947073_7727723846649855244_n.jpg
+thumb: /images/21768239_752612024947073_7727723846649855244_n.jpg
 ---
 “Porque también ustedes fueron extranjeros” (Levítico 19:34). Es la frase que se repite con insistencia y con fuerza en el Antiguo Testamento para recordarle a los israelitas que ellos también fueron minoría y sus derechos fueron vulnerados. Es la forma en que el texto les solicita tratar a todos con los mismos derechos de los que ellos gozan hoy. <!--more-->\
 
