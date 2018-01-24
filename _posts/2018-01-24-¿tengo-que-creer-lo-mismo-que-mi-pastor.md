@@ -9,9 +9,7 @@ date: 2018-01-24T17:47:20.544Z
 img: /images/636102902015374176-1923982722_2573839.jpg
 thumb: /images/636102902015374176-1923982722_2573839.jpg
 ---
-> _**Acuérdense de sus dirigentes, que les comunicaron la palabra de Dios. Consideren cuál fue el resultado de su estilo de vida, e imiten su fe. Hebreos 13:7 (NVI)**_
-
-
+> **_Acuérdense de sus dirigentes, que les comunicaron la palabra de Dios. Consideren cuál fue el resultado de su estilo de vida, e imiten su fe. Hebreos 13:7 (NVI)_**
 
 Es una pregunta de suma importancia y su respuesta podría traer mucha sanidad en la relación entre cada persona, su pastor y la iglesia a la que pertenece o, por el contrario, podría dar al traste con su individualidad, su libertad y su propia fe. <!--more-->
 
