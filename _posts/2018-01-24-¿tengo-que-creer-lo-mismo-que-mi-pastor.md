@@ -33,7 +33,7 @@ Creo que esta primera parte del texto nos anima a cuidar a nuestros líderes, a 
 
 Ahora bien, la segunda parte del texto nos da un consejo que pone límite a esa admiración, a ese seguimiento y a esa confianza. Nos dice que examinemos a nuestros líderes, con amor y con paciencia, sí, pero tenemos el derecho de "considerar" si sus vidas son un ejemplo o no. Esto quiere decir que puede tener la libertad, el derecho a no considerar seguirlo en todo lo que hace o dice. Puedo pensar que en unas cosas debo imitarlo, pero en otras simplemente no. Y no pasa nada. Ni el pastor deja de ser pastor ni el seguidor seja de ser cristiano. Tampoco es un rebelde ni un enemigo del pastor, simplemente considera que no está de acuerdo con todas las cosas de su vida. Y pueden seguir siendo pastor y discípulo sin problema. 
 
-**3. E imiten su fe: **
+**3. Imiten su fe: **
 
 La tercera parte del versículo nos aclara aún más el asunto. Lo que debemos imitar de nuestros líderes no son sus opiniones sobre política, sobre la economía, sobre el manejo del hogar o sobre la educación de sus hijos. Lo que se nos dice es que debemos imitar la fe de nuestros líderes, la fe de nuestros pastores.  La fe tiene que ver con Cristo y éste crucificado y resurrecto, la fe tiene que ver con la confianza depositada en Dios y su voluntad.  
 
@@ -41,4 +41,4 @@ Comprender esto nos ayuda a poner límites sanos a nuestro seguimiento. Los past
 
 La respuesta concreta a la pregunta inicial es simple: No.  No tenemos que creer lo mismo que nuestros pastores o líderes. Podemos diferir, disentir, podemos pensar en las antípodas en temas de política, de economía, de geopolítica y, aún con eso, seguir siendo parte de la misma iglesia sin problemas. 
 
-Al menos ese sería el proceder sano de parte de un buen pastor y un buen discipulo. Si el pastor considera "rebelde" a quien no piense como él, o si el discipulo se ve impelido a obedecer ciegamente, ahi no hay pastorado ni liderazgo ni disciúlo... ahí hay un problema.
+Al menos ese sería el proceder sano de parte de un buen pastor y un buen discipulo. Si el pastor considera "rebelde" a quien no piense como él, o si el discipulo se ve impelido a obedecer ciegamente, ahi no hay pastorado ni liderazgo ni discípulo... ahí hay un problema.
