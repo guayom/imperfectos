@@ -9,7 +9,7 @@ date: 2018-01-25T14:17:03.282Z
 img: /images/weaccept.jpg
 thumb: /images/weaccept.jpg
 ---
-Hacerle preguntas al texto bíblico es necesario. Sobre todo cuando intuimos que algunos términos o interpretaciones podrían tener un acercamiento distinto e, incluso, más correcto.
+Hacerle preguntas al texto bíblico es necesario. Sobre todo cuando intuimos que algunos términos o interpretaciones podrían tener un acercamiento distinto e, incluso, más correcto. <!--more-->
 
 Este es el caso del texto de 1 de Pedro 2:9 en el que encontramos 3 términos que nos deben llamar mucho la atención: Nación, Santa, Escogida. Estos 3 términos han sido explicados como la elección de Dios a un pueblo particular (Israel) y que, en su desarrollo cristiano posterior, se ha equiparado Israel-Iglesia. el texto de 1 de Pedro 2:9 dice lo siguiente:
 
