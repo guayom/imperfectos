@@ -9,23 +9,19 @@ date: 2018-02-05T21:30:20.008Z
 img: /images/green-street-hooligans-2.jpeg
 thumb: /images/green-street-hooligans-2.jpeg
 ---
-Creo que estamos cansados del fanatismo. Claro, eso lo decimos ultimamente con mucha frecuencia y con razón.  Sin embargo, todos podemos correr el riesgo de estarlos siendo. Todos podemos actuar como fanáticos en momentos como los que vive Costa Rica.  Y, por supuesto, ningún fanático cree que es fanático, todos creen que están defendiendo un derecho (divino o terrenal), un pensamiento, un futuro o la vida misma. De tal manera que es muy difícil realizar que uno está convirtiéndose en un "hincha" fanatizado y que lo es o lo ha sido desde hace tiempo. 
+Creo que estamos cansados del fanatismo. Claro, eso lo decimos ultimamente con mucha frecuencia y con razón.  Sin embargo, todos podemos correr el riesgo de estarlo siendo. Todos podemos actuar como fanáticos en momentos como los que vive Costa Rica.  Y, por supuesto, ningún fanático cree que es fanático, todos creen que están defendiendo un derecho (divino o terrenal), un pensamiento, un futuro o la vida misma. De tal manera que es muy difícil realizar que uno está convirtiéndose en un "hincha" fanatizado o que lo es o lo ha sido desde hace tiempo. 
 
  <!--more-->
 
-Así que quiero hacer una invitación a la reflexió, a todos y todas. A los cristianos que desean que gane un partido político evangélico, a los cristianos que no quieren que gobierne ese partido, a los no cristianos que no quieren que gobierne el partido oficialista y a los no cristianos que lo apoyan. En las cuatro versiones de costarricénse hay fanatismo.  
+Así que quiero hacer una invitación a la reflexión, a todos y todas. A los cristianos que desean que gane un partido político evangélico, a los cristianos que no quieren que gobierne ese partido, a los no cristianos que no quieren que gobierne el partido oficialista y a los no cristianos que lo apoyan. En las cuatro versiones de costarricénse hay fanatismo.  
 
 \
 \
-Para empezar, creo que el poeta israelí (que sabe de fanatismos en su tierra) puede ayudarnos cuando dice: **"Donde tenemos razón no pueden crecer flores"**.  Es una frase útil.  
+Para empezar, creo que el poeta israelí Yehuda Amijai (que sabe de fanatismos en su tierra) puede ayudarnos cuando dice: **"Donde tenemos razón no pueden crecer flores"**.  Es una frase útil.  
 
 El fanatismo es extremadamente pegajoso, afirma el también israelí Amos Oz, es más contagioso que cualquier virus: **"Se puede contraer fanatismo fácilmente, incluso al intentar vencerlo o combatirlo. Leyendo periódicos o viendo televisión, es posible comprobar todos los días lo fácilmente que la gente se convierte en fanática antifanática"**
 
-
-
 **“Creo que la esencia del fanatismo reside en el deseo de obligar a los demás a cambiar. En esa tendencia tan común de mejorar al vecino, de enmendar a la esposa, de hacer ingeniero al niño o de enderezar al hermano en vez de dejarles ser. El fanático es una criatura de lo más generosa. El fanático es un gran altruista. A menudo, está más interesado en los demás que en sí mismo. Quiere salvar tu alma, redimirte. Libertarte del pecado, del error, de fumar. Liberarte de tu fe o de tu carencia de fe” **(Amos Oz, Contra el fanatismo).
-
-
 
 Para poder lograrlo tenemos que avanzar un poco más en los mecanismos que hay en la ejecución o en la práctica del fanatismo. El fanatismo siempre utiliza lo que se ha denominado **Imagen hostil. **
 
@@ -43,10 +39,6 @@ Siguiendo de cerca las ideas que de esto escribe el teólogo suizo Hans Küng, l
 
 Junto a la imagen hostil, podemos encontrar otras dos imágenes. La primera es la **“imagen ideal”**. Es esa que idealiza a un candidato o a un partido. Es la que endiosa a una persona o a un equipo, aunque pierda. Ante esta imagen, también falsa y fanática, sepamos que no existe ningún partido que nos pueda sacar, en solo 4 años, de la deplorable situación en que estamos. No existe el candidato mesiánico que va a venir a salvarnos en menos de un lustro. 
 
-
-
 Finalmente existe la menos visitada **“imagen real”**. Es la que busca la verdad, la que evade el fanatismo, la que esquiva la tentación de creer en las imágenes hostiles. Es la imagen que busca la persona más responsable y madura. Y, como toda verdad, la imagen real solo se puede apreciar viendo a la cara, sin mediaciones, sin chismes, a los ojos, a cara descubierta y sin rubor. Viendo a la cara en los debates presidenciales, en los planes oficiales, en las declaraciones completas y en las entrevistas sin editar. Busquemos entonces, una imagen real de cada candidato y evadamos, a como dé lugar, toda imagen hostil que nos impida ver con claridad. Pero sobre todo, no seamos parte de la marejada hostil, del apocalipsis zombi de fanáticos locos. Seamos... podemos serlo, seamos mejores que eso. 
-
-
 
 Para terminar, me atrevo a dejar una ultima idea: La del **acuerdo.  **Se requiere llegar a un acuerdo nacional, a un compromiso doloroso. Y la expresión “llegar a un acuerdo” tiene una reputación nefasta. Especialmente entre los que siguen considerando que llegar a un acuerdo es falta de coraje. No en mi vocabulario. Para mí, la expresión “llegar a un acuerdo” significa **vida.** Y lo contrario de llegar a un acuerdo no es idealismo ni devoción. Lo contrario es **fanatismo y muerte. **Se requiere llegar a un acuerdo, a un compromiso, no llegar a una capitulación.
