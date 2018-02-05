@@ -15,15 +15,13 @@ Creo que estamos cansados del fanatismo. Claro, eso lo decimos ultimamente con m
 
 Así que quiero hacer una invitación a la reflexión, a todos y todas. A los cristianos que desean que gane un partido político evangélico, a los cristianos que no quieren que gobierne ese partido, a los no cristianos que no quieren que gobierne el partido oficialista y a los no cristianos que lo apoyan. En las cuatro versiones de costarricénse hay fanatismo.  
 
-\
-\
 Para empezar, creo que el poeta israelí Yehuda Amijai (que sabe de fanatismos en su tierra) puede ayudarnos cuando dice: **"Donde tenemos razón no pueden crecer flores"**.  Es una frase útil.  
 
 El fanatismo es extremadamente pegajoso, afirma el también israelí Amos Oz, es más contagioso que cualquier virus: **"Se puede contraer fanatismo fácilmente, incluso al intentar vencerlo o combatirlo. Leyendo periódicos o viendo televisión, es posible comprobar todos los días lo fácilmente que la gente se convierte en fanática antifanática"**
 
-**“Creo que la esencia del fanatismo reside en el deseo de obligar a los demás a cambiar. En esa tendencia tan común de mejorar al vecino, de enmendar a la esposa, de hacer ingeniero al niño o de enderezar al hermano en vez de dejarles ser. El fanático es una criatura de lo más generosa. El fanático es un gran altruista. A menudo, está más interesado en los demás que en sí mismo. Quiere salvar tu alma, redimirte. Libertarte del pecado, del error, de fumar. Liberarte de tu fe o de tu carencia de fe” **(Amos Oz, Contra el fanatismo).
+**"Creo que la esencia del fanatismo reside en el deseo de obligar a los demás a cambiar. En esa tendencia tan común de mejorar al vecino, de enmendar a la esposa, de hacer ingeniero al niño o de enderezar al hermano en vez de dejarles ser. El fanático es una criatura de lo más generosa. El fanático es un gran altruista. A menudo, está más interesado en los demás que en sí mismo. Quiere salvar tu alma, redimirte. Libertarte del pecado, del error, de fumar. Liberarte de tu fe o de tu carencia de fe" **(Amos Oz, Contra el fanatismo).
 
-Para poder lograrlo tenemos que avanzar un poco más en los mecanismos que hay en la ejecución o en la práctica del fanatismo. El fanatismo siempre utiliza lo que se ha denominado **Imagen hostil. **
+Para poder lograrlo tenemos que avanzar un poco más en los mecanismos que hay en la ejecución o en la práctica del fanatismo. El fanatismo siempre utiliza lo que se ha denominado **Imagen hostil**.
 
 Pero ¿Qué es una imagen hostil? Para H. Nikklas  “la imagen hostil representa una totalidad más o menos estructurada de percepciones, imágenes y sentimientos que, bajo el aspecto de la enemistad, es aplicada de forma tipificada a una persona, a un grupo de personas o a pueblos o estados”.  Es decir, es una imagen construida desde el sentimiento de la enemistad y que, con la ayuda de los medios de comunicación, es publicitada con el fin de destruir, desfigurar o exagerar la imagen real, configurando lo que llamamos comúnmente pre-juicios. \
 \
