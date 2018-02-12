@@ -9,7 +9,7 @@ date: 2018-02-12T04:22:11.293Z
 img: /images/1*xv3qpssgsoyyczpnpznojq.png
 thumb: /images/1*xv3qpssgsoyyczpnpznojq.png
 ---
-Una tierra oscura y compacta, casi cerámica negra y voluptuosa, irremediablemente ondulada, inevitablemente mustia. Sobre ella, una casa de tablas anchas y latas de un tornasolado herrumbre. Esa era su casa. No llamaba la atención, era como tantas otras casas del barrio. La única diferencia era ese silencio surcado por los maullidos del asma de la mayor.
+Una tierra oscura y compacta, casi cerámica negra y voluptuosa, irremediablemente ondulada, inevitablemente mustia. Sobre ella, una casa de tablas anchas y latas de un tornasolado herrumbre. Esa era su casa. No llamaba la atención, era como tantas otras casas del barrio. La única diferencia era ese silencio surcado por los maullidos del asma de la mayor. <!--more-->
 
 La menor era fuerte y ligera, escurridiza y bromista. Ambas eran inteligentes, cada una a su modo. La mayor era una calculadora viviente, la menor leía con voracidad. Ambas se negaban a sucumbir al modus capitalino para las niñas. Una especie de código machista que se imponía ya como usanza Josefina.
 
