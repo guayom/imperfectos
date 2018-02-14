@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Trump, Tocola, los ticos y hagamos Costa Rica grande de nuevo
-date:   2016-03-16 00:00:00
-categories: blog
-
-excerpt_separator: <!--more-->
 extraclass: sp-single
+categories: blog
+excerpt_separator: <!--more-->
+title: 'Trump, Tocola, los ticos y hagamos Costa Rica grande de nuevo'
+date: 2016-03-16T00:00:00.000Z
+img: /images/back-red.jpg
+thumb: /images/back-red.jpg
 ---
 Las sociedades más represivas y menos democráticas son aquellas que han logrado silenciar a los otros. La manifestación de esa represión inicia con la "defensa de la moral". Cada vez que se silencia la expresión (sobre todo artística) de alguien, se atenta contra la democracia y contra la salud de una sociedad.
 <!--more-->
