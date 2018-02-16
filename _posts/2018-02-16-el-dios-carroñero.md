@@ -11,7 +11,7 @@ thumb: /images/yoinkfacescollagegrid-e1412180917165.png
 ---
 >  “Ustedes son testigos de lo que hice con Egipto, y de que los he traído hacia mí como sobre alas de águila. -Éxodo 19:4 
 
-Tres meses habían pasado después de la salida de Egipto. El pueblo acampaba frente a la montaña. Ha- bían esperado este momento con mucha ansiedad. Moisés les había hablado acerca de la promesa de liberación. Lo que estaban haciendo no era una mera huida de Egipto. Moisés les había prometido que Dios les daría la libertad definitiva. La libertad de su condición de humillados. 
+Tres meses habían pasado después de la salida de Egipto. El pueblo acampaba frente a la montaña. Ha- bían esperado este momento con mucha ansiedad. Moisés les había hablado acerca de la promesa de liberación. Lo que estaban haciendo no era una mera huida de Egipto. Moisés les había prometido que Dios les daría la libertad definitiva. La libertad de su condición de humillados.  <!--more-->
 
 Dios utiliza una poderosa metáfora para hablarle al pueblo. Es una hermosa descripción en un hebreo cuidadoso y elegante. Por lo general, cuando Dios es el sujeto que habla, el hagiógrafo elige los mejores vocablos hebreos, de forma que la alocución es elevada y elocuente. Que Dios los haya tomado sobre alas de águilas es una concepción muy diferente de lo que el pueblo mismo habría experimentado en carne propia. 
 
