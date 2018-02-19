@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'LA REVOLUCION QUE NOS URGE '
 date: 2018-02-19T02:29:41.455Z
-img: /images/sezs6t7z7bapvapfgjujl2cmuy.png
-thumb: /images/sezs6t7z7bapvapfgjujl2cmuy.png
+img: /images/1954_fritzwalter.jpg
+thumb: /images/1954_fritzwalter.jpg
 ---
 En el interior de la «Gerbüder Dassler Schuhfabrik» los hermanos Adolf y Rudolf confeccionaban zapatillas y pantuflas sin marca. Era 1924 amanecía frío y oscuro en Herzogenaurach, un tranquilo pueblo medieval de calles empedradas, a pocos kilometros de Nuremberg,  en Alemania.
 
