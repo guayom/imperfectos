@@ -9,7 +9,7 @@ date: 2018-02-19T02:29:41.455Z
 img: /images/1954_fritzwalter.jpg
 thumb: /images/1954_fritzwalter.jpg
 ---
-En el interior de la «Gerbüder Dassler Schuhfabrik» los hermanos Adolf y Rudolf confeccionaban zapatillas y pantuflas sin marca. Era 1924 amanecía frío y oscuro en Herzogenaurach, un tranquilo pueblo medieval de calles empedradas, a pocos kilometros de Nuremberg,  en Alemania.
+En el interior de la «Gerbüder Dassler Schuhfabrik» los hermanos Adolf y Rudolf confeccionaban zapatillas y pantuflas sin marca. Era 1924 amanecía frío y oscuro en Herzogenaurach, un tranquilo pueblo medieval de calles empedradas, a pocos kilometros de Nuremberg, en Alemania. <!--more-->
 
 El negocio de zapatos deportivos se disparó pronto. Añadieron clavos forjados a mano a la suela de los zapatos para quienes quisieran correr en la montaña o en el césped. Durante dos décadas los hermanos Adolf (conocido como Adi) y Rudolf trabajaron juntos.  Los hermanos Dassler fabricaban zapatos deportivos de refeencia mundial.
 
