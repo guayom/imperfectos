@@ -40,4 +40,4 @@ Hoy vemos un doloroso éxodo de seres humanos que huyen despojados de dignidad. 
 
 Es esa minoría radical la responsable de esta nueva masacre contra los cristianos más perseguidos de la historia. Un cristianismo que ha sabido sobrevivir a pesar de todas las dificultades y hostilidades. Su fe se ha conservado, ha sobrevivido la fe.
 
-Nosotros en Costa Rica, no somos persegudos. Quizás, algunos, sean cuestionados, pero no perseguidos ni discriminados. Tenemos que dejar el discurso de mártires y empezar a agradecer a Dios por la libertad de la que gozamos en nuestro pequeño país.
+Nosotros en Costa Rica no somos persegudos. Quizás algunos sean cuestionados, pero no perseguidos ni discriminados. Tenemos que dejar el discurso de mártires y empezar a agradecer a Dios por la libertad de la que gozamos en nuestro pequeño país.
