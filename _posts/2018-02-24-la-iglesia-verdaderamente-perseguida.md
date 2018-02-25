@@ -9,9 +9,10 @@ date: 2018-02-25T00:13:43.139Z
 img: /images/wearenunbanner.jpg
 thumb: /images/wearenunbanner.jpg
 ---
-En estos días muchos cristianos de Costa Rica dicen que están siendo perseguidos por su fe. Bueno, quisiera que le dieramos un vistazo esta historia:
+En estos días muchos cristianos de Costa Rica dicen que están siendo perseguidos por su fe. Bueno, quisiera que le dieramos un vistazo a esta historia:
 
  <!--more-->\
+
 \
 Es lamentable la situación de todas las minorías perseguidas del planeta. Simultáneamente al catastrófico éxodo de cristianos iraquíes, hay un sufrimiento inimaginable en Siria y en Palestina. No importa de qué religión sean quienes son sometidos a persecuciones, abusos o exterminios, el mundo debe levantar la voz con la misma intensidad y el puño de la paz debe proteger a todos por igual. Lamentablemente esto no sucede.
 
@@ -38,3 +39,5 @@ Una vez más, después de la primera Guerra del Golfo (1991) los cristianos fuer
 Hoy vemos un doloroso éxodo de seres humanos que huyen despojados de dignidad. Perseguidos por un ejército radical que fue apoyado, en sus inicios, por las potencias Occidentales. Pero no debemos confundir. El Islam tiene unos 2,038 millones de adeptos, es la segunda religión más grande del planeta solo superada por el cristianismo (2,300 millones de adeptos). Y como sabemos que no todos los cristianos son iguales, ni todos son radicales, ni mucho menos, criminales, tampoco debemos pensar que todos los musulmanes son radicales o desean la aniquilación de cristianos o judíos. La gran mayoría son personas pacíficas y de bien.
 
 Es esa minoría radical la responsable de esta nueva masacre contra los cristianos más perseguidos de la historia. Un cristianismo que ha sabido sobrevivir a pesar de todas las dificultades y hostilidades. Su fe se ha conservado, ha sobrevivido la fe.
+
+Nosotros en Costa Rica, no somos persegudos. Quizás, algunos, sean cuestionados, pero no perseguidos ni discriminados. Tenemos que dejar el discurso de mártires y empezar a agradecer a Dios por la libertad de la que gozamos en nuestro pequeño país.
