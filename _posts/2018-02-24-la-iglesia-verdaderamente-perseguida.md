@@ -9,7 +9,7 @@ date: 2018-02-25T00:13:43.139Z
 img: /images/wearenunbanner.jpg
 thumb: /images/wearenunbanner.jpg
 ---
-En estos días muchos cristianos de Costa Rica dicen que están siendo perseguidos por su fe. Bueno, quisiera que le dieramos un vistazo esta historia:\
+En estos días muchos cristianos de Costa Rica dicen que están siendo perseguidos por su fe. Bueno, quisiera que le dieramos un vistazo esta historia: <!--more-->\
 \
 Es lamentable la situación de todas las minorías perseguidas del planeta. Simultáneamente al catastrófico éxodo de cristianos iraquíes, hay un sufrimiento inimaginable en Siria y en Palestina. No importa de qué religión sean quienes son sometidos a persecuciones, abusos o exterminios, el mundo debe levantar la voz con la misma intensidad y el puño de la paz debe proteger a todos por igual. Lamentablemente esto no sucede.
 
