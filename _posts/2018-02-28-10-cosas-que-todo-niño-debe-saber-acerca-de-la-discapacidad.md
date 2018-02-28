@@ -12,6 +12,7 @@ thumb: /images/rare-diseases.jpg
 Los 28 de febrero de cada año son especiales porque alrededor del mundo conmemoramos el Día Internacional de las "enferemedades raras". Así que hoy es un buen día para reflexionar en estas 10 cosas que todo niño debe saber acerca de la discapacidad.  
 
 <!--more-->\
+
 \
 Es natural que los padres no sepan cómo enseñarle a sus hijos sobre la discapacidad de otras personas. Eso sucede, sobre todo, porque los padres realmente no saben cómo reaccionar ante las discapacidades de sus semejantes. Algunos padres regañan a sus hijos cuando éstos preguntan qué le pasa a otro niño o niña (con necesidades especiales). Aquí les comparto 10 cosas que sí podemos enseñarle a nuestros hijos acerca de las necesidades especiales de otros niños.
 
