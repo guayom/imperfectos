@@ -40,18 +40,8 @@ Pensemos en la experiencia de la joven María, embarazada, luchando contra esta 
 Ya lo he dicho en otras ocasiones pero vale recordar hoy cómo funciona una imagen hostil: 
 
 * La imagen hostil EXONERA: ¡No somos nosotros! La imagen hostil dirige todos sus dardos en contra de un chivo expiatorio y le endilga las todas las culpas habidas y por haber. Infunde miedo, rechazo y odio.  Nosotros somos buenos, ella es mala. Basta con recordar el episodio de “la mujer adúltera” en el que un grupo de hombres se sintieron en la libertad y la potestad de exhibirla públicamente como impura y pecadora, envalentonados con insultos y listos para lapidarla. 
-
-
-
 * La imagen hostil ESTABILIZA: ¡Unámonos en contra del enemigo común! La imagen hostil logra bloques irreales. Las iglesias que se lanzan piedras durante todo el año, las mismas que compiten para arrebatarse porciones de rebaño, se unen fantasiosamente (fanáticamente), y marchar contra un enemigo en común, para luego dispersarse con las mismas piedras en los bolsillos y continuar la contienda sectaria entre ellas.  En el caso de María y de “la mujer adúltera” los hombres (y las mujeres) de su entorno se unieron para señalarla a ella, y solo a ella, como culpable. 
-
-
-
 * La imagen hostil POLARIZA: ¡Quien no está con nosotros, está contra nosotros! De esa forma, la imagen hostil, divide pueblos, familias, iglesias y matrimonios. Nos obliga a posicionarnos. Nos obliga a ver las cosas acríticamente en dos tonos: o blanco o negro.  Si alguien se unía a María o a “la mujer adultera” se convertía automáticamente en el enemigo común, en un traidor.  No es extraña la profunda sensibilidad de Jesús defendiendo a la mujer que está siendo violentada y vejada por una turba enloquecida de “machos” encolerizados. 
-
-
-
-
 * La imagen hostil MOVILIZA: La imagen hostil nos hace creer que, sobre todas las cosas, debemos defendernos del enemigo. No solo desconfiar de sus ideas y palabras, sino también agredirlo con toda hostilidad. Todos podemos lanzar piedras y todos somos invitados a la fiesta de la hostilidad, a la mejenga de pequeñas bombas molotov. Así, niños y ancianos, conocidos y lejanos pueden acarrear piedras para unirse a la masacre contra una mujer que “ha roto el honor del pueblo”. 
 * 
 
