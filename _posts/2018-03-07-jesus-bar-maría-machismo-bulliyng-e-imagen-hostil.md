@@ -4,7 +4,7 @@ published: 'true'
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: 'JESUS BAR MARÍA Machismo, bulliyng e imagen hostil '
+title: 'JESUS BAR MARÍA Machismo, bullying e imagen hostil '
 date: '2018-03-07T16:21:03-06:00'
 img: /images/1480111826_425266_1480112734_noticia_normal.jpg
 thumb: /images/1480111826_425266_1480112734_noticia_normal.jpg
