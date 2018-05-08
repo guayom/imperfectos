@@ -13,6 +13,8 @@ thumb: /images/handmaids-tale-e1494775047118.jpg
 
 _Voy a tener que meterme de lleno en esta campaña, Laura_ – le dije con gravedad-. Ella hizo silencio y asintió, dibitatuiva al inicio, convencida un segundo después.  
 
+<!--more-->
+
 El 4 de febrero anterior habíamos acudido a las urnas electorales sin sospechar lo que nuestra democracia nos deparaba para las siguientes semanas.  Nadie intuía la marejada política que se avecinaba y que nos golpearía con toda su furia entre el 5 de febrero y el 1 de abril , interin que correspondía al periodo entre la primera y segunda ronda electoral. 
 
 Una combinación alarmante entre religión y política irrumpía de lleno en la puja por la presidencia de la República. Uno de los partidos de corte evangélico neopentecostal llegaba, de manera inusitada y en primer lugar, a la segunda vuelta.  
@@ -25,17 +27,15 @@ _¡Nunca más se metan con la familia!_ Lo decia un candidato que, tan solo un a
 
 A titulo personal lo que más me alarmaba de la coyuntura tenía que ver con la expresa afrenta a los Derechos Humanos. El candidato del PRN amenazó con retirar al país de la Corte Interamericana de Derechos Humanos luego de que, el 9 de enero de ese mismo año, se diera a conocer el resultado de una Opinión Consultiva titulada formalmente: _¨Opinión Consultiva OC-24 de 24 de noviembre de 2017 solicitada por la República de Costa Rica. Identidad de género, e igualdad y no discriminación a parejas del mismo sexo. Obligaciones estatales en relación con el cambio de nombre, la identidad de género, y los derechos derivados de vínculo entre parejas del mismo sexo (interpretación de los artículos 1.1, 3, 7, 11.2, 13, 17, 18 y 24, en relación con el artículo 1 de la Convención Americana sobre Derechos Humanos)“._
 
-Voy a tener que meterme de lleno en esta campaña, Laura.  Al día siguiente, a pesar de que no milito en ningún partido político, hice mi primer comentario público en Facebook. 
+_Voy a tener que meterme de lleno en esta campaña, Laura._  Al día siguiente, a pesar de que no milito en ningún partido político, hice mi primer comentario público en Facebook. 
 
 9 de febrero de 2018 
 
 \-- UNA TEOCRACIA SE ACERCA –
 
-_Como yo no puedo hablar en nombre de nadie más que del mío propio, no puedo hablar en nombre de mi iglesia ni de ninguna organización, mi única arma de lucha es lo que escribo. Estoy comprometido con un futuro de paz democrática para mi país._
-
-_¿Ya vieron el video en el que el candidato del Partido Restauración Nacional utiliza Isaías 33:22 para hacer un paralelismo entre lo que ahí se dice y su ideal de gobierno? _
-
-_El candidato afirma que "Jehova" \[sic] debe presidir los 3 poderes de la República. Es decir, instaurar una teocracia y abolir la democracia, veámoslo seriamente. _
+_Como yo no puedo hablar en nombre de nadie más que del mío propio, no puedo hablar en nombre de mi iglesia ni de ninguna organización, mi única arma de lucha es lo que escribo. Estoy comprometido con un futuro de paz democrática para mi país. 
+¿Ya vieron el video en el que el candidato del Partido Restauración Nacional utiliza Isaías 33:22 para hacer un paralelismo entre lo que ahí se dice y su ideal de gobierno? 
+El candidato afirma que "Jehova" \[sic] debe presidir los 3 poderes de la República. Es decir, instaurar una teocracia y abolir la democracia, veámoslo seriamente. _
 
 _El lider político y religioso utiliza un versículo del Antiguo Testamento en el que se habla del reino de Israel, una teocracia, donde no había división de poderes, elecciones, o un sistema de derechos como lo conocemos en la actualidad. Confunde el contexto, evade la exégesis y lleva un solo versículo suelto al nivel de "profecía" que se cumple en él mismo, en el candidato de Restauración Nacional._
 
@@ -63,7 +63,7 @@ _UN SOLO PODER:_
 
 _Si lo vemos detenidamente, en realidad el texto no está separando los 3 poderes, sino que los está uniendo en uno solo. No está diciendo que cada poder lo debe dirigir un grupo diferente de personas (como en las democracias), sino que todo se concentra en las manos de Dios. Un Solo Poder. _
 
-_SOLO JESUS: _
+_SOLO JESUS:_
 
 _Y esta visión es justamente, en el contexto de Isaías 33, la del Mesías venidero. Las funciones judiciales, legislativas y administrativas como rey para ser ejercidas por Él en persona (Isa 11: 4; 32: 1; Santiago 4:12). Y jamás las de un presidente humano, o un gobierno de un partido cristiano._
 
@@ -111,9 +111,12 @@ Una fotografía tomada previo a las elecciones dejaba ver al Apóstol junto al a
 
 Ambas fotografías, junto a otra serie de datos esclarecedores del pensamiento del padre espiritual del candidato evangélico empezaron a ser publicadas por diferentes medios de comunicación nacionales, justo como habíamos pensado que debía suceder. 
 
+\
+\
 Las decisiones del Zar y de muchos miembros de la Corte rusa pasaban por la supervisión de Rasputín.  El “monje loco” también designaba a muchos de los altos funcionarios del Gobierno, aunque no fueran competentes, con la sola aprobación espiritual o religiosa que de él dependía.  Grigori Rasputín ejerció el control del poder en Rusia. 
 
-Nuestro objetivo había sido evidenciar la influencia que ejercía Rony Cháves sobre Fabricio Alvarado.  Cosa de la que se fueron encargando los medios de comunicación en diferentes publicaciones. 
+Nuestro objetivo había sido evidenciar la influencia que ejercía Rony Cháves sobre Fabricio Alvarado.  Cosa de la que se fueron encargando los medios de comunicación en diferentes publicaciones. \
+\
 
 El domingo 18 de marzo llegó el terremoto mediático que se esperaba. El periódico La Nación publicaba un extenso y detallado reportaje sobre Rony Cháves en su Revista Dominical.  En la bajadilla del titular de la publicación se leía: 
 
@@ -158,5 +161,6 @@ El tercer y ultimo momento vino al final, cuando, también de forma espontánea,
 Hay un antes y un después de la reunión de ayer 25 de febrero del 2018, para mí y para todo Interludio. 
 
 Y aquí estoy, más libre que nunca. Solo un invitado más a la mesa del Maestro.
+\
 \
 Pd: La charla se está publicada en nuestro canal de youtube (https://www.youtube.com/watch?v=crSv1aHxsyU).
