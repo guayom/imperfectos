@@ -13,6 +13,8 @@ thumb: /images/handmaids-tale-e1494775047118.jpg
 
 _Voy a tener que meterme de lleno en esta campaña, Laura_ – le dije con gravedad-. Ella hizo silencio y asintió, dibitatuiva al inicio, convencida un segundo después.  
 
+<!--more-->
+
 El 4 de febrero anterior habíamos acudido a las urnas electorales sin sospechar lo que nuestra democracia nos deparaba para las siguientes semanas.  Nadie intuía la marejada política que se avecinaba y que nos golpearía con toda su furia entre el 5 de febrero y el 1 de abril , interin que correspondía al periodo entre la primera y segunda ronda electoral. 
 
 Una combinación alarmante entre religión y política irrumpía de lleno en la puja por la presidencia de la República. Uno de los partidos de corte evangélico neopentecostal llegaba, de manera inusitada y en primer lugar, a la segunda vuelta.  
@@ -29,9 +31,13 @@ _Voy a tener que meterme de lleno en esta campaña, Laura.  _Al día siguiente, 
 
 9 de febrero de 2018 \
 \
--- UNA TEOCRACIA SE ACERCA –
 
-_Como yo no puedo hablar en nombre de nadie más que del mío propio, no puedo hablar en nombre de mi iglesia ni de ninguna organización, mi única arma de lucha es lo que escribo. Estoy comprometido con un futuro de paz democrática para mi país. ¿Ya vieron el video en el que el candidato del Partido Restauración Nacional utiliza Isaías 33:22 para hacer un paralelismo entre lo que ahí se dice y su ideal de gobierno? El candidato afirma que "Jehova" \[sic] debe presidir los 3 poderes de la República. Es decir, instaurar una teocracia y abolir la democracia, veámoslo seriamente. _
+\-- UNA TEOCRACIA SE ACERCA –
+
+_Como yo no puedo hablar en nombre de nadie más que del mío propio, no puedo hablar en nombre de mi iglesia ni de ninguna organización, mi única arma de lucha es lo que escribo. Estoy comprometido con un futuro de paz democrática para mi país. 
+¿Ya vieron el video en el que el candidato del Partido Restauración Nacional utiliza Isaías 33:22 para hacer un paralelismo entre lo que ahí se dice y su ideal de gobierno? 
+El candidato afirma que "Jehova" \[sic] debe presidir los 3 poderes de la República. Es decir, instaurar una teocracia y abolir la democracia, veámoslo seriamente. 
+_
 
 _El lider político y religioso utiliza un versículo del Antiguo Testamento en el que se habla del reino de Israel, una teocracia, donde no había división de poderes, elecciones, o un sistema de derechos como lo conocemos en la actualidad. Confunde el contexto, evade la exégesis y lleva un solo versículo suelto al nivel de "profecía" que se cumple en él mismo, en el candidato de Restauración Nacional._
 
@@ -47,7 +53,9 @@ _SOLO DIOS : _
 
 _\- **Solo Dios es nuestro Juez (שֹׁפְטֵ֔נוּ):** Solo Dios puede juzgar nuestros pecados. Ningún ser humano tiene la potestad de juzgar si alguien es digno de condenación o necesita arrepentimiento. Solo Dios es juez. _
 
-_**\- Solo Dios nos da la Ley (מְחֹקְקֵ֑נוּ):** La Ley en el Antiguo Testamento se refiere a la "Ley de Moisés", resumida en los Diez Mandamientos, y esa solo le pertenece a Dios. Una vez más, ningún ser humano es comisionado por Dios para sustituir esa ley con nuevas leyes dadas en su nombre. _
+_**\- Solo Dios nos da la Ley (מְחֹקְקֵ֑נוּ):** La Ley en el Antiguo Testamento se refiere a la "Ley de Moisés", resumida en los Diez Mandamientos, y esa solo le pertenece a Dios. Una vez más, ningún ser humano es comisionado por Dios para sustituir esa ley con nuevas leyes dadas en su nombre. 
+
+_
 
 _**\- Solo Dios es nuestro Rey (מַלְכֵּ֖נוּ):** Para el creyente, ningún ser humano debe procurar sustituir a Dios en su rol de soberano. _
 
@@ -103,19 +111,22 @@ Una fotografía tomada previo a las elecciones dejaba ver al Apóstol junto al a
 
 > _"La semana pasada, nuestros equipos proféticos de intercesión y los pastores e iglesias clamamos en la zona del epicentro contra es (sic) terremoto. Nuestro equipo principal habló a la tierra y le ordenó no provocar daños". _
 
-![](/images/oracion-bandera.jpg)
+![null](/images/oracion-bandera.jpg)
 
-Ambas fotografías, junto a otra serie de datos esclarecedores del pensamiento del padre espiritual del candidato evangélico empezaron a ser publicadas por diferentes medios de comunicación nacionales, justo como habíamos pensado que debía suceder. \
+Ambas fotografías, junto a otra serie de datos esclarecedores del pensamiento del padre espiritual del candidato evangélico empezaron a ser publicadas por diferentes medios de comunicación nacionales, justo como habíamos pensado que debía suceder. 
+
+\
 \
 Las decisiones del Zar y de muchos miembros de la Corte rusa pasaban por la supervisión de Rasputín.  El “monje loco” también designaba a muchos de los altos funcionarios del Gobierno, aunque no fueran competentes, con la sola aprobación espiritual o religiosa que de él dependía.  Grigori Rasputín ejerció el control del poder en Rusia. 
 
 Nuestro objetivo había sido evidenciar la influencia que ejercía Rony Cháves sobre Fabricio Alvarado.  Cosa de la que se fueron encargando los medios de comunicación en diferentes publicaciones. \
 \
-El domingo 18 de marzo llegó el terremoto mediático que se esperaba. El periódico La Nación publicaba un extenso y detallado reportaje sobre Rony Cháves en su Revista Dominical.  En la bajadilla del titular de la publicación se leía: 
+
+El domingo 18 de marzo llegó el terremoto mediático que se esperaba. El periódico La Nación publicaba un extenso y detallado reportaje sobre Rony Cháves en su Revista Dominical.  En la bajadilla del titular de la publicación se leía: 
 
 > _“El candidato de Restauración se declara “hijo espiritual” de este “apóstol”, quien ha escrito que la Virgen de los Ángeles, la basílica de Cartago y las cruces católicas responden a Satán, a la idolatría y a planes ocultistas. ¿En qué consisten su doctrina y su teoría del diezmo adelantado? ¿Hasta dónde llega su influencia en la política?”_
 
-![](/images/dominical-portada.jpg)
+![null](/images/dominical-portada.jpg)
 
 El golpe asestado el domingo 18 de marzo fue contundente. Una especie de estocada fatal de la que no se recuperaría el candidato evangélico.  Cada vez que se le preguntaba sobre su relación con el Apóstol , el candidato no lograba deslindarse por completo. Su compromiso “espiritual” con Rony Cháves, parecía más fuerte que su compromiso con la candidatura presidencial. 
 
@@ -131,7 +142,7 @@ Una grabación de audio que se había filtrado revelaba que el candidato y su eq
 
 El 22 de marzo, 3 días antes de la publicación del Semanario, un grupo de amigos tuvimos un encuentro con el candidato Carlos Alvarado, del partido oficialista (PAC). El encuentro había sido organizado por el Colectivo Cristiano Costa Rica, que integramos personas de diferentes filiaciones cristianas, sociales y académicas del país.  Nuestra intención era eliminar ciertas dudas que gran parte del sector cristiano tenía con respecto al candidato considerado “no Cristiano”.  El evento también tuvo la cobertura de diferentes medios de comunicación. 
 
-![](/images/carlos-alvarado.jpg)
+![null](/images/carlos-alvarado.jpg)
 
 Paralelo a los acontecimientos de índole estrictamente electoral o política del país, sucedían otros fenómenos igualmente poderosos y reveladores.  Los mensajes no dejaban de llegarme. Muchas personas heridas, asustadas y confundidas continuaban escribiéndome.  Fue por eso que el equipo de liderazgo de Interludio (mi iglesia) decidimos realizar una serie de mensajes dominicales que abordaran ciertas dudas de una manera sensible y respetuosa. La serie se llamó “Dios, tengo una pregunta”. Pero fue justamente el domingo 25 de febrero que sucedió algo extraordinario.  El tema de ese domingo se titulaba: “Dios, tengo una pregunta ¿Qué hay de la comunidad LGBTI?”.  Aquél domingo la iglesia estaba abarrotada.  Me atrevería a hablar abiertamente de este tema, por primera vez en mi vida, un domingo en la iglesia. 
 
@@ -145,12 +156,15 @@ En primer lugar me siento verdaderamente afortunado, privilegiado y agradecido. 
 
 Lo dije ayer y lo repito hoy: La noche del sábado yo no dormí. Nunca una charla me había robado el sueño al punto de ver el amanecer pensando, sintiendo miedo, ansiedad, angustia. Pero al mismo tiempo pasión, compromiso, convencimiento y convicción de que tenía que hacerlo. 
 
-Cinco minutos antes de iniciar tomé a Laura de la mano y la llevé aparte y le dije: "Si hoy se termina todo, si hoy se acaba este sueño, quiero agradecerte por creer y por caminar conmigo todo este tiempo, ha valido la pena" Y a ambos se nos salieron las lágrimas. ¡Mi carrera entera podía depender de los siguientes 45 minutos! Pero al empezar a hablar y ver cientos de ojos atentos, sentí firmeza, aplomo y alegría. ¡Sentí amor del más puro!
+Cinco minutos antes de iniciar tomé a Laura de la mano y la llevé aparte y le dije: "Si hoy se termina todo, si hoy se acaba este sueño, quiero agradecerte por creer y por caminar conmigo todo este tiempo, ha valido la pena" Y a ambos se nos salieron las lágrimas. ¡Mi carrera entera podía depender de los siguientes 45 minutos! 
+Pero al empezar a hablar y ver cientos de ojos atentos, sentí firmeza, aplomo y alegría. ¡Sentí amor del más puro!
 
 Tres momentos serán inolvidables para mí. El primero fue justo ese primer aplauso espontáneo que surgió como una oración conjunta. El segundo fue un momento sublime en el que lo que se nos arrancó de los ojos fueron una especie de escamas y hasta donde yo podía ver, surgieron las lágrimas en los ojos, incluidos los míos. Un momento profundo de Dios sanándonos. A partir de ahí, no paramos de llorar. La sensación de amor profundo, de perdón, de aceptación y de unidad era inigualable. 
 
-El tercer y ultimo momento vino al final, cuando, también de forma espontánea, todos nos abrazábamos y seguíamos llorando. Había mucha alegría y solidaridad. Hay un antes y un después de la reunión de ayer 25 de febrero del 2018, para mí y para todo Interludio. 
+El tercer y ultimo momento vino al final, cuando, también de forma espontánea, todos nos abrazábamos y seguíamos llorando. Había mucha alegría y solidaridad. 
+Hay un antes y un después de la reunión de ayer 25 de febrero del 2018, para mí y para todo Interludio. 
 
-Y aquí estoy, más libre que nunca. Solo un invitado más a la mesa del Maestro.\
+Y aquí estoy, más libre que nunca. Solo un invitado más a la mesa del Maestro.
+\
 \
 Pd: La charla se está publicada en nuestro canal de youtube (https://www.youtube.com/watch?v=crSv1aHxsyU).
