@@ -9,7 +9,7 @@ date: '2018-03-07T16:21:03-06:00'
 img: /images/1480111826_425266_1480112734_noticia_normal.jpg
 thumb: /images/1480111826_425266_1480112734_noticia_normal.jpg
 ---
-Cada 8 de Marzo se conmemora el Día Internacional de la Mujer. Y cada año intentamos reconocer la igualdad de la mujer en una sociedad que aún procura perpetuar la desigualdad en detrimento de las niñas y las mujeres.
+Cada 8 de Marzo se conmemora el Día Internacional de la Mujer. Y cada año intentamos reconocer la igualdad de la mujer en una sociedad que aún procura perpetuar la desigualdad en detrimento de las niñas y las mujeres. <!--more-->
 
 Con eso en mente, hoy he querido compartir unas cuantas palabras que nos hagan reflexionar, que nos animen a seguir luchando por los derechos de las mujeres, por la igualdad, la inclusión y la protección ahí donde son vulnerables en nuestras sociedades. 
 
