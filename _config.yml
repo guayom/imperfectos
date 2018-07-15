@@ -5,7 +5,6 @@ emailformspree: 123queso123queso@gmail.com
 description: "La palabra PERFECTO significa que ya está completo. Nosotros somos IMPERFECTOS porque aún no hemos acabado, vamos por más. Este es el espacio de las buenas ideas para la gente imperfecta. Blog, libros, podcast, ideas, cursos y charlas sobre liderazgo, espiritualidad, superación y cotidianidad."
 slogan: Buenas ideas<br/> para la gente imperfecta
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: ""
 url: "https://www.imperfectos.org" # the base hostname & protocol for your site
 
 #Redes Sociales
