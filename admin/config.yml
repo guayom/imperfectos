@@ -30,7 +30,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Extra class", name: "extraclass", widget: "string"}
-      - {label: "Imagen", name: "img", widget: ""}
+      - {label: "Imagen", name: "img", widget: "image"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - label: "Layout"
         name: "layout"
@@ -48,4 +48,4 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Imagen", name: "image", widget: ""}
+      - {label: "Imagen", name: "image", widget: "image"}
