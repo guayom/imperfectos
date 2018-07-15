@@ -23,21 +23,22 @@ collections:
       - {label: "Featured Image", name: "img", widget: "image"}
       - {label: "Thumbnail Image", name: "thumb", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-  # - label: "Páginas"
-  #   name: "pages"
-  #   folder: "/"
-  #   create: true
-  #   fields:
-  #     - {label: "Title", name: "title", widget: "string"}
-  #     - {label: "Extra class", name: "extraclass", widget: "string"}
-  #     - {label: "Imagen", name: "img", widget: ""}
-  #     - {label: "Permalink", name: "permalink", widget: "string"}
-  #     - label: "Layout"
-  #       name: "layout"
-  #       widget: "select"
-  #       options:
-  #         - { label: "Contacto", value: "contacto" }
-  #         - { label: "Frases", value: "frases" }
-  #         - { label: "Gracias", value: "gracias" }
-  #         - { label: "Home", value: "home" }
-  #         - { label: "Podcasts", value: "podcasts" }
+  - label: "Páginas"
+    name: "pages"
+    folder: "/"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Extra class", name: "extraclass", widget: "string"}
+      - {label: "Imagen", name: "img", widget: ""}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - { label: "Contacto", value: "contacto" }
+          - { label: "Frases", value: "frases" }
+          - { label: "Gracias", value: "gracias" }
+          - { label: "Home", value: "home" }
+          - { label: "Podcasts", value: "podcasts" }
+          - { label: "Resultados de búsqueda", value: "search-results" }
