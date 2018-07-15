@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 title: PARADOXA (PROLOGO)
 date: '2018-07-15T16:59:58-06:00'
 img: /images/paradoja.jpeg
-thumb: /images/paradoja-th.jpeg
+thumb: /images/paradoja-th.jpg
 ---
 “Paradoja” no es una palabra muy común de leer o escuchar. Tal vez porque puede sonar un poco abstracta. O tal vez porque apela a una condición sobre lo que somos, vivimos, decimos y creemos que no nos gusta reconocer. Me inclino por lo segundo. 
 
