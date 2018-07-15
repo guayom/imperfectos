@@ -42,3 +42,10 @@ collections:
           - { label: "Home", value: "home" }
           - { label: "Podcasts", value: "podcasts" }
           - { label: "Resultados de búsqueda", value: "search-results" }
+  - label: "Frases"
+    name: "frases"
+    folder: "_frases"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Imagen", name: "image", widget: ""}
