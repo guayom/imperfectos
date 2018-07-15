@@ -1,38 +1,7 @@
 ---
-layout: default
+layout: frases
 extraclass: sp-page
 img: header.jpg
 permalink: /frases/
 title: Imperfectos.org - Frases
 ---
-<!--//Post//-->
-<div class="sp-post">
-  <figure class="sp-thumb-container sp-featured-image">
-    <img src="/images/header-generico.jpg" alt="">
-    <figcaption class="sp-caption"><h2 class="sp-post-title">Frases para compartir</h2></figcaption>
-  </figure>
-  <div class="sp-post-content">
-    <div class="container">
-      <div class="row grid">
-        {% for frase in site.frases %}
-          <div class="col-xs-4 grid-item">
-            <div class="thumbnail">
-              <a href="/frases/{{ frase.key }}/">
-                {% assign img = frase.key | append: '.png' | prepend: '/images/frases/' %}
-                <img src="{{ img }}" alt="{{ frase.title }}" class="img-responsive"/>
-              </a>
-              <div class="caption">
-                <!-- botones de compartir -->
-                 <a class="twitter popup" href="http://twitter.com/share?text={{ post.title }}&url={{ page.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" target="_blank" title="Comprtir en Twitter" rel="nofollow"><i class="fa fa-twitter-square"></i></a>
-                <a class="facebook" href="https://facebook.com/sharer.php?u={{ post.url }}" rel="nofollow" target="_blank" title="Compartir en Facebook"><i class="fa fa-facebook-square"></i></a>
-                <a class="g-plus gplus" href="https://plus.google.com/share?url={{ post.url }}" rel="nofollow" target="_blank" title="Compartir en Google+"><i class="fa fa-google-plus-square"></i></a>
-                <a class="mail" href="mailto:?subject={{ post.title }}&amp;body=Este artículo me pareció interesante y pensé que podría interesarte. {{ post.url }}"><i class="fa fa-envelope"></i></a>
-
-              </div>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</div> <!--//End Post-->
