@@ -25,7 +25,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Páginas"
     name: "pages"
-    folder: ""
+    folder: "/"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
