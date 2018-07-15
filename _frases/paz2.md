@@ -1,3 +1,3 @@
 ---
-key: paz2
+image: paz2.png
 ---

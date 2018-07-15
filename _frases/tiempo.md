@@ -1,3 +1,3 @@
 ---
-key: tiempo
+image: tiempo.png
 ---

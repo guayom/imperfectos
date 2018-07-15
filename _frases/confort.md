@@ -1,3 +1,3 @@
 ---
-key: confort
+image: confort.png
 ---

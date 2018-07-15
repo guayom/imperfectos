@@ -1,5 +1,3 @@
 ---
-key: dolor-ajeno
-imagen: dolor-ajeno.png
-thumb: dolor-ajeno.png
+image: dolor-ajeno.png
 ---

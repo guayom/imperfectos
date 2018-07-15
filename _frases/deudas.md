@@ -1,5 +1,3 @@
 ---
-key: deudas
-imagen: deudas.png
-thumb: deudas.png
+image: deudas.png
 ---

@@ -1,5 +1,3 @@
 ---
-key: comienzo
-imgw: 600
-imgh: 600
+image: comienzo.png
 ---

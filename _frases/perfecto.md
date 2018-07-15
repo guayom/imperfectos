@@ -1,3 +1,3 @@
 ---
-key: perfecto
+image: perfecto.png
 ---

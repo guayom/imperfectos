@@ -1,3 +1,3 @@
 ---
-key: medida
+image: medida.png
 ---

@@ -1,3 +1,3 @@
 ---
-key: triste
+image: triste.png
 ---

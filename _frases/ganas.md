@@ -1,3 +1,3 @@
 ---
-key: ganas
+image: ganas.png
 ---

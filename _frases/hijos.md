@@ -1,3 +1,3 @@
 ---
-key: hijos
+image: hijos.png
 ---

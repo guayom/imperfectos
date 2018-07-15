@@ -1,3 +1,3 @@
 ---
-key: sembrar
+image: sembrar.png
 ---
