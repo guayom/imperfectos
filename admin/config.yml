@@ -50,3 +50,12 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Imagen", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Podcast"
+    name: "podcasts"
+    folder: "_podcasts"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Track id", name: "track_id", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
