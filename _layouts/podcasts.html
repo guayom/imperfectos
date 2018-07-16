@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{% for post in site.podcasts reversed %}
+{% assign sorted = site.podcasts | sort: 'date' | reverse %}
+{% for post in sorted %}
 <!--//Post//-->
 <article class="sp-post">
   {% if post.img %}
