@@ -28,3 +28,5 @@ Más enriquecedor es pensar, tal como nos invita este libro, que dicha invitaci�
 Nicolás Panotto 
 
 Mayo, 2018
+
+PRE ORDENE SU LIBRO EN ESTE ENLACE: https://www.imperfectos.org/contacto.html
