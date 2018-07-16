@@ -9,13 +9,7 @@ date: '2018-07-15T16:59:58-06:00'
 img: /images/paradoja.jpeg
 thumb: /images/paradoja-th.jpg
 ---
-Por Nicolás Panotto\
-\
-“Paradoja” no es una palabra muy común de leer o escuchar. Tal vez porque puede sonar un poco abstracta. O tal vez porque apela a una condición sobre lo que somos, vivimos, decimos y creemos que no nos gusta reconocer. Me inclino por lo segundo. 
-
-La idea de paradoja atraviesa el corazón de muchas de las problemáticas que vivimos como sociedad, como iglesias, como religiones y como seres humanos en América Latina. ¿Por qué digo esto? Porque paradoja no es una término que describe una coyuntura particular, es decir, una situación específica que puede parecer contradictoria. Más bien, implica un modo de asumir nuestros sentidos de verdad, nuestras lecturas de la realidad, la legitimidad de nuestras prácticas, entre otros elementos. Paradoja significa reconocer que como personas, todo lo que creemos y afirmamos nunca responde a una única fuente para clamar por verdades absolutas. Todo lo que decimos ser y sostener conlleva el inevitable sesgo de nuestra finitud, y con ella de las experiencias, ideologías, teologías y vivencias que nos hacen quienes somos. 
-
-Somos seres inscritos en la paradoja, porque caminamos por una vía repleta de historias, matices, afectos, sentires, relaciones, de las cuales no podemos escapar. Por ende, ser honestos con la paradoja que nos atraviesa es ser honestos con el hecho de que nunca podemos reclamar una posición incondicional. No nos queda otra que confesar nuestro lugar de tránsito, el cual nunca se da de forma aislada sino siempre en comunidad, compartido con otros y otras, quienes a su vez responden a innumerables experiencias que nos exceden y sorprenden, y que en su encuentro nos desafían, nos interpelan, nos lleva (¡o debería hacerlo!) a poner entre paréntesis las ideas que sostenemos y creemos, para poder replantearlas frente a nuevos escenarios u opciones. 
+Este es un extracto del prólogo escrito por el teólogo argentino Nicolás Panotto para el libro PARADOXA de José Chacón.
 
 Hoy día lidiamos con un fuerte contexto de polarización socio-político, donde los lados en cada extremo cree tener la lectura más acertada de las circunstancias social y sus posibles soluciones. Discursos religiosos en el espacio público que abogan en nombre de la Verdad Absoluta sobre las agendas morales. Expresiones religiosas que se creen verdaderas y condenan de falsedad a todo el resto. Iglesias y pastores que creen ser la encarnación misma de la voz de Dios a partir de lo que creen y afirman. Como podemos ver, este tipo de discursos y acciones desplazan el lugar de la paradoja, ubicando una cosmovisión o práctica particular como un principio indiscutible. Aquí, la falta de la paradoja se transforma en un contexto de opresión y silenciamiento. 
 
