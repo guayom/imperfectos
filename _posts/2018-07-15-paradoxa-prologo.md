@@ -4,29 +4,21 @@ published: 'true'
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: PARADOXA (PROLOGO)
+title: ¿DE QUÉ TRATAN PARADOXA Y SPIRO?
 date: '2018-07-15T16:59:58-06:00'
 img: /images/paradoja.jpeg
 thumb: /images/paradoja-th.jpg
 ---
-Este es un extracto del prólogo escrito por el teólogo argentino Nicolás Panotto para el libro PARADOXA de José Chacón.
+**SPIRO**
 
-Hoy día lidiamos con un fuerte contexto de polarización socio-político, donde los lados en cada extremo cree tener la lectura más acertada de las circunstancias social y sus posibles soluciones. Discursos religiosos en el espacio público que abogan en nombre de la Verdad Absoluta sobre las agendas morales. Expresiones religiosas que se creen verdaderas y condenan de falsedad a todo el resto. Iglesias y pastores que creen ser la encarnación misma de la voz de Dios a partir de lo que creen y afirman. Como podemos ver, este tipo de discursos y acciones desplazan el lugar de la paradoja, ubicando una cosmovisión o práctica particular como un principio indiscutible. Aquí, la falta de la paradoja se transforma en un contexto de opresión y silenciamiento. 
+Luego de haber sido entregado en las manos del Papa Francisco, con quien el autor, José Chacón, tuvo una audiencia privada en Roma, Spiro se ha ido convirtiendo en un libro de interés para aquellas personas que buscan respuestas alternativas a las cuestiones de la fe, la espiritualidad y la religión. Spiro es un mosaico de artículos que fueron publicados por los autores en diferentes revistas, sobre todo europeas. Los autores abordan temas muy controvertidos y complejos de una manera sencilla y cercana al lector. ¿Qué pasó realmente en Sodoma y Gomorra? ¿Qué hay del dolor? ¿Puede un creyente enojarse con Dios? 
 
-Si vamos aún más allá, la paradoja es una de las características más elementales de Dios mismo. Dios es por sobre todas las cosas misterio y alteridad absolutos. Toda descripción, imagen o forma de describir su acción histórica, no es más que un pálido intento de describirle. Y no cualquier representación, sino aquellas que contradicen el sentido común. ¡Revelación es paradoja! Ya vemos en los relatos bíblicos la ira de Dios frente a los reiterados intentos de su pueblo al no soportar esa condición de alteridad del Dios que los liberó y su impulso por crear imágenes, desde las cuales sentir la “seguridad” frente a lo que tenían delante de sus ojos. 
+Con la frase latina atribuida al escritor, político y orador romano Marco Tulio Cicerón: “Dum spiro espero, dum spero amo, dum amo vivo”, que traducido al castellano es: "Mientras respiro tengo esperanza, mientras tengo esperanza amo, mientras amo vivo”, se bautiza esta obra SPRO. 
 
-Inclusive la misma cruz es el símbolo supremo de la paradoja: es pura locura, como dijo Pablo, que per- turba todas las verdades aprehendidas sobre cómo Dios supuestamente debía ser. Es el Dios que comete la demencia de ridiculizar a los poderosos y supuestamente fuertes, a partir de la debilidad. Debilidad, al fin y al cabo, que muestra lo más grandioso de Dios, al mostrar- se desde lo impensado para desafiar lo naturalizado o dogmatizado. 
+**PARADOXA**
 
-Quienes conocemos y seguimos a José Chacón, sabemos que él, como pastor y teólogo, se atrevió a enfrentar sin temor alguno (bueno, tal vez un poco, lo cual lo hace aún más valioso) a pensar a Dios, la fe y la vida desde la paradoja. Es así que a través de los escritos recopilados en esta obra, podremos encontrar un conjunto de reflexiones, breves pero con una contundencia y profundidad difíciles de hallar en este tipo de aportes, que abarcan las áreas más variadas, desde el estudio bíblico hasta la teología, la eclesiología, las relaciones ecuménicas, y el mismo ejercicio político. 
+Luego de una Audiencia Papal en Roma, el teólogo José Chacón inició una fascinante y detallada crónica de los entresijos vaticanos y las relaciones tensas pero urgentes entre Protestantes y Católicos. Así inicia PARADOXA, con una exquisita narrativa que envuelve al lector desde la primera frase. A partir de ahí, el autor nos va guiando en una serie de capítulos cortos, por los temas más controvertidos de la fe cristiana. ¿Cómo debemos entender la Biblia? ¿La Biblia realmente es clara? ¿Qué dice la Biblia sobre las mujeres? ¿Y qué dice sobre la homosexualidad? ¿Es necesario un Partido Político de corte evangélico? ¿Qué sucedió en las elecciones presidenciales de Costa Rica desde el punto de vista bíblico y teológico?
 
-Todo esto se enriquece de manera inigualable al saber que en cada uno de estos campos, el autor no sólo cuenta con un vasto conocimiento teórico sino, sobre todas las cosas, con experiencias muy concretas, lo que hace que sus conclusiones posean una referencia vivencial que nos permite proyectar su legado a situaciones muy puntuales, y desde las experiencias, militancias y creencias más variadas. 
+PARADOXA (Paradoja) en griego significa: “Contrario a la opinión". Es decir, algo contrario a la opinión generalizada. Y este libro es precisamente eso, un fascinante acercamiento a los temas contemporáneos, vistos con ojos críticos que nos llevarán a conclusiones muy diferentes de la opinión generalizada.
 
-Es así que invito a las lectoras y lectores a adentrarse sin temor a este generoso gesto y ejercicio de José, de abrirse con todas y todos para compartir sus sensaciones, preocupaciones y sentimientos, desde un serio quehacer teológico que reconoce la riqueza de la paradoja. Es decir, que valora el hecho de que no hay rutas únicas sino caminos y senderos muy variados, desde los cuales podemos encontrarnos con innumerables sorpresas para nuestras vidas, nuestra fe y nuestra manera de ver el mundo. Un ejercicio que nos llama a hacernos aquellas preguntas a las que tememos, a cuestionar lo que pensamos como irrefutable, para hallar que la vida representa mucho más de lo que alguna vez pudimos imaginarnos. 
-
-Más enriquecedor es pensar, tal como nos invita este libro, que dicha invitación parte de Dios mismo, quien asume la paradoja como una manera de revelarse, y así poder descubrir que nuestra vida puede tornarse bellamente variopinta, así como también nuestras preocupaciones y sufrimientos pueden encontrar las respuestas menos pensadas. 
-
-Nicolás Panotto 
-
-Mayo, 2018
-
-PRE ORDENE SU LIBRO EN ESTE ENLACE: https://www.imperfectos.org/contacto.html
+ORDENE SU LIBRO EN ESTE ENLACE: https://www.imperfectos.org/contacto.html
