@@ -11,11 +11,9 @@ thumb: /images/paradoja-th.jpg
 ---
 **EL AUTOR**
 
-![](/images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg)
-
 Nació en San José en 1978. Ha realizado estudios en Comunicación Colectiva, Biblia y Teología.  Es escritor, y conferencista. Ha sido profesor en varias universidades. Es autor de los libros "El Decálogo” (Hessed, 2005), "Spiro" (BBB Producciones, 2015) y "Paradoxa" (BBB Producciones 2018) Fundador de la Comunidad Interludio en Costa Rica y, co fundador de Interludio México. Miembro del Foro de diálogo interreligioso de Costa Rica y egresado del Programa Internacional de Liderazgo (IVLP) del Departamento de Estado (USA) en el tema de Diálogo Interreligioso.  Actualmente vive en Costa Rica junto a su esposa Laura y sus dos hijos, Santiago y Paula.
 
-
+![](/images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg)
 
 **LIBRE, tener fe y no morir en el intento **
 
