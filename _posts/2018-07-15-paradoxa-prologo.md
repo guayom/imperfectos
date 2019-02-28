@@ -11,11 +11,9 @@ thumb: /images/paradoja-th.jpg
 ---
 **EL AUTOR**
 
-![](/images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg)
-
 Nació en San José en 1978. Ha realizado estudios en Comunicación Colectiva, Biblia y Teología.  Es escritor, y conferencista. Ha sido profesor en varias universidades. Es autor de los libros "El Decálogo” (Hessed, 2005), "Spiro" (BBB Producciones, 2015) y "Paradoxa" (BBB Producciones 2018) Fundador de la Comunidad Interludio en Costa Rica y, co fundador de Interludio México. Miembro del Foro de diálogo interreligioso de Costa Rica y egresado del Programa Internacional de Liderazgo (IVLP) del Departamento de Estado (USA) en el tema de Diálogo Interreligioso.  Actualmente vive en Costa Rica junto a su esposa Laura y sus dos hijos, Santiago y Paula.
 
-
+![](/images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg)
 
 **LIBRE, tener fe y no morir en el intento **
 
@@ -23,10 +21,7 @@ Nació en San José en 1978. Ha realizado estudios en Comunicación Colectiva, B
 
 ![](/images/bc5e5b1c-30a0-4347-bce3-de077433bdaa.jpg)
 
-\
-\
-Este libro es el resultado de 16 años de búsqueda de la libertad.  Pero la libertad no es una meta fácil de alcanzar y durante más de tres lustros muchas experiencias personales hicieron que pareciera algo inalcanzable para el autor.  La controversia por el matrimonio entre un pastor protestante y una mujer católica, la fundación de su iglesia para todas y todos, la lucha por la vida su primer hijo,  la fe madura ante la llegada de su hija. La crítica, los señalamientos de “pastor hereje” y los ataques personales son algunos de los ingredientes que han acrisolado las sensibles reflexiones contenidas en este libro profundamente biblico y profundamente humano. Un libro que, a través de los Diez Mandamientos, nos hace ver la libertad que Dios ha puesto al alcance de todos.  ¿Qué hay de la libertad? ¿Qué hay de la verdadera libertad de vivir? ¿Y el aborto? ¿Y la eutanasia? ¿Y la iglesia abierta para todos sin distinción alguna? ¿Y la fe de las personas LGBTI? ¿Qué hay de nuestra libertad? ¿Qué hay de tu libertad?\
-\
+Este libro es el resultado de 16 años de búsqueda de la libertad.  Pero la libertad no es una meta fácil de alcanzar y durante más de tres lustros muchas experiencias personales hicieron que pareciera algo inalcanzable para el autor.  La controversia por el matrimonio entre un pastor protestante y una mujer católica, la fundación de su iglesia para todas y todos, la lucha por la vida su primer hijo,  la fe madura ante la llegada de su hija. La crítica, los señalamientos de “pastor hereje” y los ataques personales son algunos de los ingredientes que han acrisolado las sensibles reflexiones contenidas en este libro profundamente biblico y profundamente humano. Un libro que, a través de los Diez Mandamientos, nos hace ver la libertad que Dios ha puesto al alcance de todos.  ¿Qué hay de la libertad? ¿Qué hay de la verdadera libertad de vivir? ¿Y el aborto? ¿Y la eutanasia? ¿Y la iglesia abierta para todos sin distinción alguna? ¿Y la fe de las personas LGBTI? ¿Qué hay de nuestra libertad? ¿Qué hay de tu libertad?
 **SPIRO**
 
 ![](/images/01285_06102016.jpg)
