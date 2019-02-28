@@ -5,7 +5,8 @@ date: 2012-12-20 16:13:19.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   _edit_last: '30508904'

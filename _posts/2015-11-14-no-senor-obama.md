@@ -5,7 +5,8 @@ date: 2015-11-14 15:20:29.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   _oembed_8217e6e3a7f07ed0463e94690dd385f2: "{{unknown}}"

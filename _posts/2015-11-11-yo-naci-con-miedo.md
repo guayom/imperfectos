@@ -5,7 +5,8 @@ date: 2015-11-11 06:31:58.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   _rest_api_published: '1'

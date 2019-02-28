@@ -5,7 +5,8 @@ date: 2015-11-14 20:14:40.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   _publicize_job_id: '16857728868'

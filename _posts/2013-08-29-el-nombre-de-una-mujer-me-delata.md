@@ -5,7 +5,8 @@ date: 2013-08-29 23:27:44.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   publicize_twitter_user: Interludios

@@ -5,7 +5,8 @@ date: 2012-06-23 18:58:00.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   _wpas_done_twitter: '1'

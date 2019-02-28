@@ -5,7 +5,8 @@ date: 2012-03-30 06:20:45.000000000 -06:00
 type: post
 published: true
 status: publish
-categories:
+categories: blog
+old_categories:
 - Teología y Biblia
 tags: []
 meta:

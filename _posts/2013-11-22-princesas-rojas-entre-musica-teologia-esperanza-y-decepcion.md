@@ -5,7 +5,8 @@ date: 2013-11-22 17:00:46.000000000 -06:00
 type: post
 published: true
 status: publish
-categories:
+categories: blog
+old_categories:
 - Vida
 tags: []
 meta:

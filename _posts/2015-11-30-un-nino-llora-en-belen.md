@@ -5,7 +5,8 @@ date: 2015-11-30 23:29:01.000000000 -06:00
 type: post
 published: true
 status: publish
-categories: []
+categories: blog
+old_categories: []
 tags: []
 meta:
   _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:1100923;s:57:"https://twitter.com/Interludios/status/671471043098251264";}}

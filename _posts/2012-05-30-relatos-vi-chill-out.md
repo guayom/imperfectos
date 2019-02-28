@@ -5,7 +5,8 @@ date: 2012-05-30 03:11:59.000000000 -06:00
 type: post
 published: true
 status: publish
-categories:
+categories: blog
+old_categories:
 - Relatos
 tags: []
 meta: {}
