@@ -14,7 +14,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Published", name: "published", widget: "hidden", default: "true"}
+      - {label: "Published", name: "published", widget: "hidden", default: true}
       - {label: "extraclass", name: "extraclass", widget: "hidden", default: "sp-single"}
       - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
       - {label: "Excerpt separator", name: "excerpt_separator", widget: "hidden", default: "<!--more-->"}

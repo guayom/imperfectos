@@ -1,6 +1,6 @@
 ---
 layout: post
-published: 'true'
+published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
