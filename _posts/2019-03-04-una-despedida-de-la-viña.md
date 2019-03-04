@@ -13,7 +13,7 @@ En 1996 me uní al Movimiento de La Viña (Vineyard Movement), cuando daba sus p
 
 <!--more-->
 
-Desde sus inicios tuve la oportunidad de conocer lo que sucedía en muchos países. Sobre todo desde México hasta Chile y en Espeaña, pasando al continente europeo. Esto me proporcionó grandes experiencias y una gran red de amigos y amigas en muchas partes del mundo. 
+Desde sus inicios tuve la oportunidad de conocer lo que sucedía en muchos países. Sobre todo desde México hasta Chile y en España, pasando al continente europeo. Esto me proporcionó grandes experiencias y una gran red de amigos y amigas en muchas partes del mundo. 
 
 A finales del 2018 Laura y yo tomamos, finalmente, la decisión de salir del Movimiento de La Viña. La decisión la empezamos a meditar desde hacía 3 años, pero no fue sino al llegar el 2018 que supimos que nuestra etapa en La Viña había terminado. El grupo pastoral de Interludio nos respaldó, y el acuerdo quedó en firme duante la Asamblea General Extraordinaria del 13 de enero del 2019. 
 
