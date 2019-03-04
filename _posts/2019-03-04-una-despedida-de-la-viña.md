@@ -13,7 +13,7 @@ En 1996 me uní al Movimiento de La Viña (Vineyard Movement), cuando daba sus p
 
 <!--more-->
 
-Desde sus inicios tuve la oportunidad de conocer lo que sucedía en muchos países. Sobre todo desde México hasta Chile y en Espeaña, pasando al continente europeo. Esto me proporcionó grandes experiencias y una gran red de amigos y amigas en muchas partes del mundo. 
+Desde sus inicios tuve la oportunidad de conocer lo que sucedía en muchos países. Sobre todo desde México hasta Chile y en España, pasando al continente europeo. Esto me proporcionó grandes experiencias y una gran red de amigos y amigas en muchas partes del mundo. 
 
 A finales del 2018 Laura y yo tomamos, finalmente, la decisión de salir del Movimiento de La Viña. La decisión la empezamos a meditar desde hacía 3 años, pero no fue sino al llegar el 2018 que supimos que nuestra etapa en La Viña había terminado. El grupo pastoral de Interludio nos respaldó, y el acuerdo quedó en firme duante la Asamblea General Extraordinaria del 13 de enero del 2019. 
 
@@ -31,12 +31,6 @@ El comunicado oficial enviado a la Federación de Iglesias Viña Costa Rica se h
 >
 > PRIMERO: Que el artículo DECIMO PRIMERO, punto b, de los Estatutos de la Federación Viña Costa Rica establecen que procede la desafiliación cuando se presente solicitud expresa de la Asociación a través de su representante legal y del que tenga facultad legal
 >
-> Federación Viña Costa Rica
->
-> Cédula jurídica 3 -002-695151 Tel. (506) 2452 0719
->
-> 28 de enero, 2019
->
 > para actuar en nombre de la Asociación que desea desafiliarse de la Federación, y explicando por escrito los motivos que la llevaron a solicitar la desafiliación.
 >
 > SEGUNDO: Que la Junta Directiva y el Fiscal han constatado que la gestión presentada por la Asociación Comunidad Interludio el 23 de enero de 2019, es conforme con lo que requiere el artículo DECIMO PRIMERO, punto b, de los Estatutos de la Federación Viña Costa Rica para proceder a la desafiliación de dicha Asociación.
@@ -45,4 +39,4 @@ El comunicado oficial enviado a la Federación de Iglesias Viña Costa Rica se h
 >
 > SE ACUERDA: Se acuerda recibir y aceptar la gestión hecha por la Asociación Comunidad Interludio en fecha 23 de enero de 2019, firmada el 17 de enero de 2019, procediéndose a la desafiliación de dicha asociación. Adicionalmente, se acuerda autorizar al Presidente para protocolizar este acuerdo y proceder a su presentación ante el Registro de Asociaciones.”
 
-Estamos muy felices de haber compartido un periodo de nuestro camino con La Viña y agradecemos a todas las personas que caminaron cerca, nos aman y a las que amamos. Ese amor y esa cercanía no cambian porque el amor es mucho más grande que una denominación de iglesias. Nosotros seguiremos haciendo iglesia, siendo refugio y obedeciendo el llamado que Dios nos ha hecho, haciendo nuevas relaciones y uniéndonos a lo que Dios nos ha mostrado.
+Estamos muy felices de haber compartido un periodo de nuestro camino con La Viña y agradecemos a todas las personas que caminaron cerca, nos aman y a las que amamos. Ese amor y esa cercanía no cambian porque el amor es mucho más grande que una demonimación de iglesias. Nosotros seguiremos haciendo iglesia, siendo refugio y obedeciendo el llamado que Dios nos ha hecho, haciendo nuevas relaciones y uniéndonos a lo que Dios nos ha mostrado.
