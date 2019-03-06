@@ -11,8 +11,9 @@ thumb: /images/0418_wel_gerson_lead-optimized_-2-.jpg
 ---
 El periódico La Nación publica hoy una noticia altamente preocupante: 
 
-> _Capitol Ministries, el grupo de estudio bíblico que aconseja al vicepresidente de Estados Unidos, Mike Pence, decidió abrir una sede en Costa Rica para guiar a los diputados y demás políticos locales según su interpretación de las Sagradas Escrituras. <!--more-->_
+> _Capitol Ministries, el grupo de estudio bíblico que aconseja al vicepresidente de Estados Unidos, Mike Pence, decidió abrir una sede en Costa Rica para guiar a los diputados y demás políticos locales según su interpretación de las Sagradas Escrituras.  <!--more-->_
 
+\
 Esto ocurre en el afán de conquitar el poder político desde una derecha evangélica norteamericana y en consonancia con el programa regional de alcance poolítico evangélico en toda Latinoamerica. Sin embargo no es algo completamente nuevo. \
 \
 Esto ya había ocurrido por medio de la estrategia iniciada por Ronald Reagan en la década de 1980. Cuando los autoproclamados "fundamentalistas" cristianos pactaron con el político.  Pero ¿cómo surge todo esto y quienes son los autoproclamados fundamentalistas? \
