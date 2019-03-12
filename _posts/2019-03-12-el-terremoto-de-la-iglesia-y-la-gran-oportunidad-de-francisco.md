@@ -9,7 +9,7 @@ date: '2019-03-12T08:55:20-06:00'
 img: /images/21768239_752612024947073_7727723846649855244_n.jpg
 thumb: /images/21768239_752612024947073_7727723846649855244_n.jpg
 ---
-La Iglesia Católica Romana vive tiempos aciagos. La curva descendente no ha iniciado hace poco, pero sí es cierto que se ha hecho más notoria y evidente cuanto más notorio y evidente resulta su pecado en el tema de la pederastía.  
+La Iglesia Católica Romana vive tiempos aciagos. La curva descendente no ha iniciado hace poco, pero sí es cierto que se ha hecho más notoria y evidente cuanto más notorio y evidente resulta su pecado en el tema de la pederastía.   <!--more-->
 
 La responsabildiad de la Iglesia como organización es ineludible. Desde tiempos del Papa Wojtila, Juan Pablo II, el Vaticano tiene conocimiento de denuncias de abusos sexuales consuetudinarios. Cientos de casos diseminados a lo largo y ancho del planeta llegan al Vaticano para, posteriormente, ser tramitados de una manera absolutamente irresponsable. 
 
