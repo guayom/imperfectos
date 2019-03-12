@@ -9,11 +9,11 @@ date: '2019-03-12T08:55:20-06:00'
 img: /images/21768239_752612024947073_7727723846649855244_n.jpg
 thumb: /images/21768239_752612024947073_7727723846649855244_n.jpg
 ---
-La Iglesia Católica Romana vive tiempos aciagos. La curva descendente no ha iniciado hace poco, pero sí es cierto que se ha hecho más notoria y evidente cuanto más notorio y evidente resulta su pecado en el tema de la pederastía.   <!--more-->
+La Iglesia Católica Romana vive tiempos aciagos. La curva descendente no ha iniciado hace poco, pero sí es cierto que se ha hecho más notoria y evidente cuanto más notorio y evidente resulta su pecado en el tema de la pederastía.  
 
 La responsabildiad de la Iglesia como organización es ineludible. Desde tiempos del Papa Wojtila, Juan Pablo II, el Vaticano tiene conocimiento de denuncias de abusos sexuales consuetudinarios. Cientos de casos diseminados a lo largo y ancho del planeta llegan al Vaticano para, posteriormente, ser tramitados de una manera absolutamente irresponsable. 
 
-La Iglesia, enfrascada en un sistema patriarcal y machista, incólume ante los clamores de millones de personas para que se revise el papel de la mujer en la Iglesia, el derecho a la anticoncepción, la inviabilidad del celibato obligatorio, el divorcio y la homosexualidad, ha fracasado estrepitosamente y a propiciado una separación cada vez más grande entre la feligresía y la estructura eclesial. 
+La Iglesia, enfrascada en un sistema patriarcal y machista, incólume ante los clamores de millones de personas para que se revise el papel de la mujer en la Iglesia, el derecho a la anticoncepción, la inviabilidad del celibato obligatorio, el divorcio y la homosexualidad, ha fracasado estrepitosamente y ha propiciado una separación cada vez más grande entre la feligresía y la estructura eclesial. 
 
 Como papa, Juan Pablo II, promocionó desmesuradamente al Opus Dei (no olvidemos que Karol Wojtila fue rechazado como doctorando en la Universidad Gregoriana de los jesuitas), siendo el Opus Dei, en palabras del teólogo suizo Hans Küng, "una organización secreta católico-fascista con rasgos sectários surgida en la España franquista".   Este apoyo suscitó un incremento en el poder de influencia del Opus Dei en las sociedades de mayoría católica. Con una incidencia notoria en la política, la banca, el periodismo y las universidades, sobre todo en España y en América Latina, arremete contra todos los avances apuntados durante el Concilio Ecuménico Vaticano II, exhorta a desdeñar la sexualidad y a menospreciar a las mujeres. 
 
