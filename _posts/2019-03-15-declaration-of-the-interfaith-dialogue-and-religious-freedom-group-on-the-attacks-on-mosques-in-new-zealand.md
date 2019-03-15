@@ -11,7 +11,7 @@ date: '2019-03-15T11:03:37-06:00'
 img: /images/44590257_10156352774640189_2995951091545276416_n.jpg
 thumb: /images/44590257_10156352774640189_2995951091545276416_n.jpg
 ---
-Before the attacks in the mosques of Christchurch, New Zealand, which killed at least 49 people and 48 others were injured (20 of them seriously). We, The members of the Interfaith Dialogue and Religious Freedom Group of the International Visitor Leadership Program (IVLP), say:
+Before the attacks in the mosques of Christchurch, New Zealand, which killed at least 49 people and 48 others were injured (20 of them seriously). We, The members of the Interfaith Dialogue and Religious Freedom Group of the International Visitor Leadership Program (IVLP), say: <!--more-->
 
 \-That all people have the same right not to be the object of violence, persecution, discrimination and stigmatization.
 
