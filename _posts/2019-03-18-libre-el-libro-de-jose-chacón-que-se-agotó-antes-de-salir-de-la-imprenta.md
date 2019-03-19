@@ -11,7 +11,7 @@ thumb: /images/bc5e5b1c-30a0-4347-bce3-de077433bdaa.jpg
 ---
 LIBRE es el nuevo libro de José Chacón. Una perspectiva fresca e intima de lo que significa la libertad. El subtítulo del libro es: "Tener fe y no morir en el intento". Porque, de alguna manera, ser libre no es fácil y realmente pocas personas luchan por serlo. ¿Cómo romper el miedo a ser libres? ¿Cómo conservar la fe en medio de las luchas? ¿Cómo puede la Iglesia encontrar la libertad que le hace falta? 
 
-Pues este libro está a punto de salir al mercado, pero ha logrado ya una de las cosas más dificiles: agotarse.  En la imprenta están poniendo más papel y más tinta para poner más libros a disposición de los lectores. 
+Pues este libro está a punto de salir al mercado, pero ha logrado ya una de las cosas más dificiles: Está a punto de agotarse en la preventa.  En la imprenta están poniendo más papel y más tinta para poner más libros a disposición de los lectores. 
 
 Actualmente el autor ofrece 3 títulos: 
 
