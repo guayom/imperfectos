@@ -25,7 +25,7 @@ De esa maravillosa experiencia de aprendizaje me traje en el corazón un sueño,
 
 **El MUSEO DE LA EMPATÍA DE COSTA RICA**
 
-Sueño con la creación de un “Museo de la Empatía” en Costa Rica.  Un museo que pueda explorar las diferntes historias de las minorías étnicas y religiosas presentes en nuestra sociedad. Inicialmente quise llamarlo “Museo  para la prevención del odio”, y ese es exactamente el objetivo del museo: la prevención de los delitos de odio, la proliferación de movimientos encaminados a perpetrar discriminación, persecución o apología del odio contra minorías presentes en nuestra sociedad.  No sería, tampoco, un “Museo de la tolerancia” porque en diálogo interreligioso no hablamos de “tolerancia” ya que la tolerancia implica que ciertos grupos o personas tienen algo malo que debemos tolerar. Nosotros hablamos, más bien, de “respeto y empatía”. 
+Sueño con la creación de un “Museo de la Empatía” en Costa Rica.  Un museo que pueda explorar las diferentes historias de las minorías étnicas y religiosas presentes en nuestra sociedad. Inicialmente quise llamarlo “Museo  para la prevención del odio”, y ese es exactamente el objetivo del museo: la prevención de los delitos de odio, la proliferación de movimientos encaminados a perpetrar discriminación, persecución o apología del odio contra minorías presentes en nuestra sociedad.  No sería, tampoco, un “Museo de la tolerancia” porque en diálogo interreligioso no hablamos de “tolerancia” ya que la tolerancia implica que ciertos grupos o personas tienen algo malo que debemos tolerar. Nosotros hablamos, más bien, de “respeto y empatía”. 
 
 Podemos imaginar una verdadera exposición museística de la historia de la población Afro de Costa Rica, la población judía, la musulmana, la cristiana, las culturas y religiones originarias de nuestro país. La historia de persecución, apartheid o violencia que habrían sufrido fuera y dentro de nuestro país y las formas de prevenir el odio. 
 
@@ -35,7 +35,7 @@ La idea también se extiende a crear un recurso para las escuelas, colegios, uni
 
 Tengo plena seguridad de que un "Museo de la empatía" podrá contribuir a una mejor sociedad. Puedo imaginar a nuestros hijos aprendiendo y sensibilizándose al visitar el museo. Observando esas fotografías de gentes de antaño, esos objetos antiguos, esas ropas, documentos, videos, voces, canciones, bailes, comidas. Puedo imaginarlos aprendiendo que todas ellas, ese Pantone de historias y colores, de lágrimas y dolores, de risas y maravillas, son el verdadero Pantone que le ha dado vida a nuestro país. 
 
-También tengo plena seguridad de que el "Museo de la empatía" nos ayudará a ver nuevas generaciones más solidarias, que luchan contra el bulliyng, la xenofobia, la homofobia y toda clase de discriminación, odio o incitación al odio. 
+También tengo plena seguridad de que el "Museo de la empatía" nos ayudará a ver nuevas generaciones más solidarias, que luchan contra el bullying, la xenofobia, la homofobia y toda clase de discriminación, odio o incitación al odio. 
 
 A partir de hoy estoy buscando aliados y aliadas. Diseñadores, fotógrafos, cineastas, historiadores, sociólogos, organizaciones no gubernamentales, comunidades religiosas (la judía, la musulmana, la budista, la cristiana), entidades gubernamentales, colegios, universidades, ONGs, Embajadas... Estoy buscando aliados para hacer realidad este sueño. 
 
