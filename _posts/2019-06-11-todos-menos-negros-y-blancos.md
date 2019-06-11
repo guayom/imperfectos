@@ -17,7 +17,7 @@ Pero la fotógrafa Angélica Dass nos da una buena bofetada. Nadie es realmente 
 
 En efecto, el blanco absoluto no existe en el Pantone, no tiene código, excepto que ya no sea completamente blanco. El código del negro absoluto es 000000 y ningún ser humano posee un color de piel 000000. 
 
-Cada ser humano tiene un "color pie"l y una historia. Y su gente, su familia, su tierra, sus creencias, su fe, su espiritualidad, tienen una historia que contar. 
+Cada ser humano tiene un "color piel" y una historia. Y su gente, su familia, su tierra, sus creencias, su fe, su espiritualidad, tienen una historia que contar. 
 
 En Octubre del 2018 el Departamento de Estado del Gobierno de Estados Unidos y la Emabajada de ese país en Costa Rica me dio la oportunidad de participar en el Programa de Liderazgo (IVLP) en el tema de Diálogo Interreligioso. Durante casi 3 semanas compartí y aprendí con un extenso grupo de líderes de todo el mundo y de muchísimas religiones. 
 
