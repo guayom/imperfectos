@@ -4,7 +4,7 @@ published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: TODOS MENOS NEGROS Y BLANCOS
+title: EL MUSEO DE LA EMPATIA DE COSTA RICA
 date: '2019-06-10T23:51:56-06:00'
 img: /images/angelica-dass-2.jpg
 thumb: /images/angelica-dass-2.jpg
