@@ -13,15 +13,15 @@ Puedo decir que he alcanzado muchos sueños. Incluso debo admitir que la suerte 
 
 <!--more-->
 
-**\- El sueño de Interludio. **
+**\- El sueño de Interludio.**
 
-**\- El sueño de ser autor. **
+**\- El sueño de ser autor.**
 
-**\- El sueño de Interludio en otros países. **
+**\- El sueño de Interludio en otros países.**
 
 **\- El sueño de Ciudad Refugio (en proceso).**
 
-**\- El sueño del Museo de la Empatía de Costa Rica (en proceso). **
+**\- El sueño del Museo de la Empatía de Costa Rica (en proceso).**
 
 **\- El sueño del Proyecto "Robin Food" (en proceso).**
 
@@ -29,9 +29,9 @@ En esta etapa de mi vida quiero alcanzar otro reto que parece imposible o una lo
 
 Yo hago lo que me apasiona. Lo hago a tiempo completo: Interludio, escribir, dar conferencias e impulsar a otras personas. Y quiero seguir haciendo todo eso, pero con una diferencia. Hasta ahora Interludio ha aportado una buena parte de mis ingresos. Ahora quisiera "ahorrarle" esa carga a Interludio y, sin dejar de dedicarle todo mi tiempo a la iglesia, poder generar el 100% de mis ingresos con mis otras pasiones:
 
-**\- Conferencias. **
+**\- Conferencias.**
 
-**\- Escribir y publicar. **
+**\- Escribir y publicar.**
 
 **\- Impulsar a otros dentro y fuera de Costa Rica.**
 
@@ -41,11 +41,11 @@ Y sé que solo podré hacerlo con un gran empujón de quienes están ahí, del o
 
 ¿Cómo puede apoyar usted?
 
-**\- Recomendando mis libros. **
+**\- Recomendando mis libros.**
 
-**\- Recomendando mis conferencias. **
+**\- Recomendando mis conferencias.**
 
-**\- Invitándome a sus eventos para brindarle mis servicios. **
+**\- Invitándome a sus eventos para brindarle mis servicios.**
 
 **\- Adquiriendo mis libros en cualquiera de sus plataformas.**
 
