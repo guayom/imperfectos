@@ -51,9 +51,9 @@ Y sé que solo podré hacerlo con un gran empujón de quienes están ahí, del o
 
 Puede adquirir Libre en Amazon aquí: bit.ly/Libre-Jose-Chacon 
 
-Puede adquirir todos mis libros en la Librería Lehamann en Costa Rica.
+Puede adquirir todos mis libros en la Librería Lehamann en Costa Rica: http://www.librerialehmann.com/Productos/Autor/Chacon_Jose_Pablo/
 
-Puede adquirir Paradoxa en todo Latinoamérica a través de JuanUno1 Ediciones. 
+Puede adquirir Paradoxa en todo Latinoamérica a través de JuanUno1 Ediciones: https://www.facebook.com/juanuno1ed/
 
 O puede contactarme por Whatsapp al +506 6050-0416
 
