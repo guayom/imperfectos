@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'NUEVOS RETOS: ¡SIGANME LOS BUENOS Y LOS MALOS!'
 date: '2019-07-10T13:13:49-06:00'
-img: /images/21768239_752612024947073_7727723846649855244_n.jpg
-thumb: /images/21768239_752612024947073_7727723846649855244_n.jpg
+img: /images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg
+thumb: /images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg
 ---
 Puedo decir que he alcanzado muchos sueños. Incluso debo admitir que la suerte ha jugado muy a mi favor en algunos casos. Sin descontar el esfuerzo y la pasión que he puesto en lo que hago, debo agradecer a tantas personas que me han apoyado incluso cuando mis ideas parecían una locura.
 
