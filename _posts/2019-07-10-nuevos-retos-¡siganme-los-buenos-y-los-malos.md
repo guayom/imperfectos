@@ -4,7 +4,7 @@ published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: 'NUEVOS RETOS: ¡SIGANME LOS BUENOS Y LOS MALOS!'
+title: ¡SíGANME LOS BUENOS... Y LOS MALOS!
 date: '2019-07-10T13:13:49-06:00'
 img: /images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg
 thumb: /images/aba3e4e6-c7fd-406d-8de0-2775a4810494.jpg
