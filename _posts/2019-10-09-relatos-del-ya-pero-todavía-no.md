@@ -9,15 +9,17 @@ date: '2019-10-08T23:38:24-06:00'
 img: /images/tour-barrio-gotico.jpg
 thumb: /images/tour-barrio-gotico.jpg
 ---
-_Estos relatos fueron escritos hace más de dos décadas. Son el resultado de mis primeros intentos de escribir relatos cortos. Al ser mis primeros escritos de juventud, están cargados de inocencia, ingenuidad, erroes y hasta cursilería. Pero los comparto con la confianza de que si los vas a leer imagines a un muchacho casi adolscente detrás de cada palabra. _
+_Estos relatos fueron escritos hace más de dos décadas. Son el resultado de mis primeros intentos de escribir relatos cortos. Al ser mis primeros escritos de juventud, están cargados de inocencia, ingenuidad, erroes y hasta cursilería. Pero los comparto con la confianza de que si los vas a leer imagines a un muchacho casi adolscente detrás de cada palabra._
 
-_Jose Chacón. _
+_Jose Chacón_
+
+_<!--more-->_
 
 # Relatos del Ya pero Todavía no
 
-## PRIMERA PARTE 
+## PRIMERA PARTE
 
-## “Sentir culpa o no sentir culpa, esa es la cuestión” 
+## “Sentir culpa o no sentir culpa, esa es la cuestión”
 
 \-Intenté ser ateo, pero no tuve la suficiente fe para hacerlo.- Se hizo un extraño silencio, como si ambos se hubieran quedado ensimismados, masticando aquella frase. Sofía no ocultó su confusión y rompió el silencio.
 
@@ -41,13 +43,9 @@ Un nuevo silencio había inundado el inviolable metro que los separaba. Un simpl
 
 \-Si, pero deberíamos estarles agradecidos, así tenemos oportunidad de seguir con el tema. Quizás la reunión sea tan tediosa como las otras. –Por alguna misteriosa razón las palabras de Sofía pusieron aun más nervioso a Aquilino. Fue en ese preciso instante cuando resonaron en aquél recinto las descomunales risotadas de Beatriz, la ruidosa y ya resignada solterona del grupo. Con ella venía toda la comitiva. 
 
-
-
-## SEGUNDA PARTE 
+## SEGUNDA PARTE
 
 ## “Sentir culpa o no sentir culpa, esa es la cuestión”
-
-
 
 La reunión estaba a punto de concluir cuando apareció Josué, el flamante novio de Sofía. Apuesto y elegante. Aquilino no pudo (ni quiso) disimular su descontento. Pero el grupo entero le dio la bienvenida de una forma cordial. En demasía, para lo que Aquilino hubiese deseado. Josué se sentó al lado de su novia, quien le lanzó la más tierna de sus sonrisas, al tiempo que Aquilino se levantaba de su silla y se despedía de todos con su típica gracia llena de timidez. 
 
@@ -55,7 +53,7 @@ La reunión le había parecido un completo fracaso. Era demasiado difícil encon
 
 \-¡Me parece algo absurdo! –Se dijo a sí mismo flagelado por su conciencia-. Aquilino no podía comprender cómo un cristiano como él podía sentirse tan abrumado por las tentaciones. Sofía le gustaba mucho. 
 
-\- Si, absurdo, o sea, lo contrario de obediencia. Claro, –continuó, recordando sus clases de latín- porque obediencia, ob audire,  significa “escuchar con atención”, y me parece que no me ha dado la gana escuchar con atención la voz de alarma de mi conciencia, no he querido ver las luces rojas de mi semáforo interior. He sido un tonto, un necio, ¡un ser absurdo…! sí, absurdo –se repitió- porque la palabra que se usa en latín para “sordo” es surdus, y ser completamente sordo, como yo, es ser ab surdus.  
+\- Si, absurdo, o sea, lo contrario de obediencia. Claro, –continuó, recordando sus clases de latín- porque obediencia, ob audire,  significa “escuchar con atención”, y me parece que no me ha dado la gana escuchar con atención la voz de alarma de mi conciencia, no he querido ver las luces rojas de mi semáforo interior. He sido un tonto, un necio, ¡un ser absurdo…! sí, absurdo –se repitió- porque la palabra que se usa en latín para “sordo” es surdus, y ser completamente sordo, como yo, es ser ab surdus. 
 
 Esa noche se acostó mortificado por todos esos pensamientos. No había sido un buen día, le parecía que todo le había salido mal. Se acostó e hizo una pequeña oración mecánica y cerró los ojos. 
 
@@ -83,19 +81,15 @@ Sofía cenaba con Josué en un hermoso restaurante ubicado en la cima de Escazú
 
 \-Bueno, entonces continúa durmiendo, ahora estoy más tranquila. Buenas noches. –Colgó sin esperar ninguna respuesta de Aquilino. 
 
-
-
 ## TERCERA PARTE
 
-##  “Al reverso de la Historia”
-
-
+## “Al reverso de la Historia”
 
 El estudio de la arqueología había logrado forjar un espíritu muy observador, casi inquisitorial, en Aquilino. La observación era su don más aguzado. Podía quedarse horas enteras observando un detalle en una fotografía, en un paisaje o, incluso, en un rostro. Poseía una memoria prodigiosa, pero en extremo selectiva. Fascinado por las culturas pretéritas había cursado con mucha dificultad los estudios de arqueología. Nunca fue brillante en sus años universitarios, pero poseía una pasión extraordinaria. A su graduación solo asistió doña Constanza, su madre. Orgullosa de su hijo, la anciana desembolsó los ahorros de toda una vida de intensa labor costurera y, convencida de que era la mejor inversión, obsequió a su hijo el viaje a Palestina que ella misma había soñado. Doña Constanza veía su anhelo hacerse realidad a través de su hijo. “Mis cansados ojos ya no apreciarían los detalles del viaje” se decía resoluta, “mis pies ya no podrían recorrer esas calles sin sentir un intenso dolor de cansancio que me subiría de la planta de los pies hasta el mismísimo corazón”. Y remataba diciendo: “Que sea él, seguro que sabrá apreciar mejor que yo cada sorpresa que se esconde en esos parajes… ya lo veré yo todo a través de sus ojos” y sonreía ilusionada.
 
 Del peregrinaje a Tierra Santa, Aquilino sacó muchas conclusiones, todas ellas muy lejos de ser producto del mero turismo de arqueología. “En ese país la arqueología es más que una ciencia de estudio… es un arma bélica” les decía a sus amigos, “imagínense que uno de los arqueólogos más famosos de Israel, el que dirigió las excavaciones de Masada, era comandante en jefe del ejército” y continuaba con entusiasmo: “Un simple hallazgo puede ser causal de una batalla sangrienta y despiadada en esas tierras. Los arqueólogos sionistas compiten a muerte para lograr demostrar al mundo que sus antepasados vivían en ese país desde hace tres mil años… y que esa tierra les pertenece”. De su alforja de experiencias acumuladas durante el viaje Aquilino narraba muchas curiosidades, pero su mayor tesoro extraído de esas tierras era la visión de la injusticia que prevalece en Palestina. Eso le cambió la vida, regresó comprometido con la justicia social. 
 
-\    Por su lado, Sofía cursaba el último año de teología. Era una de las pocas jovencitas que se había animado a estudiar una carrera tan poblada de “machos”. Simpatizaba realmente con la teología feminista, abogaba por la igualdad de derechos y oportunidades. Había declarado la guerra al Vaticano por la prohibición antibíblica del sacerdocio femenino. Era una mujer bella y algo revolucionaria. Algunos de sus compañeros de facultad la criticaban por haber nacido en una familia acomodada.  La veían solo como una “niña de papá”. 
+ Por su lado, Sofía cursaba el último año de teología. Era una de las pocas jovencitas que se había animado a estudiar una carrera tan poblada de “machos”. Simpatizaba realmente con la teología feminista, abogaba por la igualdad de derechos y oportunidades. Había declarado la guerra al Vaticano por la prohibición antibíblica del sacerdocio femenino. Era una mujer bella y algo revolucionaria. Algunos de sus compañeros de facultad la criticaban por haber nacido en una familia acomodada.  La veían solo como una “niña de papá”. 
 
 Los lujos en los que había sido criada parecían haberle vendado los ojos a la realidad del mundo. Pero la arrebatadora imagen de aquél teólogo peruano que salió en los periódicos le arrancó la venda de golpe. Asistió a la conferencia que dictó el famoso y controversial teólogo Gustavo Gutiérrez, considerado el fundador de la Teología de la Liberación. Sofía sentía que cada una de las palabras pronunciadas por aquél locuaz hombre se le estrellaba por todo el cuerpo, como si una ametralladora la acribillara sin piedad. Era tanto y tan nuevo el dolor que sentía que apenas pudo contener el llanto. Por fin se había abierto la ventana que había estado cerrada durante toda su vida, ahora podía ver el mundo en toda su crudeza y espanto. Aborreció la riqueza desmesurada, sintió náuseas de muchos de sus amigos que apoyaban las guerras injustas, las invasiones norteamericanas, las dictaduras militares. Ese fue el momento en que descubrió un sentimiento nuevo que surgió profuso y de golpe desde sus entrañas: la compasión. 
 
@@ -103,41 +97,33 @@ Luego de haber descubierto a Gustavo Gutiérrez (el peruano bajito que evidencia
 
 Los primeros que notaron el cambio fueron sus padres. Ya de por sí no estaban nada conformes con la carrera elegida por su hija única. Habían pensado que era una afición pasajera, como lo había sido la equitación, el violín o la danza.  Sin embargo la teología la había deslumbrado. La equitación, el violín y la danza no le habían dado la oportunidad de sentir algo tan nuevo e inusitado para ella como la compasión. Sólo la teología había logrado hacer que su corazón empezara a latir en conjunción con el mundo real, el mundo que sufre y llora, el que siente rabia y dolor. Ahora su corazón latía al reverso de la historia. Siempre le habían dicho que los pobres andrajosos eran seres despreciables y peligrosos, pero ahora sabía que lo único peligroso en el mundo es el poder y la injusticia de los poderosos. 
 
+## CUARTA PARTE
 
+## Tibidabo
 
-## CUARTA PARTE 
+ En la Font màgica de Montjuïc Sofía se sumergió en un mundo de fantasía. Aquella era la primera noche en Barcelona y esa visión casi celestial de aguas saltarinas que cambian de color mientras danzan al son de la música clásica embriagó el corazón de la joven teóloga. Barcelona emergía, majestuosa, ante sus ojos. Las fuentes mágicas de Montjuïc hacían su danza ritual, rodeadas de algunas decenas de turistas que, extasiados por la belleza y maravillados por la perfecta simbiosis del agua, la música y los colores, guardaban un silencio reverencial, como quien presencia un prodigio o una teofanía; guardaban silencio y permanecían estáticos (extáticos), como si adoraran una divinidad sobre una tierra sagrada. El escenario era algo alucinógeno: Sobre el monte, subiendo unos cien escalones se encontraba el Palau de Montjuïc, bajando las escaleras, las fuentes bailantes, un poco más abajo la imponente ciudad y al fondo de la escena, como colgando del cielo, aparecía el Tibidabo. Iluminado y suspendido en el aire, el monasterio del monte Tibidabo parecía descender de lugares celestiales, como la Jerusalén venidera. 
 
-## Tibidabo 
+ No reprimió los pensamientos que llegaron sin preguntar a su cabeza. Imágenes de una Centroamérica que convulsiona por respirar. No lograba apartar de su mente las escenas de los niños descalzos de su país, de las madres de piel curtida por el sol inclemente. Quiso detenerse en el recuerdo de las devastaciones de los terremotos y huracanes que dejaban con menos a los que ya de por sí no tenían nada. Sin embargo no había rabia en su corazón, sino gratitud. Sonrió instintivamente al recordar a sus gentes, sus iguales, sus pares… esos que ven la mano del Altísimo y dan saltos de gozo cada vez que una flor se abre, un jilguero canta o un quetzal surca el aire. Gente que tiene una especial capacidad de ver a Dios en las cosas más simples y sencillas: en la lluvia, en el sol de todos los días, en la sonrisa de los niños, en el arroz y los frijoles, en el murmullo del río; un pueblo que ha afinado su mirada y sus sentidos para ver un milagro de Dios en cada pequeña bendición que llega a sus vidas, por nimia que sea. 
 
-
-
-\    En la Font màgica de Montjuïc Sofía se sumergió en un mundo de fantasía. Aquella era la primera noche en Barcelona y esa visión casi celestial de aguas saltarinas que cambian de color mientras danzan al son de la música clásica embriagó el corazón de la joven teóloga. Barcelona emergía, majestuosa, ante sus ojos. Las fuentes mágicas de Montjuïc hacían su danza ritual, rodeadas de algunas decenas de turistas que, extasiados por la belleza y maravillados por la perfecta simbiosis del agua, la música y los colores, guardaban un silencio reverencial, como quien presencia un prodigio o una teofanía; guardaban silencio y permanecían estáticos (extáticos), como si adoraran una divinidad sobre una tierra sagrada. El escenario era algo alucinógeno: Sobre el monte, subiendo unos cien escalones se encontraba el Palau de Montjuïc, bajando las escaleras, las fuentes bailantes, un poco más abajo la imponente ciudad y al fondo de la escena, como colgando del cielo, aparecía el Tibidabo. Iluminado y suspendido en el aire, el monasterio del monte Tibidabo parecía descender de lugares celestiales, como la Jerusalén venidera. 
-
-\    No reprimió los pensamientos que llegaron sin preguntar a su cabeza. Imágenes de una Centroamérica que convulsiona por respirar. No lograba apartar de su mente las escenas de los niños descalzos de su país, de las madres de piel curtida por el sol inclemente. Quiso detenerse en el recuerdo de las devastaciones de los terremotos y huracanes que dejaban con menos a los que ya de por sí no tenían nada. Sin embargo no había rabia en su corazón, sino gratitud. Sonrió instintivamente al recordar a sus gentes, sus iguales, sus pares… esos que ven la mano del Altísimo y dan saltos de gozo cada vez que una flor se abre, un jilguero canta o un quetzal surca el aire. Gente que tiene una especial capacidad de ver a Dios en las cosas más simples y sencillas: en la lluvia, en el sol de todos los días, en la sonrisa de los niños, en el arroz y los frijoles, en el murmullo del río; un pueblo que ha afinado su mirada y sus sentidos para ver un milagro de Dios en cada pequeña bendición que llega a sus vidas, por nimia que sea. 
-
-\    Se preguntaba una y otra vez magno cum dolore (con gran dolor) cómo era posible que los que no tienen nada logren ver a Dios en todo, y los que lo tienen todo no lo vean en nada. Lo que más le sorprendía no era la posibilidad de creer en Dios cuando no se tiene nada, sino ¿Cómo es posible no creer en él cuando se tiene todo? El que carece de la bendición de la prosperidad la agradece con sinceridad y devoción; pero el que carece de carencias sucumbe bajo la miseria de la incredulidad y sufre el latigazo de la desesperación, de la esperanza sin fe, que no es esperanza sino espera que desespera. Unos tienen hambre y sed de justicia, pero son ricos en fe y esperanza, a otros no les falta de comer, ni techo bajo el cual vivir, ni ropa que vestir, pero son pobres de espíritu.   
+ Se preguntaba una y otra vez magno cum dolore (con gran dolor) cómo era posible que los que no tienen nada logren ver a Dios en todo, y los que lo tienen todo no lo vean en nada. Lo que más le sorprendía no era la posibilidad de creer en Dios cuando no se tiene nada, sino ¿Cómo es posible no creer en él cuando se tiene todo? El que carece de la bendición de la prosperidad la agradece con sinceridad y devoción; pero el que carece de carencias sucumbe bajo la miseria de la incredulidad y sufre el latigazo de la desesperación, de la esperanza sin fe, que no es esperanza sino espera que desespera. Unos tienen hambre y sed de justicia, pero son ricos en fe y esperanza, a otros no les falta de comer, ni techo bajo el cual vivir, ni ropa que vestir, pero son pobres de espíritu.   
 
 \-¿Será que, de tanto progreso y tanta comodidad, habrán perdido toda capacidad de asombro? –Pensaba Sofía mientras abría la puerta de su pequeño apartamento de estudiante, donde viviría durante los próximos tres meses. Al entrar, se tumbó en la cama y quiso adivinar lo que hubiese dicho Aquilino de todo aquello. 
 
 –Estoy segura que tendría alguna buena respuesta a todos mis cuestionamientos, o al menos haría algún comentario inteligente -De pronto se entristeció mucho al caer en la cuenta de que el primer hombre en quien pensó desde que llegó a Barcelona fue Aquilino y no su novio. Había algo malo en todo eso, se seguía sintiendo culpable, como si estuviera perdiendo una batalla consigo misma. Y realmente sabía que sí, la había perdido.   
 
-\    Sofía encontró tremendamente interesante que se le pusiera un nombre tan bíblico a un monte que vigila a toda Barcelona. Una cima orgullosa, la más alta de la sierra de Collserola. Desde esos 512 metros el Tibidabo observa pacientemente el imperturbable latir de una ciudad tan viva y tan inerte a la vez. Tibidabo (te daré) viene de la frase latina que Satanás utilizó para tentar a Jesús desde lo más alto de la ciudad de Jerusalén. Sobre aquel pináculo Satanás le mostró todos los reinos de la tierra y le ofreció toda la potestad y la gloria de ellos si se postraba y le adoraba. Sofía sabía que lo más importante de aquél episodio bíblico no era si Satanás tenía potestad o no, sino el anhelo de adoración que había en él. La tentación y la adoración están estrechamente ligadas.
+Sofía encontró tremendamente interesante que se le pusiera un nombre tan bíblico a un monte que vigila a toda Barcelona. Una cima orgullosa, la más alta de la sierra de Collserola. Desde esos 512 metros el Tibidabo observa pacientemente el imperturbable latir de una ciudad tan viva y tan inerte a la vez. Tibidabo (te daré) viene de la frase latina que Satanás utilizó para tentar a Jesús desde lo más alto de la ciudad de Jerusalén. Sobre aquel pináculo Satanás le mostró todos los reinos de la tierra y le ofreció toda la potestad y la gloria de ellos si se postraba y le adoraba. Sofía sabía que lo más importante de aquél episodio bíblico no era si Satanás tenía potestad o no, sino el anhelo de adoración que había en él. La tentación y la adoración están estrechamente ligadas.
 
-\-Sucumbes ante lo que adoras. No se trata de qué tienes o qué no tienes, sino de qué adoras. Se trata de poder descubrir lo que hay detrás de ese poderoso Tibidabo (Te daré) que a cada instante se nos presenta en el camino.  Se trata de saber de dónde proviene la promesa, quién o qué promete ese “te daré”. Cuando nos arrodillamos pensando en un “me dará” ya no se trata de adoración sino de adulación. Es la actitud del perro que se sienta graciosamente ante la mano de su amo (o de cualquier posible dador) para recibir una galleta.  
+\-Sucumbes ante lo que adoras. No se trata de qué tienes o qué no tienes, sino de qué adoras. Se trata de poder descubrir lo que hay detrás de ese poderoso Tibidabo (Te daré) que a cada instante se nos presenta en el camino.  Se trata de saber de dónde proviene la promesa, quién o qué promete ese “te daré”. Cuando nos arrodillamos pensando en un “me dará” ya no se trata de adoración sino de adulación. Es la actitud del perro que se sienta graciosamente ante la mano de su amo (o de cualquier posible dador) para recibir una galleta. 
 
-\    De igual forma encontró particularmente interesante que Montjuïc signifique “Monte judío”. Dos montes que se ven cara a cara abrazando la ciudad entre ambos, contemplándola, vigilándola. Aquel Palau de Montjuïc está asentado sobre una antigua torre de vigilancia, la Torre Farrel, que a su vez estaba sobre el Castell del Port, erigido en el año 1022. Todas estas construcciones han sido siempre, en el Montjuïc, edificaciones de poder político y militar. El Monte del “Te daré” mira a los ojos al Monte de la potestad, y en medio de ambos, como si fuera el producto del coito ontológico de ambas montañas, se conturba cada día la urbe catalana.  A un lado de la ciudad el monte de la promesa de poder y autoridad, al otro el monte de la lucha por hacer realidad tal promesa… y la cuidad sucumbe en la engañosa tensión escatológica, como todas las grandes ciudades, ante la potentia adoratio. San Jerónimo –recordó Sofía-  Propositum erat Domino humiliate diabolum vincere, non potentia.   
-
-
+De igual forma encontró particularmente interesante que Montjuïc signifique “Monte judío”. Dos montes que se ven cara a cara abrazando la ciudad entre ambos, contemplándola, vigilándola. Aquel Palau de Montjuïc está asentado sobre una antigua torre de vigilancia, la Torre Farrel, que a su vez estaba sobre el Castell del Port, erigido en el año 1022. Todas estas construcciones han sido siempre, en el Montjuïc, edificaciones de poder político y militar. El Monte del “Te daré” mira a los ojos al Monte de la potestad, y en medio de ambos, como si fuera el producto del coito ontológico de ambas montañas, se conturba cada día la urbe catalana.  A un lado de la ciudad el monte de la promesa de poder y autoridad, al otro el monte de la lucha por hacer realidad tal promesa… y la cuidad sucumbe en la engañosa tensión escatológica, como todas las grandes ciudades, ante la potentia adoratio. San Jerónimo –recordó Sofía-  Propositum erat Domino humiliate diabolum vincere, non potentia.   
 
 ## QUINTA PARTE
 
-## Phobos metha phobos  (Temor y temblor)
+## Phobos metha phobos (Temor y temblor)
 
+Esa noche no pudo dormir. Vuelta tras vuelta, bajo las sábanas, Sofía luchaba contra ella misma. A su lado, bajo las mismas sábanas, yacía el cuerpo de un joven. Aquilino parecía dormir plácidamente ignorante de su propia desnudez. Sofía observaba de vez en cuando fhobos metha phobos (con temor y temblor) la silueta masculina que se dibujaba sinuosamente bajo la tela que la cubría. No daba crédito a sus ojos ni a sus pensamientos, no lograba asociar lo que vivía con su realidad real, porque la realidad, esta que estaba viviendo, no correspondía a la suya. Esta era otra, tan inusitada como incomprensible. 
 
-
-\    Esa noche no pudo dormir. Vuelta tras vuelta, bajo las sábanas, Sofía luchaba contra ella misma. A su lado, bajo las mismas sábanas, yacía el cuerpo de un joven. Aquilino parecía dormir plácidamente ignorante de su propia desnudez. Sofía observaba de vez en cuando fhobos metha phobos (con temor y temblor) la silueta masculina que se dibujaba sinuosamente bajo la tela que la cubría. No daba crédito a sus ojos ni a sus pensamientos, no lograba asociar lo que vivía con su realidad real, porque la realidad, esta que estaba viviendo, no correspondía a la suya. Esta era otra, tan inusitada como incomprensible.  
-
-\    Aquella tarde había ido al aeropuerto decidida a recoger a un compañero de trabajo emocionada con todos los proyectos que tenían por delante en Barcelona. Pero en algún punto, solo Dios sabe dónde, el plan se torció y tomó un rumbo desconocido que ella no había planificado, al menos no conscientemente. Llegó temprano al aeropuerto, un poco nerviosa sin saber la razón exacta. El plan estaba trazado, varios correos electrónicos en los últimos días lo habían confirmado: Se encaminarían a la casa de hospedaje donde Aquilino se instalaría durante los próximos dos meses y medio. Su medio mes en Barcelona ya la facultaba para moverse con cierta libertad en esa ciudad enmarañada. Ya se había dado cuenta que la ciudad es más benévola cuando se descubre que son tres grandes circunvalaciones las que la recorren de lado a lado, como tres arterias o tres nervios que la surcan y la vuelven amigable. Dejaría a Aquilino instalado y le daría las instrucciones básicas; luego se dirigiría a una cena con algunos nuevos conocidos y otros tantos desconocidos. Aquilino se quedaría a descansar. Pero algo inesperado cambió el curso de las cosas: Un beso kamikaze la sorprendió mientras conducía seguido de un largo silencio post bombardeo. La sensación era nueva para ella. Aquilino parecía tener una actitud estoica, pero a ella le temblaba todo el cuerpo. Ahora romper el silencio era una empresa casi tan arriesgada como el beso a ultranza de Aquilino. 
+ Aquella tarde había ido al aeropuerto decidida a recoger a un compañero de trabajo emocionada con todos los proyectos que tenían por delante en Barcelona. Pero en algún punto, solo Dios sabe dónde, el plan se torció y tomó un rumbo desconocido que ella no había planificado, al menos no conscientemente. Llegó temprano al aeropuerto, un poco nerviosa sin saber la razón exacta. El plan estaba trazado, varios correos electrónicos en los últimos días lo habían confirmado: Se encaminarían a la casa de hospedaje donde Aquilino se instalaría durante los próximos dos meses y medio. Su medio mes en Barcelona ya la facultaba para moverse con cierta libertad en esa ciudad enmarañada. Ya se había dado cuenta que la ciudad es más benévola cuando se descubre que son tres grandes circunvalaciones las que la recorren de lado a lado, como tres arterias o tres nervios que la surcan y la vuelven amigable. Dejaría a Aquilino instalado y le daría las instrucciones básicas; luego se dirigiría a una cena con algunos nuevos conocidos y otros tantos desconocidos. Aquilino se quedaría a descansar. Pero algo inesperado cambió el curso de las cosas: Un beso kamikaze la sorprendió mientras conducía seguido de un largo silencio post bombardeo. La sensación era nueva para ella. Aquilino parecía tener una actitud estoica, pero a ella le temblaba todo el cuerpo. Ahora romper el silencio era una empresa casi tan arriesgada como el beso a ultranza de Aquilino. 
 
 \-	Entonces – querelló Sofía mientras encendía la radio- ¿necesitarás que venga a hacerte compañía esta noche?
 
@@ -145,15 +131,11 @@ Los primeros que notaron el cambio fueron sus padres. Ya de por sí no estaban n
 
 Ella no sabía por qué enigma de su propia psique había cometido el atrevimiento de insinuarse de esa manera. Esa no era una actitud propia de ella. No se reconocía en esa frase. Durante la cena la asaltaba una ansiedad insidiosa. Estaba asustada, pero llena de vida y de nuevas emociones. 
 
-El cuarto de Aquilino era pequeño. Todo el mobiliario constaba de una cama individual, un escritorio y una cajonera. Sofía ya ni siquiera luchaba en contra de ella misma. Estaba decidida a sucumbir de una vez por todas. Aquilino volvió a besarla, esta vez con una paciencia y suavidad electrizantes. Fue un beso aleluyático, secretamente esperado por ambos en una espera sufrida y llena de culpas vividas precozmente. Un segundo beso los convenció de que sus bocas ya se habían besado muchas veces antes, en sueños, en pensamientos o en simples evocaciones y suspiros furtivos. Los besos se fueron sucediendo unos a otros con una voracidad creciente; las miradas se miraban a ellas mismas, como queriendo encontrar las respuestas a aquellas preguntas que nunca fueron formuladas. Las caricias se esparcían por sus pieles con virulencia. Aquilino descubría pacientemente la piel de Sofía como si fuera un delicado pergamino plagado de misteriosas consonantes indescifrables. Y se sentía retado a descubrirlo, a desvelar todo su misterio y a extraer el significado de cada vocablo trazado por la mano del mismo Creador. Sofía, por primera vez en su vida, sentía que su cuerpo era algo más que un simple cuerpo, las caricias recibidas la hacían sentir como un ser único que yacía oculto, en la penumbra de los sentimientos. El último abrazo antes de dormirse fue el culmen de aquél pandemio precipitado. Esa noche ella no pudo dormir.  
+El cuarto de Aquilino era pequeño. Todo el mobiliario constaba de una cama individual, un escritorio y una cajonera. Sofía ya ni siquiera luchaba en contra de ella misma. Estaba decidida a sucumbir de una vez por todas. Aquilino volvió a besarla, esta vez con una paciencia y suavidad electrizantes. Fue un beso aleluyático, secretamente esperado por ambos en una espera sufrida y llena de culpas vividas precozmente. Un segundo beso los convenció de que sus bocas ya se habían besado muchas veces antes, en sueños, en pensamientos o en simples evocaciones y suspiros furtivos. Los besos se fueron sucediendo unos a otros con una voracidad creciente; las miradas se miraban a ellas mismas, como queriendo encontrar las respuestas a aquellas preguntas que nunca fueron formuladas. Las caricias se esparcían por sus pieles con virulencia. Aquilino descubría pacientemente la piel de Sofía como si fuera un delicado pergamino plagado de misteriosas consonantes indescifrables. Y se sentía retado a descubrirlo, a desvelar todo su misterio y a extraer el significado de cada vocablo trazado por la mano del mismo Creador. Sofía, por primera vez en su vida, sentía que su cuerpo era algo más que un simple cuerpo, las caricias recibidas la hacían sentir como un ser único que yacía oculto, en la penumbra de los sentimientos. El último abrazo antes de dormirse fue el culmen de aquél pandemio precipitado. Esa noche ella no pudo dormir. 
 
-
-
-## SEXTA PARTE 
+## SEXTA PARTE
 
 ## Chill Out
-
-
 
 El derrumbe emocional vino pronto. Ambos se miraron, al amanecer, en el mismo abismo, en la misma sima. De pronto, como si fueran los primigenios Adam y Eva, se sintieron avergonzados y oprimidos. Se miraban en silencio, había temor en esas miradas. Un temor que ellos mismos nunca habían experimentado. La sensación de haber cometido uno de los pecados más típicamente criticados en todos los círculos cristianos los llenaba de un paralizante sentimiento de derrota. 
 
@@ -187,15 +169,13 @@ El derrumbe emocional vino pronto. Ambos se miraron, al amanecer, en el mismo ab
 
 \-        Eso es lo que llamamos  “Tensión escatológica”, todo cristiano vive en la tensión entre el Ya (el aquí y ahora) y el Todavía no (el futuro escatológico) y ese Eskatos (final) solo ocurrirá en la Parusía (el final del final).
 
-Barcelona los esperaba afuera. Una vez más, cuando ambos comprendieron que, aunque pecadores, aun podían disponer de toda la gracia de Dios, sus vidas volvieron a encontrar una inquebrantable esperanza. Sonrieron complacidos y se dispusieron a descubrir juntos La Sagrada Familia de Gaudí. Aquél espléndido Temple expiatori… templo inconcluso, en obras infatigables desde hace casi cien años, como reflejo mismo de que somos pecadores en proyecto de ser concluidos algún día. iustus et pecator.  
+Barcelona los esperaba afuera. Una vez más, cuando ambos comprendieron que, aunque pecadores, aun podían disponer de toda la gracia de Dios, sus vidas volvieron a encontrar una inquebrantable esperanza. Sonrieron complacidos y se dispusieron a descubrir juntos La Sagrada Familia de Gaudí. Aquél espléndido Temple expiatori… templo inconcluso, en obras infatigables desde hace casi cien años, como reflejo mismo de que somos pecadores en proyecto de ser concluidos algún día. iustus et pecator. 
 
-## SÉPTIMA PARTE 
+## SÉPTIMA PARTE
 
 ## Dejavú Vs. Jamais vú
 
-
-
-\    La llamada telefónica le sentó bastante mal. Josué solía llamarla una vez a la semana. La primera vez Sofía lloró, la segunda vez se sintió rescatada de la soledad que le proveía Barcelona y conversó gustosamente mientras miraba a través de la ventana de su habitación. La tercera empezó a sentirse presa de una especie de déjà vu telefónico y le dejó una sensación de monotonía en la conversación: las mismas preguntas, las mismas respuestas, las mismas risas, los mismos tequieros y teextraños e incluso descubrió que su cuerpo adoptaba las mismas posturas y en los mismos lugares. La cuarta tuvo que ser fugaz por motivos inexplicados. Luego del acostumbrado saludo de Josué (que siempre pretendía provocar una reacción de sorpresa en ella), la ya muchas veces pronunciada liturgia se tornó vacía y pesada. Eran las mismas palabras que la hicieron llorar de emoción la primera vez pero ya huecas, carentes de emociones y de significados. La práctica viva se convirtió de improviso en un acto religioso carente de vida. Se cumplía entonces la fatal verdad de que todo lo que se repite se convierte en hábito, y todo hábito que olvida por qué debería perpetuarse, termina por hastiar. 
+La llamada telefónica le sentó bastante mal. Josué solía llamarla una vez a la semana. La primera vez Sofía lloró, la segunda vez se sintió rescatada de la soledad que le proveía Barcelona y conversó gustosamente mientras miraba a través de la ventana de su habitación. La tercera empezó a sentirse presa de una especie de déjà vu telefónico y le dejó una sensación de monotonía en la conversación: las mismas preguntas, las mismas respuestas, las mismas risas, los mismos tequieros y teextraños e incluso descubrió que su cuerpo adoptaba las mismas posturas y en los mismos lugares. La cuarta tuvo que ser fugaz por motivos inexplicados. Luego del acostumbrado saludo de Josué (que siempre pretendía provocar una reacción de sorpresa en ella), la ya muchas veces pronunciada liturgia se tornó vacía y pesada. Eran las mismas palabras que la hicieron llorar de emoción la primera vez pero ya huecas, carentes de emociones y de significados. La práctica viva se convirtió de improviso en un acto religioso carente de vida. Se cumplía entonces la fatal verdad de que todo lo que se repite se convierte en hábito, y todo hábito que olvida por qué debería perpetuarse, termina por hastiar. 
 
 Sofía y Josué habían creado un sinnúmero de códigos repetitivos por medio de los cuales se relacionaban. Era un protocolo detallado y bien estructurado que les permitía quererse sin correr riesgos, era un amor de seguridad matemática. Si se cumplía correctamente con cada elemento, el final previsto venía sin lugar a dudas. 
 
@@ -215,13 +195,10 @@ Al estar completamente solo e inmóvil se percató por primera vez del latente s
 
 En realidad solo había pasado un minuto desde que se separó de Aquilino. Solo había caminado unos cuantos metros, pero ya no supo regresar. Caminó por la misma calle por la que había venido, pero ya todo le parecía desconocido, como si nunca hubiera estado en ese lugar, aunque ciertamente había estado ahí hacía solo unos instantes. La sensación de estar perdida la empezaba a asustar. Cada paso que daba se escuchaba por toda la calle, lo cual la asustaba aun más. No se atrevía a gritar porque sabía que el ruido y el eco la llenarían de temor. Decidió entonces llamar al teléfono celular de Aquilino. 
 
+## OCTAVA PARTE
 
-
-## OCTAVA PARTE  
-
-## AuroraTeología para un nuevo amanecer(a)
-
-
+## Aurora Teología para un nuevo amanecer
+(a)
 
 Era una noche muy silenciosa en un lugar completamente desierto, y Sofía no podía hacer otra cosa que esperar. Aquilino buscaba con insistencia, corría y recorría las mismas calles una y otra vez. Había empezado a hacer frío y Clara se sentó asustada en el portal de un vetusto edificio. Oró más con miedo que con fe y empezó a llorar en silencio. Pensó que lo que mejor podía hacer era quedarse a esperar en ese portal hasta que apareciera Aquilino, confiaba plenamente en él. 
 
@@ -255,15 +232,13 @@ El niño tosió fuerte. Luego sintió cómo una fuerza fulminante le arrancaba a
 
 Escaló la roca. Esta estaba cerca de la orilla y el pequeño Aquilino dio el mayor de sus saltos y cayó de rodillas en el lodazal. El Claro era ahora un vado de fango, un desgarriate de piedras, ramas, y algunos árboles arrancados de cuajo que flotaban sobre las aguas enturbiadas por el barro. Aquilino se sentó sobre el lodo a esperar a su padre. La noche empezaba a asomarse con su rostro tartáreo. La lluvia no amainaba y el frío arreciaba. 
 
-Como vio que su padre no venía, decidió buscarlo. Se volvió a internar en la selva que exudaba un olor bravo en un vaho viscoso. Los insectos se lo querían comer pero su cuerpo, entumecido por el frío, ya no sentía las picaduras. Caminó unos metros, pero la noche le impedía encontrar el camino de regreso, por donde habían venido. Decidió regresar a El Claro para buscar las mochilas y sacar de ellas una linterna. Pero tampoco encontró el camino para regresar a El Claro. Sintió pánico una vez más, corrió asustado entre la selva conteniendo el llanto para poder respirar. Buscó a su padre con el corazón desnudo y el alma descalza -igual que su cuerpo- hasta que resbaló por tercera vez, y se vio envuelto en fango hasta la cintura. Entonces se detuvo extenuado y extraviado. No se daba por vencido, pero sabía que seguir recorriendo la selva no resolvía nada. Se llevó ambas manos a la cara, cubriéndose la nariz y la boca en señal de desconcierto, luego se dejó caer lentamente hasta acabar sentado, en posición de fracaso.   Se cubrió con una “sombrilla de pobre” pero el agua continuaba cayendo sobre él. Entonces supo que, aunque fuera tan grande e idéntica a la otra, esa hoja no era una “sombrilla de pobre”.  Fue cuando se preguntó por primera vez dónde estaba Dios. 
+Como vio que su padre no venía, decidió buscarlo. Se volvió a internar en la selva que exudaba un olor bravo en un vaho viscoso. Los insectos se lo querían comer pero su cuerpo, entumecido por el frío, ya no sentía las picaduras. Caminó unos metros, pero la noche le impedía encontrar el camino de regreso, por donde habían venido. Decidió regresar a El Claro para buscar las mochilas y sacar de ellas una linterna. Pero tampoco encontró el camino para regresar a El Claro. Sintió pánico una vez más, corrió asustado entre la selva conteniendo el llanto para poder respirar. Buscó a su padre con el corazón desnudo y el alma descalza -igual que su cuerpo- hasta que resbaló por tercera vez, y se vio envuelto en fango hasta la cintura. Entonces se detuvo extenuado y extraviado. No se daba por vencido, pero sabía que seguir recorriendo la selva no resolvía nada. Se llevó ambas manos a la cara, cubriéndose la nariz y la boca en señal de desconcierto, luego se dejó caer lentamente hasta acabar sentado, en posición de fracaso.   Se cubrió con una “sombrilla de pobre” pero el agua continuaba cayendo sobre él. Entonces supo que, aunque fuera tan grande e idéntica a la otra, esa hoja no era una “sombrilla de pobre”.  Fue cuando se preguntó por primera vez dónde estaba Dios.
 
+## NOVENA PARTE
 
-
-## NOVENA PARTE 
-
-##  AuroraTeología para un nuevo amanecer(b) 
-
-
+## Aurora
+Teología para un nuevo amanecer
+(b)
 
 \-Sofía, no llores, por Dios, cálmate.
 
@@ -317,7 +292,7 @@ Lo había amado intensamente desde hacía un año. A veces se despertaba de madr
 
 Se entrega sin reservas a la espiral de fuego que se cierne sobre ella, que la abraza, que la hiere, que la penetra, que la posee. No hay opción, no hay salida. Crujen sus dientes. Quiere llorar pero no recuerda cómo hacerlo. Apenas y logra emitir un balido desganado y ridículo. El dolor la obliga a salir de su aturdimiento, la aplasta contra una pausa inmisericorde y precipitada. Ahí se contemplan como dos extraños. Ojos de fuego que se estrellan contra ojos de sangre. Una pausa de flamas que penetran, de hielo que restalla... Nada se mueve, excepto dos corazones agitados, excepto la vida, lágrima tímida que se arrastra humillada por la mejilla. Todo se petrifica: ola, sangre y tiempo. Un silencio absoluto que se precipita luego hacia un abismo poderoso de muerte y resurrección. El reloj de péndulo daba las cinco y media de la tarde. Era el comienzo del Shabat.
 
-Sofía lloraba, y sus sollozos emocionaron de tal manera a su amigo que éste no pudo evitar romper en llanto junto a ella.   
+Sofía lloraba, y sus sollozos emocionaron de tal manera a su amigo que éste no pudo evitar romper en llanto junto a ella.  
 
 \-Cuando se lo conté a mi padre, me dijo que eso era normal, que no llorara, que todo estaba bien. Me dijo que yo tenía que casarme con él, porque después de lo que habíamos hecho ya nadie me iba a querer. Yo no podía dejar de llorar, entonces me pegó una bofetada y, apuntándome con el dedo, me hizo jurar que no se lo contaría a nadie. Me dijo que eso supondría la vergüenza y la ruina para ambas familias. Y que si eso llegaba a suceder, toda la culpa recaería sobre mí y no se me perdonaría jamás semejante traición. Por eso lo odio. Lo odio con todas mis fuerzas -Volvió a llorar con un llanto lleno de rencor-. Ya ves, –continuó en medio del llanto- tú lloras porque amas a tu padre pero no lo tienes; yo lloro porque lo odio y no puedo deshacerme de él. 
 
