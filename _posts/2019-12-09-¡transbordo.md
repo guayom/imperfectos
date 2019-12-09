@@ -9,10 +9,6 @@ date: '2019-12-09T12:20:44-06:00'
 img: /images/7-72568_war-clipart-battleship-navy-ship-clipart.png
 thumb: /images/7-72568_war-clipart-battleship-navy-ship-clipart.png
 ---
-LEA LAS DOS PRIMERAS CARTAS AQUI: https://www.imperfectos.org/blog/2019/12/08/cambio-de-planes-2.html?fbclid=IwAR2m8TRNMB6WK7ghcUbx_zgUFBuRf8nWviSr6_zMj3JWzN_sEnOniwy14rA 
-
-
-
 Querido Santi, 
 
 Hoy nos han notificado que tu desempeño abordo del Santa Fe ha sido conmovedor.  
@@ -32,3 +28,7 @@ Todas las cosas empiezan a pintar mejor.
 ¡Hasta la victoria siempre mi pequeño compañero!
 
 Papá.
+
+
+
+LEA LAS DOS PRIMERAS CARTAS AQUI: https://www.imperfectos.org/blog/2019/12/08/cambio-de-planes-2.html?fbclid=IwAR2m8TRNMB6WK7ghcUbx_zgUFBuRf8nWviSr6_zMj3JWzN_sEnOniwy14rA
