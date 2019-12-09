@@ -9,15 +9,15 @@ date: '2019-12-08T16:53:13-06:00'
 img: /images/a-10-thunderbolt-ii-over-the-desert-weston-westmoreland.jpg
 thumb: /images/a-10-thunderbolt-ii-over-the-desert-weston-westmoreland.jpg
 ---
-Lea la primera parte aquí: https://www.imperfectos.org/blog/2019/12/07/cambio-de-planes.html\
-\
+**LEA LA PRIMERA PARTE AQUÍ**: https://www.imperfectos.org/blog/2019/12/07/cambio-de-planes.html
+
 Querido Santi, 
 
 Hemos avanzado suficiente en esta misión como para volver atrás. Recordá que ese es uno de nuestros lemas de batalla: “El capitán no nos ha traído hasta aquí para volver atrás”.  Sé que estás cansado y que has luchado día y noche. Desde aquí te felicitamos por tu desempeño abordo. 
 
 <!--more-->
 
-No hagas caso a los rumores que se han diseminado desde hace un par de días. Algunos inconscientes solo quieren desmoralizar a la tripulación. Es cierto que hubo una escaramuza un tanto violenta hace 48 horas y que esto requirió emplearnos a fondo. Una cohorte de pequeños rufianes invadió nuestro territorio con muy malas intenciones. Estos pequeños ejércitos parecen inofensivos, muchas veces pasan completamente desapercibidos, pero no hay que confiarse, no se andan con medias tintas. Por suerte en nuestro arsenal contábamos con suficiente munición. Torpedeamos sin piedad hasta que emprendieron la retirada. Si los vieras como se iban despavoridos y acobardados. Una de las mejores escenas en lo que va de misión a bordo de este submarino nuclear. 
+No hagas caso a los rumores que se han diseminado desde hace un par de días. Algunos inconscientes solo quieren desmoralizar a la tripulación. Es cierto que hubo una escaramuza un tanto violenta hace 48 horas y que esto requirió emplearnos a fondo. Una cohorte de pequeños rufianes invadió nuestro territorio con muy malas intenciones. Estos pequeños ejércitos parecen inofensivos, muchas veces pasan completamente desapercibidos, pero no hay que confiarse, no se andan con medias tintas. Por suerte en nuestro arsenal contábamos con suficiente munición. Torpedeamos sin piedad hasta que emprendieron la retirada. Si los vieras como se iban despavoridos y acobardados. Una de las mejores escenas en lo que va de misión en este submarino nuclear. 
 
 Ya sé que esto del submarino te tomó por sorpresa. Tu entrenamiento, basado en _La vuelta al mundo en 80 días_, incluía todo tipo de transporte, excepto el submarino. El plan era que leyeras _20 mil leguas de viaje submarino_, también de Julio Verne, para que te experimentaras dentro del _Nautilus._ Pero nada de eso ocurriría antes del próximo enero. De momento quiero contarte que otra niña tuvo que afrontar una misión inesperada en condiciones muy similares a las tuyas. Se llamó Ana Frank. Tenía 13 años y tuvo que permanecer unos 2 años escondida en un ático pequeño y, muchas veces, en profundo mutis durante días enteros. Lamentablemente aquella misión no tuvo un buen desenlace. En aquel entonces el mundo estaba de rodillas ante un loco y su cohorte de rufianes. Hoy por hoy, y en nuestro caso, las cosas son muy diferentes. 
 
