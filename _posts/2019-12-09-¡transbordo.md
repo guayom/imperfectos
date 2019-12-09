@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: ¡TRANSBORDO!
 date: '2019-12-09T12:20:44-06:00'
-img: /images/cargas-de-profundidad-d.jpg
-thumb: /images/cargas-de-profundidad-d.jpg
+img: /images/cartoon-battleship-with-big-guns-vector-22842796.jpg
+thumb: /images/cartoon-battleship-with-big-guns-vector-22842796.jpg
 ---
 LEA LAS DOS PRIMERAS CARTAS AQUI: https://www.imperfectos.org/blog/2019/12/08/cambio-de-planes-2.html?fbclid=IwAR2m8TRNMB6WK7ghcUbx_zgUFBuRf8nWviSr6_zMj3JWzN_sEnOniwy14rA \
 \
