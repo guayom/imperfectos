@@ -9,6 +9,8 @@ date: '2019-12-09T12:20:44-06:00'
 img: /images/cargas-de-profundidad-d.jpg
 thumb: /images/cargas-de-profundidad-d.jpg
 ---
+LEA LAS DOS PRIMERAS CARTAS AQUI: https://www.imperfectos.org/blog/2019/12/08/cambio-de-planes-2.html?fbclid=IwAR2m8TRNMB6WK7ghcUbx_zgUFBuRf8nWviSr6_zMj3JWzN_sEnOniwy14rA \
+\
 Querido Santi, 
 
 Hoy nos han notificado que tu desempeño abordo del Santa Fe ha sido conmovedor.  Has tenido una disciplina estoica ante cada situación.  Los días han pasado y, de vez en cuando, el tiempo parecía detenerse en una especie inercia desesperante. Pero has sabido sortear la desesperación. En el ultimo comunicado te dije que había habido una fuerte escaramuza con un ejército de pequeños rufianes. Supongo que ya sabes que se trataba de una batalla descrita como “guerra bacteriológica”. No comprendo por qué la gente dice que las “guerras bacteriológicas” son las guerras del futuro, si son justamente las más antiguas que ha tenido que superar el ser humano. Mucho antes que las guerras contra las fieras, o las guerras de clanes y, evidentemente, mucho antes de los tanques y las balas, ya el ser humano había tenido que encarar la temida guerra contra las huestes bacterianas, esos seres letales que resultan del todo invisibles para el ojo natural. 
