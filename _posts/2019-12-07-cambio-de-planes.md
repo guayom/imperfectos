@@ -28,3 +28,7 @@ Seguimos en la misión.
 ¡Hasta la victoria siempre mi pequeño compañero!
 
 Papá.
+
+
+
+LEA LA SIGUIENTE PARTE AQUI: https://www.imperfectos.org/blog/2019/12/08/cambio-de-planes-2.html?fbclid=IwAR1pSxc1pj7vFf63Gv_M-tEATyAZL6VbPKoOJ950Ra18JrHd8sRzfYwUNH4
