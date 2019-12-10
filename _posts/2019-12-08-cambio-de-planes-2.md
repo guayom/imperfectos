@@ -26,3 +26,7 @@ Hay otro rumor, querido Santi, que se ha querido instalar en la mente de nuestro
 Hasta aquí por ahora, 
 
 Papá.
+
+
+
+**LEA LA SIGUIENTE PARTE AQUÍ**: https://www.imperfectos.org/blog/2019/12/09/transbordo.html?fbclid=IwAR0IfISgwzNNtdjKly5bNNLgUdPOodXW6tyvI4t7F3LzOb1NPFR7TLH0ERk
