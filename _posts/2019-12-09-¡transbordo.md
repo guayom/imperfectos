@@ -30,3 +30,5 @@ Todas las cosas empiezan a pintar mejor.
 Papá.
 
 LEA LAS DOS PRIMERAS CARTAS AQUI: https://www.imperfectos.org/blog/2019/12/08/cambio-de-planes-2.html?fbclid=IwAR2m8TRNMB6WK7ghcUbx_zgUFBuRf8nWviSr6_zMj3JWzN_sEnOniwy14rA
+
+LEA LA SIGUIENTE CARTA AQUI: https://www.imperfectos.org/blog/2019/12/11/los-rufianes-contraatacan.html
