@@ -15,7 +15,7 @@ Te escribo desde mi litera del Anástasis. Ya supe que el nombre de este barco v
 
 <!--more-->
 
-Te cuento que la misión avanza muy bien luego de casi 10 días de intensas batallas.  Primero en el submarino nuclear Santa Fe, con todos esos artefactos especializados y la escafandra galáctica; Ahora en el Anástasis, en mejores condiciones. No te preocupes por los pequeños rufianes que nos han atacado sin piedad, tenemos un gran equipo especializado que los está empezando a mantener a raya. También tenemos suficiente arsenal de última microtecnología. 
+Te cuento que la misión avanza muy bien luego de casi 10 días de intensas batallas.  Primero en el submarino nuclear Santa Fe, con todos esos artefactos especializados y la escafandra galáctica; Ahora en el Anástasis, en mejores condiciones. No te preocupes por los pequeños rufianes que nos han atacado sin piedad, tenemos un gran equipo especializado que los está empeando a mantener a raya. También tenemos suficiente arsenal de última microtecnología. 
 
 Al principio la comida era como la de los astronautas, pero ahora es comida normal. No me gusta. Si pudieras abastecerme con sandwiches de Subway, pan de orégano y queso parmesano, rellenos de jamón y queso provolone con extra de aceitunas, sería de gran ayuda. 
 
@@ -31,5 +31,4 @@ Con las máscaras que usan para estar aquí no puedo ver sus labios y no sé si 
 
 Santi.
 
-\
-LEA AQUI LAS TODAS LAS CARTAS: https://www.imperfectos.org/blog/2019/12/07/cambio-de-planes.html?fbclid=IwAR2ents4nCnu8PVhXHZj3Njx4oUJBVdwZHTTYJEQ7Y5RiWPNuDx-FkBS0m4
+LEA AQUI LAS CARTAS ANTERIORES: https://www.imperfectos.org/blog/2019/12/07/cambio-de-planes.html?fbclid=IwAR2ents4nCnu8PVhXHZj3Njx4oUJBVdwZHTTYJEQ7Y5RiWPNuDx-FkBS0m4
