@@ -30,3 +30,6 @@ Con las máscaras que usan para estar aquí no puedo ver sus labios y no sé si 
 ¡Hasta la victoria siempre querido papi!
 
 Santi.
+
+\
+LEA AQUI LAS TODAS LAS CARTAS: https://www.imperfectos.org/blog/2019/12/07/cambio-de-planes.html?fbclid=IwAR2ents4nCnu8PVhXHZj3Njx4oUJBVdwZHTTYJEQ7Y5RiWPNuDx-FkBS0m4
