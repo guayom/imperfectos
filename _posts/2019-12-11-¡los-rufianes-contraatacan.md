@@ -33,4 +33,6 @@ No llores, o bueno, si llora todo lo que creas necesario. Llorar no expresa debi
 
 Papá. 
 
+LEA AQUI LA CARTA SIGUIENTE: https://www.imperfectos.org/blog/2019/12/13/extra-de-aceituna-por-favor.html
+
 LEA AQUI LAS CARTAS ANTERIORES: https://www.imperfectos.org/blog/2019/12/07/cambio-de-planes.html?fbclid=IwAR3Vv5a8SPZ8-0f1JH7WIS5YAWsaVv3sWzbEq1SLnc2XiBXtsOaWfOZNldY
