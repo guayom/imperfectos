@@ -17,7 +17,7 @@ Te escribo desde mi litera del Anástasis. Ya supe que el nombre de este barco v
 
 Te cuento que la misión avanza muy bien luego de casi 10 días de intensas batallas.  Primero en el submarino nuclear Santa Fe, con todos esos artefactos especializados y la escafandra galáctica; Ahora en el Anástasis, en mejores condiciones. No te preocupes por los pequeños rufianes que nos han atacado sin piedad, tenemos un gran equipo especializado que los está empeando a mantener a raya. También tenemos suficiente arsenal de última microtecnología. 
 
-Al principio la comida era como la de los astronautas, pero ahora es comida normal. No me gusta. Si pudieras abastecerme con sandwiches de Subway, pan de orégano y queso parmesano y rellenos de jamón y queso Provolone con extra de aceitunas, sería de gran ayuda. 
+Al principio la comida era como la de los astronautas, pero ahora es comida normal. No me gusta. Si pudieras abastecerme con sandwiches de Subway, pan de orégano y queso parmesano, rellenos de jamón y queso provolone con extra de aceitunas, sería de gran ayuda. 
 
 Estoy feliz, aunque me aburro como una ostra. 
 
