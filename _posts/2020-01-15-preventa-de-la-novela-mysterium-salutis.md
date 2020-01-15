@@ -13,6 +13,8 @@ MYSTERIUM SALUTIS (Misterio de salvación): El 26 de febrero del 2007 fue hallad
 
 Una novela que combina misterio, teología, historia y política, una historia apasionante que nos conduce por parajes antiguos que parecieran tener las claves para comprender la Latinoamérica de hoy.
 
-PRE-ORDENE SU LIBRO AQUIÍ: https://www.imperfectos.org/contacto.html
+PRE-ORDENE SU LIBRO AQUÍ: https://www.imperfectos.org/contacto.html
+
+WHATSAPP (506) 60500416
 
 SOBRE EL AUTOR Y OTROS LIBROS: https://www.imperfectos.org/blog/2018/07/15/paradoxa-prologo.html
