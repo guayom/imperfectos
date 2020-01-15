@@ -4,7 +4,7 @@ published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: PREVENTA DE LA NOVELA MYSTERIUM SALUTIS
+title: PREVENTA DE LA NOVELA MYSTERIUM SALUTIS DE JOSE CHACON
 date: '2020-01-15T15:52:05-06:00'
 img: /images/portada.png
 thumb: /images/portada.png
@@ -13,6 +13,6 @@ MYSTERIUM SALUTIS (Misterio de salvación): El 26 de febrero del 2007 fue hallad
 
 Una novela que combina misterio, teología, historia y política, una historia apasionante que nos conduce por parajes antiguos que parecieran tener las claves para comprender la Latinoamérica de hoy.
 
-PREORDENE SU LIBRO AQUIÍ: https://www.imperfectos.org/contacto.html
+PRE-ORDENE SU LIBRO AQUIÍ: https://www.imperfectos.org/contacto.html
 
 SOBRE EL AUTOR Y OTROS LIBROS: https://www.imperfectos.org/blog/2018/07/15/paradoxa-prologo.html
