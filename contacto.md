@@ -1,7 +1,7 @@
 ---
 title: Imperfectos.org - PRE ORDENE
 extraclass: sp-page
-img: /images/3.png
+img: /images/paradoja.jpeg
 permalink: /contacto/
 layout: contacto
 ---
