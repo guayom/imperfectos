@@ -19,11 +19,6 @@ El odio expontáneo es una ficción. No estamos odiando a ese ser que no conocem
 
 Es como si se escuchara un gigantesco coro que repite hipnóticamente una canción que reza: 
 
->
->
-> \
->
->
 > _Dame algo que pueda odiar con todas mis fuerzas, lo que sea, _
 >
 > \
