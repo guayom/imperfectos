@@ -21,28 +21,13 @@ Es como si se escuchara un gigantesco coro que repite hipnóticamente una canci�
 
 > _Dame algo que pueda odiar con todas mis fuerzas, lo que sea, _
 >
-> \
->
->
 > _un perro, una mosca, una mujer, un diputado, un cristiano, un ateo. _
 >
-> \
->
->
 > _Dame algo que pueda odiar con todas mis fuerzas, lo que sea, _
->
-> \
->
 >
 > _un político, un pastor, una lesbiana, un bebé, un árbol, un sacerdote o un payaso. _
 >
-> \
->
->
 > _Dame algo que pueda odiar con todas mis fuerzas, lo que sea, _
->
-> \
->
 >
 > _Un papá, una mamá, un abuelo, un maestro... yo. _
 
@@ -50,27 +35,12 @@ La gente odia a ciegas, con dardos envenenados en las manos, listos para ser dis
 
 > Dame algo que pueda odiar con todas mis fuerzas, lo que sea, 
 >
-> \
->
->
 > un perro, una mosca, una mujer, una lesbiana, un cristiano, un ateo. 
 >
-> \
->
->
 > Dame algo que pueda odiar con todas mis fuerzas, lo que sea, 
->
-> \
->
 >
 > un político, un pastor, un bebé, un árbol, un sacerdote o un payaso. 
 >
-> \
->
->
 > Dame algo que pueda odiar con todas mis fuerzas, lo que sea, 
->
-> \
->
 >
 > Un papá, una mamá, un abuelo, un maestro... yo.
