@@ -13,7 +13,7 @@ Por sorprendente que parezca, ya nosotros estuvimos allá, donde el miedo parali
 
 <!--more-->
 
-Retrocedamos al Martes 3 de diciembre del 2019. Justo cuando en Wuhan estaba empezando el brote del nuevo Coronavirus, silencioso, como un fantasma, en Costa Rica mi hijo amanecía sin aliento. Pero no era como las otras veces. Esta vez no había tiempo de racción. Se nos iba. No respiraba. Corrimos, le conectamos el cilindro de oxígeno que tenemos en casa, máxima presión. Nebulizamos una, dos, tres veces. El oxímetro seguía descendiendo, 80, 78, 69... se nos iba. 
+Retrocedamos al Martes 3 de diciembre del 2019. Justo cuando en Wuhan estaba empezando el brote del nuevo Coronavirus, silencioso, como un fantasma, en Costa Rica mi hijo amanecía sin aliento. Pero no era como las otras veces. Esta vez no había tiempo de reacción. Se nos iba. No respiraba. Corrimos, le conectamos el cilindro de oxígeno que tenemos en casa, máxima presión. Nebulizamos una, dos, tres veces. El oxímetro seguía descendiendo, 80, 78, 69... se nos iba. 
 
 Corrimos al carro con el niño sin aliento. La hermana a cuestas, y el corazón congelado. Llegamos al EBAIS donde no lograron hacer nada, nos dijeron que no podíamos esperar una ambulancia, que lo lleváramos directo al Hospital de Niños. 
 
@@ -29,8 +29,8 @@ El sonido del respirador artificial. Los tubos y mangueras de la vida artificial
 
 Dios. 
 
-Los análisis no arrojaban nada. Un virus, si pero no se supo nunca cuál... miércoles 4 de diciembre, grave, 5,6,7,8 un intento de extubación fallido. Todo regresó al estado crítico. No respira, no responde. El día 10 otro intento de extubación, exitoso. Ahora en infectología, investigaciones, exámentes, nos acercamos con máscaras, batas especiales, lavados... lo usual en estas situaciones. Día 14 de diciembre, vamos a casa. 
-
+Los análisis no arrojaban nada. Un virus, si pero no se supo nunca cuál... miércoles 4 de diciembre, grave, 5,6,7,8 un intento de extubación fallido. Todo regresó al estado crítico. No respira, no responde. El día 10 otro intento de extubación, exitoso. Ahora en infectología, investigaciones, exámentes, nos acercamos con máscaras, batas especiales, lavados... lo usual en estas situaciones. Día 14 de diciembre, vamos a casa. \
+\
 Su voz no volvió a ser la misma, 3 cirugías le sucedieron a su primer internamiento de emergencia.  La intubación inicial había lesionado su tráquea y cuerdas vocales. 
 
 Regresemos al futuro.  Hoy, 29 de marzo del 2020, un nuevo virus que provoca complicaciones respiratorias, neumonía y la muerte recorre el mundo. No hay suficientes respiradores para todos los pacientes de UCI en varios países. El planeta se detiene, se arrodilla, teme, tiembla, reza, impreca y se aisla. 
