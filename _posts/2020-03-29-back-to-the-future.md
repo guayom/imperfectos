@@ -11,6 +11,8 @@ thumb: /images/back-to-the-future.jpg
 ---
 Por sorprendente que parezca, ya nosotros estuvimos allá, donde el miedo paraliza y donde las preguntas se atropellan en el vacío. 
 
+<!--more-->
+
 Retrocedamos al Martes 3 de diciembre del 2019. Justo cuando en Wuhan estaba empezando el brote del nuevo Coronavirus, silencioso, como un fantasma, en Costa Rica mi hijo amanecía sin aliento. Pero no era como las otras veces. Esta vez no había tiempo de racción. Se nos iba. No respiraba. Corrimos, le conectamos el cilindro de oxígeno que tenemos en casa, máxima presión. Nebulizamos una, dos, tres veces. El oxímetro seguía descendiendo, 80, 78, 69... se nos iba. 
 
 Corrimos al carro con el niño sin aliento. La hermana a cuestas, y el corazón congelado. Llegamos al EBAIS donde no lograron hacer nada, nos dijeron que no podíamos esperar una ambulancia, que lo lleváramos directo al Hospital de Niños. 
