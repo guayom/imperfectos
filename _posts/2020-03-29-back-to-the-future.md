@@ -4,7 +4,7 @@ published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: 'Back to the future '
+title: BACK TO THE FUTURE
 date: '2020-03-29T15:16:53-06:00'
 img: /images/back-to-the-future.jpg
 thumb: /images/back-to-the-future.jpg
