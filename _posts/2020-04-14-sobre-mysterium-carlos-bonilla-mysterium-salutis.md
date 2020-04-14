@@ -9,7 +9,6 @@ date: '2020-04-14T16:30:55-06:00'
 img: /images/portada.png
 thumb: /images/portada.png
 ---
-\
 Estimado Jose:
 
 <!--more-->
