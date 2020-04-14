@@ -23,5 +23,4 @@ Con mi abrazo fraterno,
 
 Carlos Bonilla
 
-\--\
 _Carlos Bonilla Avendaño (Heredia, Costa Rica, 1954). Estudió Teología y Derecho, y trabajó con comunidades campesinas y con migrantes nicaragüenses, en un acompañamiento legal, organizativo y pastoral. Posteriormente fue diplomático, representando a su país en Nicaragua, hasta su reciente jubilación. Sus poemarios publicados son: “Alguien grita mi nombre y yo me escondo” (1996), “Puerta de los ciegos” (2000), “Tren sin retorno” (2001) y “Campanas bajo el mar” (2019). Poemas suyos están incluidos en varias antologías latinoamericanas. “Como el beso de un ángel” su ultimo libro publicado  el cual aparece en coedición en la Colección Bajo Cuerda de Hebel Ediciones y El último Adán de Tiberíades Ediciones. El mismo fue finalista del Premio Rey David de Poesía Iberoamericana._
