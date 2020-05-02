@@ -51,14 +51,14 @@ De repente podemos ver a un ser solitario, diferente, esgrimiendo una batuta. Es
 
 Dios pedía demasiado de mi. ¿Era Dios? ¿Era la comunidad? ¿Era la religión? Nos toca ser libres. Parece imposible que la cuerda del violín pueda despojarse del violín y que éste a su vez se libere del insensible violinista que lo oprime. Pero sí se puede. Podemos levantar nuestros ojos, más allá del arco y las clavijas, más allá de la mano entrenada del músico y vislumbrar allá, a lo lejos, el rostro compasivo del director de la orquesta, que nos dice. Mírame a mi, solo a mi, yo apruebo tu sonido. Sígueme. 
 
-_**¡Ya se te ha declarado lo que es bueno!**_
-
-_**Ya se te ha dicho lo que de ti espera el Señor:**_
-
-_**Practicar la justicia,**_
-
-_**amar la misericordia,**_
-
-_**y ser humilde ante tu Dios.**_
-
-_**Miqueas 6:8**_
+> ## ¡Ya se te ha declarado lo que es bueno!
+>
+> ## Ya se te ha dicho lo que de ti espera el Señor:
+>
+> ## Practicar la justicia,
+>
+> ## amar la misericordia,
+>
+> ## y ser humilde ante tu Dios.
+>
+> ## Miqueas 6:8
