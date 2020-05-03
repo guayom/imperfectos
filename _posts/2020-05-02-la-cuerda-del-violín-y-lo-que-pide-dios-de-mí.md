@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'La cuerda del violín y lo que pide Dios de mí. '
 date: '2020-05-02T17:10:34-06:00'
-img: /images/playing-violin-quietly.jpg
-thumb: /images/playing-violin-quietly.jpg
+img: /images/images.jpeg
+thumb: /images/images.jpeg
 ---
 Dios pedía demasiado de mí.  Escuché la frase como un escopetazo o una metralla. O quizás como un gran silencio doloroso. La pequeña mujer que la pronunció encarna a la escritora Deborah Feldman en la serie Unorthodox. En su libro Feldman relata cómo fue crecer en el seno de una comunidad judía ultraortodoxa jasídica en el barrio de Williamsburg, Nueva York. 
 
