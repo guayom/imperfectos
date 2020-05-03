@@ -4,7 +4,7 @@ published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: 'La cuerda del violín y lo que pide Dios de mí. '
+title: 'Unorthodox: La cuerda del violín y lo que pide Dios de mí. '
 date: '2020-05-02T17:10:34-06:00'
 img: /images/images.jpeg
 thumb: /images/images.jpeg
