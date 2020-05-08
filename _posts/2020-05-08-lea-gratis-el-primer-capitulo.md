@@ -11,20 +11,15 @@ thumb: /images/captura-de-pantalla-2020-05-08-a-la-s-03.37.01.png
 ---
 # SINOPSIS:
 
-\
 El 26 de febrero del 2007 fue hallado un cadáver femenino, o algo similar a un cadáver femenino, en la embajada de Alemania en Tel Aviv. Una muerte cada vez más enigmática que pronto desencadena un conflicto diplomático entre 11 países y el Vaticano. Para desentrañar la extraña muerte de esta mujer habrá que viajar en el tiempo, primero a la Stuttgart judía de 1745, luego a la Suiza protestante de 1525 y, a través de la música y las letras de una mujer católica, al Bermersheim vor der Höhe del año 1200. 
 
-Una novela que combina misterio, teología, historia y política, una historia apasionante que nos conduce por parajes antiguos que parecieran tener las claves para comprender la Latinoamérica de hoy.
-
-# 
-
-# 
+Una novela que combina misterio, teología, historia y política, una historia apasionante que nos conduce por parajes antiguos que parecieran tener las claves para comprender la Latinoamérica de hoy. <!--more-->
 
 # 1
 
 # Cayendo
 
-En un lugar de la Mancha, de cuyo nombre no quiero acordarme... Cervantes tendría sus buenas razones para querer olvidar, cosa que le respeto y le comprendo. Yo tampoco quiero acordarme de ciertos lugares, rostros y acontecimientos. Esto lo digo ahora, en esta solitaria y quejosa vejez, con mis barbas grises y mi sombrero de siempre haciéndome compañía en el sillón de al lado. En mi escritorio continúan todos esos papeles infames, las ya famosas cartas, el código y la Biblia. Hay demasiadas emociones comprometidas en ellos. Olvidaré deliberadamente lo que creo que no haría bien en contar. Quizás no me haga bien a mí, pero tampoco a quien lea estas páginas. Sobre todo, cuando pienso en aquel cadáver, si se le puede llamar así. <!--more-->
+En un lugar de la Mancha, de cuyo nombre no quiero acordarme... Cervantes tendría sus buenas razones para querer olvidar, cosa que le respeto y le comprendo. Yo tampoco quiero acordarme de ciertos lugares, rostros y acontecimientos. Esto lo digo ahora, en esta solitaria y quejosa vejez, con mis barbas grises y mi sombrero de siempre haciéndome compañía en el sillón de al lado. En mi escritorio continúan todos esos papeles infames, las ya famosas cartas, el código y la Biblia. Hay demasiadas emociones comprometidas en ellos. Olvidaré deliberadamente lo que creo que no haría bien en contar. Quizás no me haga bien a mí, pero tampoco a quien lea estas páginas. Sobre todo, cuando pienso en aquel cadáver, si se le puede llamar así. 
 
 Dicen que cuando uno está a punto de morir y justo en el instante en que el abatimiento físico llega a su culmen, se puede escuchar un ruido chirriante como de algo que se rompe lentamente provocando un chasquido prolongado y desagradable, una especie de zumbido envolvente que solo perciben los oídos del moribundo. Un escándalo horrísono, como el que produce la tensión eléctrica a su paso por un cable que es incapaz ya de soportar el torrente de voltios que avanza inexorablemente por su interior.
 
@@ -68,8 +63,9 @@ Ninguno de los dos había presenciado algo similar y seguían esperando órdenes
 
 –Para que la carne del cordero o la vaca sea kosher, el shoijet debe hacer un corte a lo largo del cuello del animal y dejar fluir la sangre hasta que ya no exista una sola gota en ninguno de los tejidos. Un rito similar es el que realizaría un musulmán para que la carne sea halal o lícita. En el caso del Islam, se debe pronunciar el nombre de Dios antes de hacer el corte con un movimiento continuo de un cuchillo afilado. El procedimiento se realiza con el animal mirando hacia la Meca.
 
-\
--NOTAS PRENSA
+
+
+**NOTAS PRENSA**
 
 ¿Qué dice Culturacr.net? Clic en https://bit.ly/CulturacrNet 
 
