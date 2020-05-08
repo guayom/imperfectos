@@ -9,6 +9,17 @@ date: '2020-05-08T02:44:34-06:00'
 img: /images/captura-de-pantalla-2020-05-08-a-la-s-03.37.01.png
 thumb: /images/captura-de-pantalla-2020-05-08-a-la-s-03.37.01.png
 ---
+# SINOPSIS:
+
+\
+El 26 de febrero del 2007 fue hallado un cadáver femenino, o algo similar a un cadáver femenino, en la embajada de Alemania en Tel Aviv. Una muerte cada vez más enigmática que pronto desencadena un conflicto diplomático entre 11 países y el Vaticano. Para desentrañar la extraña muerte de esta mujer habrá que viajar en el tiempo, primero a la Stuttgart judía de 1745, luego a la Suiza protestante de 1525 y, a través de la música y las letras de una mujer católica, al Bermersheim vor der Höhe del año 1200. 
+
+Una novela que combina misterio, teología, historia y política, una historia apasionante que nos conduce por parajes antiguos que parecieran tener las claves para comprender la Latinoamérica de hoy.
+
+# 
+
+# 
+
 # 1
 
 # Cayendo
@@ -57,4 +68,21 @@ Ninguno de los dos había presenciado algo similar y seguían esperando órdenes
 
 –Para que la carne del cordero o la vaca sea kosher, el shoijet debe hacer un corte a lo largo del cuello del animal y dejar fluir la sangre hasta que ya no exista una sola gota en ninguno de los tejidos. Un rito similar es el que realizaría un musulmán para que la carne sea halal o lícita. En el caso del Islam, se debe pronunciar el nombre de Dios antes de hacer el corte con un movimiento continuo de un cuchillo afilado. El procedimiento se realiza con el animal mirando hacia la Meca.
 
-![null](/images/primer-capítulo-grátis-2.png)
+\
+-NOTAS PRENSA
+
+¿Qué dice Culturacr.net? Clic en https://bit.ly/CulturacrNet 
+
+¿Qué dice CiudadCultura? Clic en https://bit.ly/CiudadCultura
+
+\-Carlos Bonilla sobre Mysterium
+
+https://www.imperfectos.org/…/sobre-mysterium-carlos-bonill…
+
+\-Lectura y video promo: https://www.facebook.com/jose.chacona/videos/1413473708860898/
+
+❣️PRECIO ₡12,000
+
+🛵INCLUYE ENVIO
+
+Contacto: 6050-0416
