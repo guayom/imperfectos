@@ -13,7 +13,7 @@ thumb: /images/primer-capítulo-grátis.png
 
 # Cayendo
 
-En un lugar de la Mancha, de cuyo nombre no quiero acordarme... Cervantes tendría sus buenas razones para querer olvidar, cosa que le respeto y le comprendo. Yo tampoco quiero acordarme de ciertos lugares, rostros y acontecimientos. Esto lo digo ahora, en esta solitaria y quejosa vejez, con mis barbas grises y mi sombrero de siempre haciéndome compañía en el si- llón de al lado. En mi escritorio continúan todos esos papeles infames, las ya famosas cartas, el código y la Biblia. Hay demasiadas emociones comprometidas en ellos. Olvidaré deliberadamente lo que creo que no ha- ría bien en contar. Quizás no me haga bien a mí, pero tampoco a quien lea estas páginas. Sobre todo, cuando pienso en aquel cadáver, si se le puede llamar así.
+En un lugar de la Mancha, de cuyo nombre no quiero acordarme... Cervantes tendría sus buenas razones para querer olvidar, cosa que le respeto y le comprendo. Yo tampoco quiero acordarme de ciertos lugares, rostros y acontecimientos. Esto lo digo ahora, en esta solitaria y quejosa vejez, con mis barbas grises y mi sombrero de siempre haciéndome compañía en el si- llón de al lado. En mi escritorio continúan todos esos papeles infames, las ya famosas cartas, el código y la Biblia. Hay demasiadas emociones comprometidas en ellos. Olvidaré deliberadamente lo que creo que no ha- ría bien en contar. Quizás no me haga bien a mí, pero tampoco a quien lea estas páginas. Sobre todo, cuando pienso en aquel cadáver, si se le puede llamar así. <!--more-->
 
 Dicen que cuando uno está a punto de morir y justo en el instante en que el abatimiento físico llega a su culmen, se puede escuchar un ruido chirriante co- mo de algo que se rompe lentamente provocando un chasquido prolongado y desagradable, una especie de zumbido envolvente que solo perciben los oídos del moribundo. Un escándalo horrísono, como el que produce la tensión eléctrica a su paso por un cable que es incapaz ya de soportar el torrente de voltios que avanza inexorablemente por su interior.
 
@@ -57,4 +57,4 @@ Ninguno de los dos había presenciado algo similar y seguían esperando órdenes
 
 –Para que la carne del cordero o la vaca sea kosher, el shoijet debe hacer un corte a lo largo del cuello del animal y dejar fluir la sangre hasta que ya no exista una sola gota en ninguno de los tejidos. Un rito si- milar es el que realizaría un musulmán para que la carne sea halal o lícita. En el caso del Islam, se debe pronunciar el nombre de Dios antes de hacer el corte con un movimiento continuo de un cuchillo afilado. El procedimiento se realiza con el animal mirando hacia la Meca.
 
-![](/images/primer-capítulo-grátis-2.png)
+![null](/images/primer-capítulo-grátis-2.png)
