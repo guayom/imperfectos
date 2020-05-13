@@ -4,7 +4,7 @@ published: true
 extraclass: sp-single
 categories: blog
 excerpt_separator: <!--more-->
-title: 'Un nuevo frente de batalla frente a mí. '
+title: Un nuevo frente de batalla.
 date: '2020-05-12T22:00:54-06:00'
 img: /images/original.gif
 thumb: /images/original.gif
