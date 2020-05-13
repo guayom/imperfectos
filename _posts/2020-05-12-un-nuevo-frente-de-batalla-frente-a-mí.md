@@ -13,7 +13,7 @@ Adelanto que no estoy en guerra. No todas las luchas son hijas de una guerra. Ha
 
 No estoy en guerra pero de vez en cuando surgen batallas. Las guerras presuponen la muerte del enemigo, las batallas pueden prescindir de la muerte porque tienen la habilidad de cargar con la vida propia y no con la muerte del otro. Para ganar una guerra alguien tiene que morir, para ganar una batalla no es necesario derramar sangre ni la eliminación del adversario. 
 
-Ya lo dije, no estoy en guerra. Pero estoy luchando. Recuerdo aquellas primeras luchas, las de niño. Primero la batalla contra el monstruo de debajo de la cama. Las lágrimas de miedo nocturno que se consolaban encendiendo una pequeña luz. No había que matar al monstruo, solo teníamos que intimidarlo con la luz. Luego vino la batalla contra la timidez, ese otros monstruo que me sigue persiguiendo con muecas burlonas. No lo he matado, pero he aprendido a encenderle las luces del empeño para que su mueca demude en rictus inofensivo. 
+Ya lo dije, no estoy en guerra. Pero estoy luchando. Recuerdo aquellas primeras luchas, las de niño. Primero la batalla contra el monstruo de debajo de la cama. Las lágrimas de miedo nocturno que se consolaban encendiendo una pequeña luz. No había que matar al mounstruo, solo teníamos que intimidarlo con la luz. Luego vino la batalla contra la timidez, ese otro monstruo que me sigue persiguiendo con muecas burlonas. No lo he matado, pero he aprendido a encenderle las luces del empeño para que su mueca demude en rictus inofensivo. 
 
 Así, cada lucha y cada batalla la he aprendido a superar encendiendo lucecitas. Aquí y allá, una y otra luz. Unas grandes y otras pequeñas. Unas tenues, como velas, y otras iridiscentes o con un brillo eléctrico. Lucesitas, esa es la clave. 
 
