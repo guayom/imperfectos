@@ -6,8 +6,8 @@ categories: blog
 excerpt_separator: <!--more-->
 title: 'Sobre Mysterium: Carlos Bonilla-MYSTERIUM SALUTIS'
 date: '2020-04-14T16:30:55-06:00'
-img: /images/portada.png
-thumb: /images/portada.png
+img: /images/hablan-de-2.png
+thumb: /images/hablan-de-2.png
 ---
 Estimado Jose:
 
