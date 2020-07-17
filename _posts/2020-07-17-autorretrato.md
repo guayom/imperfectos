@@ -9,9 +9,14 @@ date: '2020-07-17T00:09:33-06:00'
 img: /images/spanskesyke.jpg
 thumb: /images/spanskesyke.jpg
 ---
-Edvard Munch (1863-1944) fue un pintor noruego, de mis favoritos. Seguro que han visto su obra más conocida llamada "El grito".   <!--more-->\
+Edvard Munch (1863-1944) fue un pintor noruego, de mis favoritos. Seguro que han visto su obra más conocida llamada "El grito".   <!--more-->
+
+![](/images/el-grito-munch.jpg)
+
 \
-Pues bien, la que publico ahora se llama “Autorretrato después de la gripe española ”. La pintó un año después de haber padecido en carne propia la llamada "Gripe española" que no era sino AH1N1. La Gripe Española mató entre 1918 y 1920 a más de 40 millones de personas en todo el mundo.
+Pues bien, la que publico ahora se llama "Autorretrato después de la gripe española".  La pintó un año después de haber padecido en carne propia la llamada "Gripe española" que no era sino AH1N1. La Gripe Española mató entre 1918 y 1920 a más de 40 millones de personas en todo el mundo.
+
+![](/images/unnamed.jpg)
 
 Munch padeció largo tiempo la enfermedad y tuvo que permanecer aislado, con neumonía y sin asistencia durante todo el proceso. Un año después de su convalecencia pintó su Autorretrato. Se le ve débil, enfermo, sin fuerzas. Pero un año después contó su experiencia en la pintura.
 
