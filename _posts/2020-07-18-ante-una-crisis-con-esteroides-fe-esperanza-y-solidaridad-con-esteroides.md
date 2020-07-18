@@ -17,13 +17,13 @@ UNA FE CON ESTEROIDES
 
 Creer en nosotros como individuos, en nuestra sociedad como colectivo y nuestra democracia como sistema. Creer en Dios si somos creyentes, creer con esteroides. El ser humano ha logrado superar momentos de lucha como este, podemos confiar en nuestra capacidad humana para luchar y ganar.  Si somos creyentes en Dios, este momento histórico demanda de nosotros una verdadera fe robusta. Probablemente este sea el reto de fe colectiva más importante que enfrentamos como sociedad. Es el tipo de exigencia que enfrentó María von Wedemayer durante la Segunda Guerra Mundial: 
 
-_"Yo solo sé que cada día pienso que ya he llegado al límite; y, sin embargo, siempre me encuentro en mi interior con la exigencia de un todavía más" _
+"Yo solo sé que cada día pienso que ya he llegado al límite; y, sin embargo, siempre me encuentro en mi interior con la exigencia de un todavía más" 
 
 UNA ESPERANZA CON ESTEROIDES
 
-¿Qué esperamos de nuestros vecinos? ¿Y de la iglesia? Desde haxce mucho esperamos demasiado poco de todos. Casi no esperamos nada bueno del Gobierno de turno, del Alcalde o la Municipalidad, de los vecinos o de la sociedad en general.  Pues es tiempo de volver a poner nuestra esperanza en nuestra gente. La desconfianza mina el triunfo en cualquier guerra y ninguna guerra se ha ganado en solitario. Las guerras se ganan en grupo, en batallones, con ejércitos, los triunfos son colectivos o no lo son. Llega el momento de confiar de nuevo en el vecino, en la gente del barrio, en la gente de la ciudad y en toda nuestra sociedad. Yo espero mucho de cada uno y cada una, y, por eso, doy lo mejor de mí porque ellos deberían esperar mucho de mí en estos tiempos.  Es verdad que no todos los días tenemos la misma esperanza ni la misma fe, ya lo dijo Hermann Hesse:
+¿Qué esperamos de nuestros vecinos? ¿Y de la iglesia? Desde hace mucho esperamos demasiado poco de todos. Casi no esperamos nada bueno del Gobierno de turno, del Alcalde o la Municipalidad, de los vecinos o de la sociedad en general.  Pues es tiempo de volver a poner nuestra esperanza en nuestra gente. La desconfianza mina el triunfo en cualquier guerra y ninguna guerra se ha ganado en solitario. Las guerras se ganan en grupo, en batallones, con ejércitos, los triunfos son colectivos o no lo son. Llega el momento de confiar de nuevo en el vecino, en la gente del barrio, en la gente de la ciudad y en toda nuestra sociedad. Yo espero mucho de cada uno y cada una, y, por eso, doy lo mejor de mí porque ellos deberían esperar mucho de mí en estos tiempos.  Es verdad que no todos los días tenemos la misma esperanza ni la misma fe, ya lo dijo Hermann Hesse:
 
-_"Ningún ser humano conserva su fe todos los días y a cada hora con la misma pureza y vigor" _
+"Ningún ser humano conserva su fe todos los días y a cada hora con la misma pureza y vigor" 
 
 Pero cuando unos flquean los otros los sostienen y luego vendrá el relevo de la esperanza, cuando otros decaigan y nosotros los levantemos. 
 
