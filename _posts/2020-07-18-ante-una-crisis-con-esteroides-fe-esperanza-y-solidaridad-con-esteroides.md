@@ -9,7 +9,7 @@ date: '2020-07-18T13:29:22-06:00'
 img: /images/clark-tibbs-oqstl2l5oxi-unsplash.jpg
 thumb: /images/clark-tibbs-oqstl2l5oxi-unsplash.jpg
 ---
-Estamos en un momento de inflexión histórica. Y somos protagonistas. Supongamos que no existen esos personajes negacionistas, matones, que solo crean problemas y hacen zancadillas al proceso. Pensemos que todos y todas queremos contribuir a la batalla y ser parte de la solución.  Y, de hecho, creo que somos mayoría los que queremos luchar como uno solo para sacar al país adelante. 
+Estamos en un momento de inflexión histórica. Y somos protagonistas. Supongamos que no existen esos personajes negacionistas, matones, que solo crean problemas y hacen zancadillas al proceso. Pensemos que todos y todas queremos contribuir a la batalla y ser parte de la solución.  Y, de hecho, creo que somos mayoría los que queremos luchar como uno solo para sacar al país adelante. <!--more-->
 
 Ante ese escenario, reconociendo que estamos en una crisis con esteroides, es decir: Una crisis sin precedentes en Costa Rica, necesitamos una fe y esperanza con esteroides, es decir: Creer como nunca antes.  Creer en nosotros como individuos, en nuestra sociedad como colectivo y nuestra democracia como sistema. Creer en Dios si somos creyentes, creer con esteroides. 
 
@@ -21,9 +21,9 @@ _"Yo solo sé que cada día pienso que ya he llegado al límite; y, sin embargo,
 
 UNA ESPERANZA CON ESTEROIDES
 
-¿Qué esperamos de nuestros vecinos? ¿Y de la iglesia? Desde haxce mucho esperamos demasiado poco de todos. Casi no esperamos nada bueno del Gobierno de turno, del Alcalde o la Municipalidad, de los vecinos o de la sociedad en general.  Pues es tiempo de volver a poner nuestra esperanza en nuestra gente. La desconfianza mina el triunfo en cualquier guerra y ninguna guerra se ha ganado en solitario. Las guerras se ganan en grupo, en batallones, con ejércitos, los triunfos son colectivos o no lo son. Llega el momento de confiar de nuevo en el vecino, en la gente del barrio, en la gente de la ciudad y en toda nuestra sociedad. Yo espero mucho de cada uno y cada una, y, por eso, doy lo mejor de mí porque ellos deberían esperar mucho de mí en estos tiempos.  Es verdad que no todos los días tenemos la misma esperanza ni la misma fe, ya lo dijo Hermann Hesse: \
-\
-_ "Ningún ser humano conserva su fe todos los días y a cada hora con la misma pureza y vigor" _
+¿Qué esperamos de nuestros vecinos? ¿Y de la iglesia? Desde haxce mucho esperamos demasiado poco de todos. Casi no esperamos nada bueno del Gobierno de turno, del Alcalde o la Municipalidad, de los vecinos o de la sociedad en general.  Pues es tiempo de volver a poner nuestra esperanza en nuestra gente. La desconfianza mina el triunfo en cualquier guerra y ninguna guerra se ha ganado en solitario. Las guerras se ganan en grupo, en batallones, con ejércitos, los triunfos son colectivos o no lo son. Llega el momento de confiar de nuevo en el vecino, en la gente del barrio, en la gente de la ciudad y en toda nuestra sociedad. Yo espero mucho de cada uno y cada una, y, por eso, doy lo mejor de mí porque ellos deberían esperar mucho de mí en estos tiempos.  Es verdad que no todos los días tenemos la misma esperanza ni la misma fe, ya lo dijo Hermann Hesse:
+
+_"Ningún ser humano conserva su fe todos los días y a cada hora con la misma pureza y vigor" _
 
 Pero cuando unos flquean los otros los sostienen y luego vendrá el relevo de la esperanza, cuando otros decaigan y nosotros los levantemos. 
 
@@ -39,6 +39,4 @@ Robert Southwell (1561-1595) dijo "No vivo cuando respiro, sino cuando amo".  Y 
 
 \- **Recuerde quien lo ha ayudado en el pasado:** Yo he estado escribiéndole a todos los médicos que nos han ayudado en el pasado con la salud de nuestro hijo. Probablemente pensemos que ellos no necesitan nada, a fin de cuentas tienen trabajo. Pero están asustados y tienen familia. Pregúntele como están y si necesitan algo. 
 
-Una fe con esteroides. \
-Una esperanza con esteroides.\
-Una solidaridad con esteroides.
+Una fe con esteroides. Una esperanza con esteroides. Una solidaridad con esteroides.
