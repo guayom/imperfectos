@@ -15,10 +15,9 @@ thumb: /images/121h.jpg
 
 Es lo que dice Qoh, el escritor del libro de Eclesiastés en 8:15: 
 
-> 15 Por eso, me declaro en favor de la alegría. Y lo mejor que puede hacer el hombre en este mundo es comer, beber y divertirse, porque eso es lo único que le queda de su trabajo en los días de vida que Dios le da en este mundo. (DHH)
+> _1_
 >
-> _
-> _
+> 5 Por eso, me declaro en favor de la alegría. Y lo mejor que puede hacer el hombre en este mundo es comer, beber y divertirse, porque eso es lo único que le queda de su trabajo en los días de vida que Dios le da en este mundo. (DHH)
 
 Otra traducción (NVI) dice: ¡Celebro la alegría! En medio de su descarnado pesimismo, Qoh, nos brinda un verdadero Elogio a la Alegría. 
 
