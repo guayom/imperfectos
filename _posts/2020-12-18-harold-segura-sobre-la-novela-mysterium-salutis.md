@@ -25,8 +25,6 @@ thumb: /images/5c9390b042786_haroldsg.jpg
 
 “Un cadáver o algo similar a un cadáver, yacía sin vida en aquel suelo brillante y pulcro de la oficina, la mañana del 26 de febrero de 2007 en la embajada de Alemania. El trozo de cuerpo estaba desnudo, dentro de una bolsa negra, con un nudo flojo en su abertura”. Así se introduce la trama de la novela escrita por Jose Chacón, escritor costarricense quien, después de incursionar en textos ensayísticos con temas teológicos, ahora lo hace, y con admirable capacidad estilística, en la novela histórica, encuadrada en ambientes de fanatismo religioso que van, desde los vividos en las reformas protestantes de los siglos XVI y XVII hasta los más recientes. 
 
-![](/images/previo-5.jpg)
-
 Mysterium Salutis, tiene algo, o mucho, de novela policíaca, o negra, según calificaba a este género el escritor estadounidense Raymond Chandler. La de Chacón, si nos detuviéramos en esas primeras líneas introductorias, es una de ellas: hay intriga, misterio y un sinfín de incógnitos sucesos que mantienen la atención de sus lectores y lectoras. Fue publicada en Costa Rica en marzo de 2020, en pleno período de confinamiento por la pandemia y clasificada por los editores como novela de ficción clásica.
 
 Si de gustos hablamos, hay para todos: para quienes se entretienen con los acertijos etimológicos de los idiomas, incluyendo los más extraños, como aquel que se le atribuye a Hildegarda de Bingen, una mística alemana de los siglos XI y XII. Una lengua ignota creada por ella. Y, entre lenguas difíciles, aunque hermosas, se alude al euskera, el idioma más antiguo del que se tenga memoria. 
@@ -42,6 +40,3 @@ En ese perfil, en mi opinión, está la llave que ayuda a abrir las puertas para
 Con esta causa en la mano, Jose Chacón, despliega por medio de sus páginas, la bandera de una fe distinta a las que incendiaron a la Europa de siglos anteriores y quieren hacer arder a las sociedades de hoy. ¡No a la intolerancia en Nombre de Dios!, pareciera ser el texto que se apunta en su bandera. 
 
 Uno de los personajes que corre desesperado, con la cara bañada de sangre y sin un brazo, grita en medio de su carrera “¿Dónde está Dios? ¿Dónde está Dios?” (p.129). Es la pregunta que me hago ahora que he terminado la novela. Me respondo, al igual que el autor, que Dios sigue aquí, lidiando para que la buena noticia del Evangelio, no siga sirviendo de excusa para “siniestros mecanismos de evangelización que tanto daño han hecho y pueden hacer” (p.341). “¡Tendremos que seguir alerta!”
-
-Puede adquirir la novela en Librerías Lehmann, Librería Andante, Amazon o escribiendo al whatsapp +506 6050-0416\
-www.josechacon.org
