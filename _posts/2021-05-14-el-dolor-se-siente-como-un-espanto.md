@@ -41,7 +41,7 @@ Salah Udin Awada hizo una pausa, miró por la ven- tana y continuó:
 
 –Supongo que sería fabuloso señor Awada, el mundo necesita reconciliación.
 
-–Oficial Anke –concluyó Salah Udin Awada abrien- do bien los ojos–. Liese no era la misma últimamente. 
+–Oficial Anke –concluyó Salah Udin Awada abriendo bien los ojos–. Liese no era la misma últimamente. 
 
 –¿Qué quiere decir?
 
