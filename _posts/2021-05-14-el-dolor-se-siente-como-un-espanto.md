@@ -37,11 +37,11 @@ thumb: /images/csm_2021lvbywald1_f835c7faf1.jpg
 
 Salah Udin Awada hizo una pausa, miró por la ven- tana y continuó:
 
-–Cerca de aquí hay un cementerio que siempre me ha llamado mucho la atención. El Kriegsgräbers- tätte Tischlerstraße. Es un cementerio peculiar. En él yacen más de 3 mil soldados, una parte de ellos tenían cautiva la ciudad durante la Segunda Guerra Mundial, la otra parte de ellos la liberó. Tanto unos como otros fueron enterrados en el mismo lugar. Ese es un lugar para la reflexión y la recon- ciliación. ¿Se imagina si existieran lugares como ese en cada lugar donde se necesite reconciliación? 
+–Cerca de aquí hay un cementerio que siempre me ha llamado mucho la atención. El Kriegsgräberstätte Tischlerstraße. Es un cementerio peculiar. En él yacen más de 3 mil soldados, una parte de ellos tenían cautiva la ciudad durante la Segunda Guerra Mundial, la otra parte de ellos la liberó. Tanto unos como otros fueron enterrados en el mismo lugar. Ese es un lugar para la reflexión y la recon- ciliación. ¿Se imagina si existieran lugares como ese en cada lugar donde se necesite reconciliación? 
 
 –Supongo que sería fabuloso señor Awada, el mundo necesita reconciliación.
 
-–Oficial Anke –concluyó Salah Udin Awada abrien- do bien los ojos–. Liese no era la misma últimamente. 
+–Oficial Anke –concluyó Salah Udin Awada abriendo bien los ojos–. Liese no era la misma últimamente. 
 
 –¿Qué quiere decir?
 
