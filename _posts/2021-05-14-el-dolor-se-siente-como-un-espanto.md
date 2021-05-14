@@ -13,7 +13,7 @@ thumb: /images/csm_2021lvbywald1_f835c7faf1.jpg
 
 –No se preocupe señor Awada, procuro comprenderlo.
 
-–Lamentablemente, para cuando descubrimos lo que sentíamos el uno por el otro yo tenía que mar- char a Inglaterra, a la Guildhall School of Music and Drama de Londres. Nos escribimos mucho y nos visitamos un par de veces. Recuerdo que un verano visité a Liese en su casa de Múnich. Imagínese cuando aparecí por ahí con este pelo y esta barba, claro y con este nombre. Juré que Gerda había quedado muda al verme a mí, dijo riendo. Fue un tiempo emocionalmente difícil. Tres largos años en los que terminábamos y regresábamos en un agotador círculo sin fin. Una especie de montaña rusa, como dicen. En 1995 yo regresé a Alemania, pero ella ya no estaba en Hannover sino en Múnich. Pero, como dijo hoy el sacerdote, el amor nunca deja de ser y todo lo soporta. Nos casamos en 1998 cuando ella ya tenía 36 años y yo 27.  No teníamos nada. Un cuarto, un colchón sin cama y un par de cosas más. Tengo que estar muy agradecido con Gerda.  Cuando entró por primera vez a nuestro apartamento pareció quedarle estrecho dada la estatura de su presencia. 
+–Lamentablemente, para cuando descubrimos lo que sentíamos el uno por el otro yo tenía que marchar a Inglaterra, a la Guildhall School of Music and Drama de Londres. Nos escribimos mucho y nos visitamos un par de veces. Recuerdo que un verano visité a Liese en su casa de Múnich. Imagínese cuando aparecí por ahí con este pelo y esta barba, claro y con este nombre. Juré que Gerda había quedado muda al verme a mí, dijo riendo. Fue un tiempo emocionalmente difícil. Tres largos años en los que terminábamos y regresábamos en un agotador círculo sin fin. Una especie de montaña rusa, como dicen. En 1995 yo regresé a Alemania, pero ella ya no estaba en Hannover sino en Múnich. Pero, como dijo hoy el sacerdote, el amor nunca deja de ser y todo lo soporta. Nos casamos en 1998 cuando ella ya tenía 36 años y yo 27.  No teníamos nada. Un cuarto, un colchón sin cama y un par de cosas más. Tengo que estar muy agradecido con Gerda.  Cuando entró por primera vez a nuestro apartamento pareció quedarle estrecho dada la estatura de su presencia. 
 
 –Señor Awada, una última curiosidad –dijo Anke tocándose los diminutos labios–. Si Liese era cristiana y usted es musulmán, ¿no tuvieron conflicto con eso? 
 
@@ -25,19 +25,19 @@ thumb: /images/csm_2021lvbywald1_f835c7faf1.jpg
 
 –¿A qué se refiere específicamente?
 
-–La noche del 16 al 17 de septiembre de 1982, hu- bo una masacre en los campamentos de refugiados palestinos de Sabra y Chatila al sur del Líbano. La historia que casi prevalece relataba lo sucedido como una reacción espontánea y exacerbada de la milicia cristiana denominada “Falange libanesa”, luego del asesinato, el 14 de septiembre, del líder cristiano maronita y mandatario electo libanés Bashir Gemayel. 
+–La noche del 16 al 17 de septiembre de 1982, hubo una masacre en los campamentos de refugiados palestinos de Sabra y Chatila al sur del Líbano. La historia que casi prevalece relataba lo sucedido como una reacción espontánea y exacerbada de la milicia cristiana denominada “Falange libanesa”, luego del asesinato, el 14 de septiembre, del líder cristiano maronita y mandatario electo libanés Bashir Gemayel. 
 
 –¿Y no fue así?
 
-–No exactamente. Hubo una orquestación entre cristianos libaneses y el ejército israelí. La primera unidad de 150 falangistas cristianos, armados con pistolas, rifles, cuchillos, machetes y hachas entra ron cuando anochecía, a eso de las seis de la tarde e iniciaron la masacre casa por casa, puerta por puerta. Mujeres, niños, ancianos, todos civiles fueron asesinados sin piedad. Hubo violaciones, mutilaciones y torturas. Unas cuantas horas bastaron para crear un infierno para más de 2 000 palestinos. Durante la noche las fuerzas israelíes dispararon bengalas ilu- minando los campamentos para que los falangistas mataran a gusto. El campamento estuvo tan brillante como un estadio de fútbol durante un partido.
+–No exactamente. Hubo una orquestación entre cristianos libaneses y el ejército israelí. La primera unidad de 150 falangistas cristianos, armados con pistolas, rifles, cuchillos, machetes y hachas entra ron cuando anochecía, a eso de las seis de la tarde e iniciaron la masacre casa por casa, puerta por puerta. Mujeres, niños, ancianos, todos civiles fueron asesinados sin piedad. Hubo violaciones, mutilaciones y torturas. Unas cuantas horas bastaron para crear un infierno para más de 2 000 palestinos. Durante la noche las fuerzas israelíes dispararon bengalas iluminando los campamentos para que los falangistas mataran a gusto. El campamento estuvo tan brillante como un estadio de fútbol durante un partido.
 
 –¡Qué horror!
 
 –Tienes que leer el relato de Jean Genet llamado “Cuatro horas en Chatila”.
 
-Salah Udin Awada hizo una pausa, miró por la ven- tana y continuó:
+Salah Udin Awada hizo una pausa, miró por la ventana y continuó:
 
-–Cerca de aquí hay un cementerio que siempre me ha llamado mucho la atención. El Kriegsgräberstätte Tischlerstraße. Es un cementerio peculiar. En él yacen más de 3 mil soldados, una parte de ellos tenían cautiva la ciudad durante la Segunda Guerra Mundial, la otra parte de ellos la liberó. Tanto unos como otros fueron enterrados en el mismo lugar. Ese es un lugar para la reflexión y la recon- ciliación. ¿Se imagina si existieran lugares como ese en cada lugar donde se necesite reconciliación? 
+–Cerca de aquí hay un cementerio que siempre me ha llamado mucho la atención. El Kriegsgräberstätte Tischlerstraße. Es un cementerio peculiar. En él yacen más de 3 mil soldados, una parte de ellos tenían cautiva la ciudad durante la Segunda Guerra Mundial, la otra parte de ellos la liberó. Tanto unos como otros fueron enterrados en el mismo lugar. Ese es un lugar para la reflexión y la reconciliación. ¿Se imagina si existieran lugares como ese en cada lugar donde se necesite reconciliación? 
 
 –Supongo que sería fabuloso señor Awada, el mundo necesita reconciliación.
 
@@ -45,13 +45,14 @@ Salah Udin Awada hizo una pausa, miró por la ven- tana y continuó:
 
 –¿Qué quiere decir?
 
-–Parecía deprimida. Hablaba muy poco y estaba muy irritable. Honestamente era como cuando Bruno la acosaba. Estaba nerviosa, dormía poco o nada y dejaba de comer por días enteros, como si ayunara cons- tantemente. Soy un desastre oficial. No intuí esto. Lo dejé pasar. Pero ahora comprendo que algo grave le estaba pasando a Liese. Por favor, averígüelo. 
+–Parecía deprimida. Hablaba muy poco y estaba muy irritable. Honestamente era como cuando Bruno la acosaba. Estaba nerviosa, dormía poco o nada y dejaba de comer por días enteros, como si ayunara cons tantemente. Soy un desastre oficial. No intuí esto. Lo dejé pasar. Pero ahora comprendo que algo grave le estaba pasando a Liese. Por favor, averígüelo. 
 
 –Señor Awada, le prometo que hacemos todo lo que está en nuestras manos para saber lo que le sucedió a Liese.
 
 \_\_\_\_\_\__
 
 De las páginas 218 a 221 de Mysterium Salutis\
+\
 www.josechacon.org
 
 ![null](/images/portada-2ed.jpeg)
