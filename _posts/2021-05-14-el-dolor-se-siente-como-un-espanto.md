@@ -54,4 +54,4 @@ Salah Udin Awada hizo una pausa, miró por la ven- tana y continuó:
 De las páginas 218 a 221 de Mysterium Salutis\
 www.josechacon.org
 
-![](/images/portada-2ed.jpeg)
+![null](/images/portada-2ed.jpeg)
